@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Tue, 01 Oct 2024 08:40:32 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Mon, 30 Sep 2024 08:40:32 GMT
+Set-Cookie: MTUserInfo=firstName&&username&jojo7&address2&&hash&87&address1&&lastName&%0A; path=/
+Keep-Alive: timeout=5, max=90
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

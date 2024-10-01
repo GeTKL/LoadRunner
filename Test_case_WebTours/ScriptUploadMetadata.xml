@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>WebTours_Test1</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="WebTours_Test1.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="WebTours_Test1.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="WebSocketBuffer.h" Filter="2" />
+    <FileEntry Name="WebSocketCB.c" Filter="2" />
+    <FileEntry Name="combined_WebTours_Test1.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="144132312440.idx" Filter="1" />
+    <FileEntry Name="181393619440.idx" Filter="1" />
+    <FileEntry Name="49067581440.idx" Filter="1" />
+    <FileEntry Name="4906758144_0HJ.883.idx" Filter="1" />
+    <FileEntry Name="4906758144_0Iz.691.idx" Filter="1" />
+    <FileEntry Name="4906758144_4o6.521.idx" Filter="1" />
+    <FileEntry Name="4906758144_7FQ.647.idx" Filter="1" />
+    <FileEntry Name="4906758144_bdv.251.idx" Filter="1" />
+    <FileEntry Name="4906758144_bGS.363.idx" Filter="1" />
+    <FileEntry Name="4906758144_DFo.855.idx" Filter="1" />
+    <FileEntry Name="4906758144_DXm.215.idx" Filter="1" />
+    <FileEntry Name="4906758144_FD8.825.idx" Filter="1" />
+    <FileEntry Name="4906758144_fzW.183.idx" Filter="1" />
+    <FileEntry Name="4906758144_GDV.423.idx" Filter="1" />
+    <FileEntry Name="4906758144_GLn.959.idx" Filter="1" />
+    <FileEntry Name="4906758144_HNe.321.idx" Filter="1" />
+    <FileEntry Name="4906758144_ibJ.245.idx" Filter="1" />
+    <FileEntry Name="4906758144_iEh.197.idx" Filter="1" />
+    <FileEntry Name="4906758144_j2t.87.idx" Filter="1" />
+    <FileEntry Name="4906758144_jH1.897.idx" Filter="1" />
+    <FileEntry Name="4906758144_jPQ.585.idx" Filter="1" />
+    <FileEntry Name="4906758144_JXY.899.idx" Filter="1" />
+    <FileEntry Name="4906758144_Kah.223.idx" Filter="1" />
+    <FileEntry Name="4906758144_Nud.851.idx" Filter="1" />
+    <FileEntry Name="4906758144_p67.769.idx" Filter="1" />
+    <FileEntry Name="4906758144_PL9.273.idx" Filter="1" />
+    <FileEntry Name="4906758144_Q9g.549.idx" Filter="1" />
+    <FileEntry Name="4906758144_qLE.435.idx" Filter="1" />
+    <FileEntry Name="4906758144_QrD.267.idx" Filter="1" />
+    <FileEntry Name="4906758144_TEj.159.idx" Filter="1" />
+    <FileEntry Name="4906758144_TfL.871.idx" Filter="1" />
+    <FileEntry Name="4906758144_tNV.927.idx" Filter="1" />
+    <FileEntry Name="4906758144_Umu.41.idx" Filter="1" />
+    <FileEntry Name="4906758144_wVE.147.idx" Filter="1" />
+    <FileEntry Name="4906758144_Wzv.325.idx" Filter="1" />
+    <FileEntry Name="4906758144_ygJ.465.idx" Filter="1" />
+    <FileEntry Name="4906758144_YgW.857.idx" Filter="1" />
+    <FileEntry Name="4906758144_YyU.95.idx" Filter="1" />
+    <FileEntry Name="4906758144_ZHP.25.idx" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="firstName.dat" Filter="1" />
+    <FileEntry Name="lastName.dat" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="NewParam(1).dat" Filter="1" />
+    <FileEntry Name="NewParam.dat" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="WebTours_Test1.c.pickle" Filter="1" />
+    <FileEntry Name="WebTours_Test1.ci" Filter="1" />
+    <FileEntry Name="WebTours_Test1.prm.bak" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>
