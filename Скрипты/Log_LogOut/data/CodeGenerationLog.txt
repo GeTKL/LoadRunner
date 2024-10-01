@@ -1,0 +1,2789 @@
+****** Start Log Message ******
+Web Recorder version : 2020.0.0.793 
+Recording Mode: HTML-based script
+Recording headers not in list:
+	accept
+	accept-charset
+	accept-encoding
+	accept-language
+	accept-ranges
+	age
+	allow
+	cache-control
+	content-base
+	content-disposition
+	content-encoding
+	content-language
+	content-location
+	content-md5
+	content-range
+	content-type
+	date
+	etag
+	expires
+	from
+	if-modified-since
+	if-match
+	if-none-match
+	if-range
+	if-unmodified-since
+	location
+	last-modified
+	max-forwards
+	pragma
+	public
+	range
+	retry-after
+	server
+	transfer-encoding
+	upgrade
+	user-agent
+	vary
+	via
+	warning
+	method
+	path
+	scheme
+Not excluding content types
+Do not record this content types as a resource:
+	text/html
+	text/xml
+	application/json
+Reset context between actions
+Record non-HTML elements in current HTML function
+Protocol Type: Multi-QTWeb
+
+$$$$$$ End Log Message $$$$$$
+
+Code generation version: 2020.0.0.793
+
+****** Analyze segments filter initialization ******
+[Traffic Filtering] Filtering 34.107.221.82
+[Traffic Filtering] Filtering 34.107.221.82
+[Traffic Filtering] Filtering 34.107.221.82
+[Traffic Filtering] Filtering 34.107.221.82
+[Traffic Filtering] Filtering 34.117.188.166
+[Traffic Filtering] Filtering 34.117.188.166
+[Traffic Filtering] Filtering 34.117.188.166
+[Traffic Filtering] Filtering 34.117.188.166
+[Traffic Filtering] Filtering 34.149.100.209
+[Traffic Filtering] Filtering 34.149.100.209
+[Traffic Filtering] Filtering 34.149.100.209
+[Traffic Filtering] Filtering 34.149.100.209
+[Traffic Filtering] Filtering 34.160.144.191
+[Traffic Filtering] Filtering 34.117.121.53
+[Traffic Filtering] Filtering 34.160.144.191
+[Traffic Filtering] Filtering 34.117.121.53
+[Traffic Filtering] Filtering 34.160.144.191
+[Traffic Filtering] Filtering 34.117.121.53
+[Traffic Filtering] Filtering 34.160.144.191
+[Traffic Filtering] Filtering 34.117.121.53
+[Traffic Filtering] Filtering 34.107.243.93
+[Traffic Filtering] Filtering 34.107.243.93
+[Traffic Filtering] Filtering 34.107.243.93
+[Traffic Filtering] Filtering 34.107.243.93
+[Traffic Filtering] Filtering 34.120.208.123
+[Traffic Filtering] Filtering 34.120.208.123
+[Traffic Filtering] Filtering 34.120.208.123
+[Traffic Filtering] Filtering 34.120.208.123
+[Traffic Filtering] Filtering 35.244.181.201
+[Traffic Filtering] Filtering 35.244.181.201
+[Traffic Filtering] Filtering 35.244.181.201
+[Traffic Filtering] Filtering 35.244.181.201
+[Traffic Filtering] Filtering detectportal.firefox.com
+****** Request Header For Transaction With Id 140 ******
+GET /canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 140 Ended $$$$$$
+
+****** Response Header For Transaction With Id 140 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Length: 90
+Via: 1.1 google
+Date: Mon, 30 Sep 2024 03:17:13 GMT
+Age: 69492
+Content-Type: text/html
+Cache-Control: public,must-revalidate,max-age=0,s-maxage=3600
+
+
+$$$$$$ Response Header For Transaction With Id 140 Ended $$$$$$
+
+****** Response Body For Transaction With Id 140 ******
+<meta http-equiv="refresh" content="0;url=https://support.mozilla.org/kb/captive-portal"/>
+$$$$$$ Response Body For Transaction With Id 140 Ended $$$$$$
+
+[Traffic Filtering] Filtering 34.120.208.123
+[Traffic Filtering] Filtering 34.120.208.123
+[Traffic Filtering] Filtering 2.23.167.179
+[Traffic Filtering] Filtering 2.20.255.114
+[Traffic Filtering] Filtering 142.251.143.35
+[Traffic Filtering] Filtering 2.23.167.179
+[Traffic Filtering] Filtering 142.251.143.35
+[Traffic Filtering] Filtering 2.20.255.114
+[Traffic Filtering] Filtering 142.251.143.35
+[Traffic Filtering] Filtering 2.23.167.179
+[Traffic Filtering] Filtering 142.251.143.35
+[Traffic Filtering] Filtering 2.20.255.114
+[Traffic Filtering] Filtering 192.229.221.95
+[Traffic Filtering] Filtering 2.23.167.179
+[Traffic Filtering] Filtering 2.23.167.179
+[Traffic Filtering] Filtering 192.229.221.95
+[Traffic Filtering] Filtering 2.20.255.114
+[Traffic Filtering] Filtering 2.20.255.114
+[Traffic Filtering] Filtering 192.229.221.95
+[Traffic Filtering] Filtering 2.23.167.179
+[Traffic Filtering] Filtering 192.229.221.95
+[Traffic Filtering] Filtering 2.20.255.114
+[Traffic Filtering] Filtering 2.23.167.179
+[Traffic Filtering] Filtering 2.20.255.114
+[Traffic Filtering] Filtering 2.23.167.179
+[Traffic Filtering] Filtering 2.20.255.114
+[Traffic Filtering] Filtering detectportal.firefox.com
+****** Request Header For Transaction With Id 267 ******
+GET /success.txt?ipv4 HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 267 Ended $$$$$$
+
+****** Response Header For Transaction With Id 267 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Length: 8
+Via: 1.1 google
+Date: Mon, 30 Sep 2024 03:37:50 GMT
+Age: 68274
+Content-Type: text/plain
+Cache-Control: public,must-revalidate,max-age=0,s-maxage=3600
+
+
+$$$$$$ Response Header For Transaction With Id 267 Ended $$$$$$
+
+****** Response Body For Transaction With Id 267 ******
+success
+
+$$$$$$ Response Body For Transaction With Id 267 Ended $$$$$$
+
+[Traffic Filtering] Filtering 34.107.243.93
+[Traffic Filtering] Filtering 34.107.243.93
+[Traffic Filtering] Filtering r10.o.lencr.org
+****** Request Header For Transaction With Id 277 ******
+POST / HTTP/1.1
+Host: r10.o.lencr.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 85
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 277 Ended $$$$$$
+
+****** Request Body For Transaction With Id 277 ******
+0S0Q0O0M0K0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14t\x02F\xF2Z\\B\x12 \xB5\xBD]v	\xA6\xBA\\\xA3G\xDF\x04\x14$\xF2.N\x0F\xBD\xCA\xF7>)U\xCAr\x8Di\x87VD\xE9z\x02\x12\x04\x1E\xE5)\xEDk\x8B\xFA|p\x88\xA9\\R\x92p\xDC\x95
+$$$$$$ Request Body For Transaction With Id 277 Ended $$$$$$
+
+****** Response Header For Transaction With Id 277 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: application/ocsp-response
+Content-Length: 5
+Cache-Control: no-cache
+Expires: Mon, 30 Sep 2024 22:35:49 GMT
+Date: Mon, 30 Sep 2024 22:35:49 GMT
+Connection: keep-alive
+
+
+$$$$$$ Response Header For Transaction With Id 277 Ended $$$$$$
+
+****** Response Body For Transaction With Id 277 ******
+0\x03
+\x01\x06
+$$$$$$ Response Body For Transaction With Id 277 Ended $$$$$$
+
+[Traffic Filtering] Filtering 35.201.103.21
+[Traffic Filtering] Filtering 35.201.103.21
+[Traffic Filtering] Filtering 35.201.103.21
+[Traffic Filtering] Filtering 35.201.103.21
+[Traffic Filtering] Filtering 3.164.206.78
+[Traffic Filtering] Filtering 3.164.206.5
+[Traffic Filtering] Filtering 3.164.206.61
+[Traffic Filtering] Filtering 3.164.206.48
+[Traffic Filtering] Filtering 3.164.206.78
+[Traffic Filtering] Filtering 3.164.206.5
+[Traffic Filtering] Filtering 3.164.206.61
+[Traffic Filtering] Filtering 3.164.206.48
+[Traffic Filtering] Filtering 3.164.206.78
+[Traffic Filtering] Filtering 3.164.206.5
+[Traffic Filtering] Filtering 3.164.206.61
+[Traffic Filtering] Filtering 3.164.206.48
+[Traffic Filtering] Filtering 3.164.206.78
+[Traffic Filtering] Filtering 3.164.206.5
+[Traffic Filtering] Filtering 3.164.206.61
+[Traffic Filtering] Filtering 3.164.206.48
+[Traffic Filtering] Filtering o.pki.goog
+****** Request Header For Transaction With Id 307 ******
+POST /wr2 HTTP/1.1
+Host: o.pki.goog
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 83
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 307 Ended $$$$$$
+
+****** Request Body For Transaction With Id 307 ******
+0Q0O0M0K0I0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14t\x02F\xF2Z\\B\x12 \xB5\xBD]v	\xA6\xBA\\\xA3G\xDF\x04\x14$\xF2.N\x0F\xBD\xCA\xF7>)U\xCAr\x8Di\x87VD\xE9z\x02\x10LJ\xF03&\xA0\x1A\x80	
+o\xC71~b\xBC
+$$$$$$ Request Body For Transaction With Id 307 Ended $$$$$$
+
+****** Response Header For Transaction With Id 307 ******
+HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Cache-Control: public, max-age=300
+Date: Mon, 30 Sep 2024 22:35:54 GMT
+Server: ocsp_responder
+Content-Length: 5
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+
+$$$$$$ Response Header For Transaction With Id 307 Ended $$$$$$
+
+****** Response Body For Transaction With Id 307 ******
+0\x03
+\x01\x06
+$$$$$$ Response Body For Transaction With Id 307 Ended $$$$$$
+
+[Traffic Filtering] Filtering r10.o.lencr.org
+****** Request Header For Transaction With Id 310 ******
+POST / HTTP/1.1
+Host: r10.o.lencr.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 85
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 310 Ended $$$$$$
+
+****** Request Body For Transaction With Id 310 ******
+0S0Q0O0M0K0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14i\x0F\xE4\x15g\xEDo\x7F\xB54Dd\x06\x06o	g\x07qr\x04\x14t\xA4v)\x17\x18T\x8517\xBEg\xE6\x06X\xC0\xBC\xC5\x05r\x02\x12\x04\xAFc\xC8\x9F\xB3i>\xF2\x86\x05\xED#\x80\xCD\xA0\xC4X
+$$$$$$ Request Body For Transaction With Id 310 Ended $$$$$$
+
+****** Response Header For Transaction With Id 310 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: application/ocsp-response
+Content-Length: 504
+ETag: "3DB1DABEAF4842AA799655A0A3DBD63604239722A6BF311B88D42A025AA3C123"
+Last-Modified: Mon, 30 Sep 2024 15:53:00 UTC
+Cache-Control: public, no-transform, must-revalidate, max-age=3019
+Expires: Mon, 30 Sep 2024 23:26:13 GMT
+Date: Mon, 30 Sep 2024 22:35:54 GMT
+Connection: keep-alive
+
+
+$$$$$$ Response Header For Transaction With Id 310 Ended $$$$$$
+
+****** Response Body For Transaction With Id 310 ******
+0\x82\x01\xF4
+\x01\x00\xA0\x82\x01\xED0\x82\x01\xE9\x06	+\x06\x01\x05\x05\x070\x01\x01\x04\x82\x01\xDA0\x82\x01\xD60\x81\xBF\xA15031\x0B0	\x06\x03U\x04\x06\x13\x02US1\x160\x14\x06\x03U\x04
+\x13Let's Encrypt1\x0C0
+\x06\x03U\x04\x03\x13\x03R10\x18\x0F20240930155300Z0u0s0K0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14i\x0F\xE4\x15g\xEDo\x7F\xB54Dd\x06\x06o	g\x07qr\x04\x14t\xA4v)\x17\x18T\x8517\xBEg\xE6\x06X\xC0\xBC\xC5\x05r\x02\x12\x04\xAFc\xC8\x9F\xB3i>\xF2\x86\x05\xED#\x80\xCD\xA0\xC4X\x80\x00\x18\x0F20240930155300Z\xA0\x11\x18\x0F20241007155258Z0\x06	*\x86H\x86\xF7\x01\x01\x0B\x05\x00\x03\x82\x01\x01\x00\xBA_Z#\xD9\xA6\xA5yC\xF3H\xFCm\x07\xEC\xD6\x83f\xF5g{\x88 )9K
+%\xEE\xB7\x85\xA4\xFD\x9A2\xB9\xA4\xB3\xDA\xB1g\xE5}\x87\xDB\xC5\x15\x1B\xB4y\xCE\xB3\xF6\x98$v\xC67xEP\x92\xE9\xDD\xA7f\x1A\xB2\xC1k\xEA\x87:\x98\xA8\xEF\x87%\x9B\xED\xC6;P\xD4^\xBF\xEB\xFAvs?V\xE4\xDD\x8B\xCDgFr\xD6\xCE\xF1\xA2\xE14\xF0_\xC3\xBA[\xD6\xB3\xD9\xF6\xBC\x18"\x01\x06\x1DoY\xBC\x8B\x8A\x81\xAD\xA3\xA4\xF5\xCA\xBE\xF5\xCD:\xC8\xEF\xB1\xB9\xF7TBIb\xE0\xFD~\x85;\xADE\xD5\x10\x93\xC7\xC6x\xC3\x9DWo\xE9\x0C\x0E!D\xDE	v/XE\xDC\xC7Kq\xE5\xF3\xC5?ck<\xE6\x83\x08\xCD(=\xA8\xBDy\xB8\xF6\x8E\x8E\xBF\xA3F\xC2\xB6\xB1\xB3\xA7pR\x9D\xA6Uy\x10'\xDA\x17\x17!8\x02\x00\xD8$	\xA2Jg\x9E\xC7\xB1\x1Fxe\xE6\xB2\xAFQ\xCF\x064A\xF7\x8E`\x80\x14n$\x9A\x82h\xA9\xC9\x90\xFB\x91
+$$$$$$ Response Body For Transaction With Id 310 Ended $$$$$$
+
+[Traffic Filtering] Filtering r11.o.lencr.org
+****** Request Header For Transaction With Id 312 ******
+POST / HTTP/1.1
+Host: r11.o.lencr.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 85
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 312 Ended $$$$$$
+
+****** Request Body For Transaction With Id 312 ******
+0S0Q0O0M0K0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14t\x02F\xF2Z\\B\x12 \xB5\xBD]v	\xA6\xBA\\\xA3G\xDF\x04\x14$\xF2.N\x0F\xBD\xCA\xF7>)U\xCAr\x8Di\x87VD\xE9z\x02\x12\x03\xD5{\x97\xED\x06\x8EE!\xFE\x9AX\xE6\x9F\x1D\x07\xD9\xF7
+$$$$$$ Request Body For Transaction With Id 312 Ended $$$$$$
+
+****** Response Header For Transaction With Id 312 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: application/ocsp-response
+Content-Length: 5
+Cache-Control: no-cache
+Expires: Mon, 30 Sep 2024 22:35:54 GMT
+Date: Mon, 30 Sep 2024 22:35:54 GMT
+Connection: keep-alive
+
+
+$$$$$$ Response Header For Transaction With Id 312 Ended $$$$$$
+
+****** Response Body For Transaction With Id 312 ******
+0\x03
+\x01\x06
+$$$$$$ Response Body For Transaction With Id 312 Ended $$$$$$
+
+[Traffic Filtering] Filtering ocsp.digicert.com
+****** Request Header For Transaction With Id 335 ******
+POST / HTTP/1.1
+Host: ocsp.digicert.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 83
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 335 Ended $$$$$$
+
+****** Request Body For Transaction With Id 335 ******
+0Q0O0M0K0I0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14t\x02F\xF2Z\\B\x12 \xB5\xBD]v	\xA6\xBA\\\xA3G\xDF\x04\x14$\xF2.N\x0F\xBD\xCA\xF7>)U\xCAr\x8Di\x87VD\xE9z\x02\x10\x01\xE0c\x8B\x9A\xDF\x9CB\x9B\x90\xA4n\xB9\x86\x06\x06
+$$$$$$ Request Body For Transaction With Id 335 Ended $$$$$$
+
+****** Response Header For Transaction With Id 335 ******
+HTTP/1.1 200 OK
+Cache-Control: max-age=600
+Content-Type: application/ocsp-response
+Date: Mon, 30 Sep 2024 22:35:58 GMT
+Server: ECAcc (amb/6B38)
+Content-Length: 5
+
+
+$$$$$$ Response Header For Transaction With Id 335 Ended $$$$$$
+
+****** Response Body For Transaction With Id 335 ******
+0\x03
+\x01\x06
+$$$$$$ Response Body For Transaction With Id 335 Ended $$$$$$
+
+[Traffic Filtering] Filtering r10.o.lencr.org
+****** Request Header For Transaction With Id 337 ******
+POST / HTTP/1.1
+Host: r10.o.lencr.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 85
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 337 Ended $$$$$$
+
+****** Request Body For Transaction With Id 337 ******
+0S0Q0O0M0K0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14t\x02F\xF2Z\\B\x12 \xB5\xBD]v	\xA6\xBA\\\xA3G\xDF\x04\x14$\xF2.N\x0F\xBD\xCA\xF7>)U\xCAr\x8Di\x87VD\xE9z\x02\x12\x03i"\xE9\xFBXVG\x04\xA2Z\x0BD\xFC\xBFC\xE4f
+$$$$$$ Request Body For Transaction With Id 337 Ended $$$$$$
+
+****** Response Header For Transaction With Id 337 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: application/ocsp-response
+Content-Length: 5
+Cache-Control: no-cache
+Expires: Mon, 30 Sep 2024 22:35:59 GMT
+Date: Mon, 30 Sep 2024 22:35:59 GMT
+Connection: keep-alive
+
+
+$$$$$$ Response Header For Transaction With Id 337 Ended $$$$$$
+
+****** Response Body For Transaction With Id 337 ******
+0\x03
+\x01\x06
+$$$$$$ Response Body For Transaction With Id 337 Ended $$$$$$
+
+[Traffic Filtering] Filtering firefox.settings.services.mozilla.com
+****** Request Header For Transaction With Id 343 ******
+GET /v1/buckets/main/collections/ms-language-packs/records/cfr-v1-ru HTTP/1.1
+Host: firefox.settings.services.mozilla.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: application/json
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Content-Type: application/json
+Connection: keep-alive
+Priority: u=4
+
+
+$$$$$$ Request Header For Transaction With Id 343 Ended $$$$$$
+
+****** Response Header For Transaction With Id 343 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Length: 327
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Last-Modified, Content-Type, Content-Length, Cache-Control, Expires, Backoff, Alert, Pragma, Retry-After
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'none'; frame-ancestors 'none'; base-uri 'none';
+Strict-Transport-Security: max-age=31536000
+Via: 1.1 google
+Date: Mon, 30 Sep 2024 22:03:27 GMT
+Age: 1953
+Last-Modified: Mon, 16 Sep 2024 19:43:33 GMT
+ETag: "1726515813393"
+Content-Type: application/json
+Cache-Control: public,max-age=3600
+Alt-Svc: clear
+
+
+$$$$$$ Response Header For Transaction With Id 343 Ended $$$$$$
+
+****** Response Body For Transaction With Id 343 ******
+{"permissions":{},"data":{"attachment":{"hash":"e84774e310eee54b7875a1d8c31659eacf05fd2d5a00f0279a35c190ec631dc5","size":19757,"filename":"asrouter.ftl","location":"main-workspace/ms-language-packs/b6f8de6d-b1f1-4722-bf6c-b713346e5d94.ftl","mimetype":"application/octet-stream"},"id":"cfr-v1-ru","last_modified":1726515813393}}
+$$$$$$ Response Body For Transaction With Id 343 Ended $$$$$$
+
+[Traffic Filtering] Filtering r10.o.lencr.org
+****** Request Header For Transaction With Id 345 ******
+POST / HTTP/1.1
+Host: r10.o.lencr.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 85
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 345 Ended $$$$$$
+
+****** Request Body For Transaction With Id 345 ******
+0S0Q0O0M0K0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14t\x02F\xF2Z\\B\x12 \xB5\xBD]v	\xA6\xBA\\\xA3G\xDF\x04\x14$\xF2.N\x0F\xBD\xCA\xF7>)U\xCAr\x8Di\x87VD\xE9z\x02\x12\x04]z\xD2\xB4\x02\x88\xF1\xD0F\xFF\xF6\x88\xC1N\x0B\x0B\xB5
+$$$$$$ Request Body For Transaction With Id 345 Ended $$$$$$
+
+****** Response Header For Transaction With Id 345 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: application/ocsp-response
+Content-Length: 5
+Cache-Control: no-cache
+Expires: Mon, 30 Sep 2024 22:36:00 GMT
+Date: Mon, 30 Sep 2024 22:36:00 GMT
+Connection: keep-alive
+
+
+$$$$$$ Response Header For Transaction With Id 345 Ended $$$$$$
+
+****** Response Body For Transaction With Id 345 ******
+0\x03
+\x01\x06
+$$$$$$ Response Body For Transaction With Id 345 Ended $$$$$$
+
+[Traffic Filtering] Filtering push.services.mozilla.com
+****** Request Header For Transaction With Id 351 ******
+GET / HTTP/1.1
+Host: push.services.mozilla.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Sec-WebSocket-Version: 13
+Origin: wss://push.services.mozilla.com/
+Sec-WebSocket-Protocol: push-notification
+Sec-WebSocket-Extensions: permessage-deflate
+Sec-WebSocket-Key: kUizaXpf4M7p7773bDyAcw==
+Connection: keep-alive, Upgrade
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: websocket
+Sec-Fetch-Site: cross-site
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+
+$$$$$$ Request Header For Transaction With Id 351 Ended $$$$$$
+
+****** Response Header For Transaction With Id 351 ******
+HTTP/1.1 101 Switching Protocols
+sec-websocket-accept: cS2zJcIXO7W2bkX5Sm72aoqPi54=
+date: Mon, 30 Sep 2024 22:36:00 GMT
+Via: 1.1 google
+Upgrade: websocket
+Connection: Upgrade
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+
+$$$$$$ Response Header For Transaction With Id 351 Ended $$$$$$
+
+****** Response Body For Transaction With Id 351 ******
+
+$$$$$$ Response Body For Transaction With Id 351 Ended $$$$$$
+
+[Traffic Filtering] Filtering aus5.mozilla.org
+****** Request Header For Transaction With Id 353 ******
+GET /update/6/Firefox/130.0.1/20240913135723/WINNT_x86_64-msvc-x64/ru/release/Windows_NT%252010.0.0.0.19045.4412%2520(x64)/ISET%3ASSE4_2%2CMEM%3A6011/default/default/update.xml?force=1 HTTP/1.1
+Host: aus5.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 353 Ended $$$$$$
+
+****** Response Header For Transaction With Id 353 ******
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 30 Sep 2024 22:36:00 GMT
+Content-Type: text/xml; charset=utf-8
+Content-Length: 42
+Rule-ID: 145
+Rule-Data-Version: 607
+Strict-Transport-Security: max-age=31536000;
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'none'; frame-ancestors 'none'
+X-Proxy-Cache-Status: MISS
+Via: 1.1 google
+Cache-Control: public,max-age=90
+Alt-Svc: clear
+
+
+$$$$$$ Response Header For Transaction With Id 353 Ended $$$$$$
+
+****** Response Body For Transaction With Id 353 ******
+<?xml version="1.0"?>
+<updates>
+</updates>
+$$$$$$ Response Body For Transaction With Id 353 Ended $$$$$$
+
+[Traffic Filtering] Filtering r10.o.lencr.org
+****** Request Header For Transaction With Id 368 ******
+POST / HTTP/1.1
+Host: r10.o.lencr.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 85
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 368 Ended $$$$$$
+
+****** Request Body For Transaction With Id 368 ******
+0S0Q0O0M0K0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14t\x02F\xF2Z\\B\x12 \xB5\xBD]v	\xA6\xBA\\\xA3G\xDF\x04\x14$\xF2.N\x0F\xBD\xCA\xF7>)U\xCAr\x8Di\x87VD\xE9z\x02\x12\x04\xAFc\xC8\x9F\xB3i>\xF2\x86\x05\xED#\x80\xCD\xA0\xC4X
+$$$$$$ Request Body For Transaction With Id 368 Ended $$$$$$
+
+****** Response Header For Transaction With Id 368 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: application/ocsp-response
+Content-Length: 5
+Cache-Control: no-cache
+Expires: Mon, 30 Sep 2024 22:36:09 GMT
+Date: Mon, 30 Sep 2024 22:36:09 GMT
+Connection: keep-alive
+
+
+$$$$$$ Response Header For Transaction With Id 368 Ended $$$$$$
+
+****** Response Body For Transaction With Id 368 ******
+0\x03
+\x01\x06
+$$$$$$ Response Body For Transaction With Id 368 Ended $$$$$$
+
+[Traffic Filtering] Filtering ocsp.digicert.com
+****** Request Header For Transaction With Id 384 ******
+POST / HTTP/1.1
+Host: ocsp.digicert.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 83
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 384 Ended $$$$$$
+
+****** Request Body For Transaction With Id 384 ******
+0Q0O0M0K0I0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14t\x02F\xF2Z\\B\x12 \xB5\xBD]v	\xA6\xBA\\\xA3G\xDF\x04\x14$\xF2.N\x0F\xBD\xCA\xF7>)U\xCAr\x8Di\x87VD\xE9z\x02\x10\x06\xBA\xAD\x9A4\xCC\x06O\x8C\xD0`k\x99]\x9C$
+$$$$$$ Request Body For Transaction With Id 384 Ended $$$$$$
+
+****** Response Header For Transaction With Id 384 ******
+HTTP/1.1 200 OK
+Cache-Control: max-age=600
+Content-Type: application/ocsp-response
+Date: Mon, 30 Sep 2024 22:36:09 GMT
+Server: ECAcc (amb/6B67)
+Content-Length: 5
+
+
+$$$$$$ Response Header For Transaction With Id 384 Ended $$$$$$
+
+****** Response Body For Transaction With Id 384 ******
+0\x03
+\x01\x06
+$$$$$$ Response Body For Transaction With Id 384 Ended $$$$$$
+
+[Traffic Filtering] Filtering aus5.mozilla.org
+****** Request Header For Transaction With Id 386 ******
+GET /update/6/Firefox/130.0.1/20240913135723/WINNT_x86_64-msvc-x64/ru/release/Windows_NT%252010.0.0.0.19045.4412%2520(x64)/ISET%3ASSE4_2%2CMEM%3A6011/default/default/update.xml HTTP/1.1
+Host: aus5.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 386 Ended $$$$$$
+
+****** Response Header For Transaction With Id 386 ******
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 30 Sep 2024 22:36:09 GMT
+Content-Type: text/xml; charset=utf-8
+Content-Length: 42
+Rule-ID: 145
+Rule-Data-Version: 607
+Strict-Transport-Security: max-age=31536000;
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'none'; frame-ancestors 'none'
+X-Proxy-Cache-Status: MISS
+Via: 1.1 google
+Cache-Control: public,max-age=90
+Alt-Svc: clear
+
+
+$$$$$$ Response Header For Transaction With Id 386 Ended $$$$$$
+
+****** Response Body For Transaction With Id 386 ******
+<?xml version="1.0"?>
+<updates>
+</updates>
+$$$$$$ Response Body For Transaction With Id 386 Ended $$$$$$
+
+[Traffic Filtering] Filtering push.services.mozilla.com
+****** Request Header For Transaction With Id 407 ******
+GET / HTTP/1.1
+Host: push.services.mozilla.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Sec-WebSocket-Version: 13
+Origin: wss://push.services.mozilla.com/
+Sec-WebSocket-Protocol: push-notification
+Sec-WebSocket-Extensions: permessage-deflate
+Sec-WebSocket-Key: v8OOrCCQoDLyicZfZ1QZqg==
+Connection: keep-alive, Upgrade
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: websocket
+Sec-Fetch-Site: cross-site
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+
+$$$$$$ Request Header For Transaction With Id 407 Ended $$$$$$
+
+****** Response Header For Transaction With Id 407 ******
+HTTP/1.1 101 Switching Protocols
+sec-websocket-accept: FJK+4XKFs28ZECpDz5apcjCPn/4=
+date: Mon, 30 Sep 2024 22:36:10 GMT
+Via: 1.1 google
+Upgrade: websocket
+Connection: Upgrade
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+
+$$$$$$ Response Header For Transaction With Id 407 Ended $$$$$$
+
+****** Response Body For Transaction With Id 407 ******
+
+$$$$$$ Response Body For Transaction With Id 407 Ended $$$$$$
+
+[Traffic Filtering] Filtering ocsp.digicert.com
+****** Request Header For Transaction With Id 409 ******
+POST / HTTP/1.1
+Host: ocsp.digicert.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 83
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 409 Ended $$$$$$
+
+****** Request Body For Transaction With Id 409 ******
+0Q0O0M0K0I0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14t\x02F\xF2Z\\B\x12 \xB5\xBD]v	\xA6\xBA\\\xA3G\xDF\x04\x14$\xF2.N\x0F\xBD\xCA\xF7>)U\xCAr\x8Di\x87VD\xE9z\x02\x10\x07
+\xED\xD4\xBB:9\x0E9ea\x16\xBF\xAA\xC3\xBE
+$$$$$$ Request Body For Transaction With Id 409 Ended $$$$$$
+
+****** Response Header For Transaction With Id 409 ******
+HTTP/1.1 200 OK
+Cache-Control: max-age=600
+Content-Type: application/ocsp-response
+Date: Mon, 30 Sep 2024 22:36:11 GMT
+Server: ECAcc (amb/6B38)
+Content-Length: 5
+
+
+$$$$$$ Response Header For Transaction With Id 409 Ended $$$$$$
+
+****** Response Body For Transaction With Id 409 ******
+0\x03
+\x01\x06
+$$$$$$ Response Body For Transaction With Id 409 Ended $$$$$$
+
+****** Request Header For Transaction With Id 411 ******
+GET /cgi-bin/welcome.pl?signOff=true HTTP/1.1
+Host: localhost:1080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:1080/WebTours/
+Upgrade-Insecure-Requests: 1
+Priority: u=4
+
+
+$$$$$$ Request Header For Transaction With Id 411 Ended $$$$$$
+
+****** Response Header For Transaction With Id 411 ******
+HTTP/1.1 200 OK
+Date: Mon, 30 Sep 2024 22:36:10 GMT
+Server: Apache/2.2.21 (Win32)
+Set-Cookie: MSO=SID&1727735771; path=/
+Set-Cookie: MTUserInfo=; path=/; expires=Sun, 29-Sep-2024 22:36:11 GMT
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+
+
+$$$$$$ Response Header For Transaction With Id 411 Ended $$$$$$
+
+****** Response Body For Transaction With Id 411 ******
+<!-- 
+ A Session ID has been created and loaded into a cookie called MSO.
+ Also, the server options have been loaded into the cookie called
+ MSO as well.  The server options can be set via the Admin page.
+ --->
+
+<html>
+<title>Web Tours</title>
+   <!-- Frame Set -->
+   <frameset cols="160,*" border="1" frameborder="1">
+      <!-- Navigation Frame -->
+      <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" 
+            noresize="noresize" scrolling="auto"/>
+      <!-- Home Frame -->
+      <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" 
+            noresize="noresize" scrolling="auto"/>
+   </frameset>
+</html>
+
+</body>
+</html>
+$$$$$$ Response Body For Transaction With Id 411 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+The Node has no URL
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Start Log Message ******
+Set SSL version to 'AUTO'
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 411 ****** (Location Flag : tFlagInsertEnd, Location ID : 411)
+	web_url("welcome.pl",
+		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=true",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=http://localhost:1080/WebTours/",
+		"Snapshot=t1.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 411 Ended $$$$$$
+
+[Traffic Filtering] Filtering firefox.settings.services.mozilla.com
+****** Request Header For Transaction With Id 420 ******
+GET /v1/buckets/monitor/collections/changes/changeset?_expected=0 HTTP/1.1
+Host: firefox.settings.services.mozilla.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 420 Ended $$$$$$
+
+****** Response Header For Transaction With Id 420 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Length: 30545
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, Retry-After, Backoff, Alert, Content-Length
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'none'; frame-ancestors 'none'; base-uri 'none';
+Strict-Transport-Security: max-age=31536000
+Via: 1.1 google
+Date: Mon, 30 Sep 2024 22:10:00 GMT
+Age: 1571
+Last-Modified: Mon, 30 Sep 2024 18:27:10 GMT
+Content-Type: application/json
+Cache-Control: public,max-age=3600
+Alt-Svc: clear
+
+
+$$$$$$ Response Header For Transaction With Id 420 Ended $$$$$$
+
+****** Response Body For Transaction With Id 420 ******
+{"metadata":{"bucket":"monitor"},"timestamp":1727720830781,"changes":[{"id":"19e79f22-62cf-92e1-c12c-a3b4b9cf51be","last_modified":1603126502200,"bucket":"blocklists","collection":"plugins","host":"firefox.settings.services.mozilla.com"},{"id":"b7f595f9-5fc5-d863-b5dd-e5425dcf427a","last_modified":1604940558744,"bucket":"blocklists","collection":"addons","host":"firefox.settings.services.mozilla.com"},{"id":"061d4584-acd0-fecc-b5fb-dcfe0ad5e123","last_modified":1624388514784,"bucket":"blocklists","collection":"qa","host":"firefox.settings.services.mozilla.com"},{"id":"3fadb169-e5de-a2f0-374e-6eeb3eac3dbb","last_modified":1692730580117,"bucket":"blocklists","collection":"gfx","host":"firefox.settings.services.mozilla.com"},{"id":"0e543556-43bf-3139-1fda-2a0068116c6d","last_modified":1727384103227,"bucket":"blocklists","collection":"certificates","host":"firefox.settings.services.mozilla.com"},{"id":"c521b443-368f-2e18-a853-066abaa1e9e3","last_modified":1727375761616,"bucket":"blocklists","collection":"addons-bloomfilters","host":"firefox.settings.services.mozilla.com"},{"id":"3ace9d8e-00b5-a353-7fd5-1f081ff482ba","last_modified":1603099530179,"bucket":"blocklists-preview","collection":"plugins","host":"firefox.settings.services.mozilla.com"},{"id":"c6671b58-a04c-2753-1904-decfb584f9ce","last_modified":1604936711141,"bucket":"blocklists-preview","collection":"addons","host":"firefox.settings.services.mozilla.com"},{"id":"e42f495f-e3fb-6d65-4edd-51dd0f3985f3","last_modified":1573556826481,"bucket":"blocklists-preview","collection":"qa","host":"firefox.settings.services.mozilla.com"},{"id":"be77064f-af40-d297-93f9-91e676ec04ea","last_modified":1692730325835,"bucket":"blocklists-preview","collection":"gfx","host":"firefox.settings.services.mozilla.com"},{"id":"380cd5a8-a585-42ef-3ee6-93bc618bcc36","last_modified":1727720830781,"bucket":"main","collection":"nimbus-preview","host":"firefox.settings.services.mozilla.com"},{"id":"501583ca-d580-51de-0584-dab08102506d","last_modified":1727715499842,"bucket":"main","collection":"nimbus-desktop-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"0ad92238-e4ce-dd27-57f8-c97134add3c9","last_modified":1544035467383,"bucket":"main","collection":"sites-classification","host":"firefox.settings.services.mozilla.com"},{"id":"0164d8d8-c422-4215-1f5a-70f62b85bf44","last_modified":1562796064168,"bucket":"main","collection":"focus-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"248f8630-6807-ab30-6370-14918dc824c2","last_modified":1564511755134,"bucket":"main","collection":"anti-tracking-url-decoration","host":"firefox.settings.services.mozilla.com"},{"id":"e02dce4c-7a13-3dda-6e62-d6d9084e82f5","last_modified":1569443132800,"bucket":"main","collection":"cfr-srg","host":"firefox.settings.services.mozilla.com"},{"id":"5f39c5e3-7a2a-3868-c29d-e7f11d76d66b","last_modified":1575468539758,"bucket":"main","collection":"public-suffix-list","host":"firefox.settings.services.mozilla.com"},{"id":"0d61e3ec-c708-b839-512a-e09c3f5f1880","last_modified":1581703205374,"bucket":"main","collection":"personality-provider-models","host":"firefox.settings.services.mozilla.com"},{"id":"5b1ab327-5196-0f05-629f-fdd288138d69","last_modified":1593104364892,"bucket":"main","collection":"windows-default-browser-agent","host":"firefox.settings.services.mozilla.com"},{"id":"e535535a-be20-8cb5-d162-ba72b1d81f3f","last_modified":1595950625167,"bucket":"main","collection":"pioneer-study-addons","host":"firefox.settings.services.mozilla.com"},{"id":"3f7e9dcc-c522-ea35-c98b-9334230153aa","last_modified":1600363002708,"bucket":"main","collection":"regions","host":"firefox.settings.services.mozilla.com"},{"id":"2ca9d0dc-f44b-9e48-5f37-37a90600b10f","last_modified":1602876354998,"bucket":"main","collection":"mobile-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"958b14fa-88b0-ec42-8e68-464502a21eb1","last_modified":1603308987530,"bucket":"main","collection":"personality-provider-recipe","host":"firefox.settings.services.mozilla.com"},{"id":"10583668-d3dc-6025-0200-dbcec975ac47","last_modified":1604450883297,"bucket":"main","collection":"pioneer-content-v1","host":"firefox.settings.services.mozilla.com"},{"id":"8451eb15-8141-758c-6dd1-6d9f04146fa9","last_modified":1605801189258,"bucket":"main","collection":"hijack-blocklists","host":"firefox.settings.services.mozilla.com"},{"id":"6fcd379b-83fc-111c-e7f5-c9fa9d7caf25","last_modified":1607042143590,"bucket":"main","collection":"pioneer-study-addons-v1","host":"firefox.settings.services.mozilla.com"},{"id":"a998e5e0-c645-25e4-8306-d22953baacb4","last_modified":1607983636189,"bucket":"main","collection":"pioneer-content-v2","host":"firefox.settings.services.mozilla.com"},{"id":"2652b5c8-7854-2c47-d567-19bbcaae38e5","last_modified":1607983639228,"bucket":"main","collection":"pioneer-study-addons-v2","host":"firefox.settings.services.mozilla.com"},{"id":"1611c176-3998-f3df-07b7-c1858138d48b","last_modified":1617030573137,"bucket":"main","collection":"whats-new-panel","host":"firefox.settings.services.mozilla.com"},{"id":"e4764d29-ebad-2f17-3945-cdff8214f400","last_modified":1627481728329,"bucket":"main","collection":"tippytop","host":"firefox.settings.services.mozilla.com"},{"id":"6f8a35aa-c73e-2e16-bff9-956ee6f17a46","last_modified":1635892651252,"bucket":"main","collection":"nimbus-desktop-defaults","host":"firefox.settings.services.mozilla.com"},{"id":"45a93597-80e3-cc6c-f29c-1ad6e0dd4455","last_modified":1641843848274,"bucket":"main","collection":"rally-studies-v1","host":"firefox.settings.services.mozilla.com"},{"id":"6caeca19-d819-2f9c-cfe3-8b0c1de9b52b","last_modified":1644517845433,"bucket":"main","collection":"search-telemetry","host":"firefox.settings.services.mozilla.com"},{"id":"a252dd48-1252-7149-1c3f-1e82697843af","last_modified":1647549722107,"bucket":"main","collection":"doh-providers","host":"firefox.settings.services.mozilla.com"},{"id":"42830d75-4c14-f884-1ceb-05febc3902b9","last_modified":1651753780606,"bucket":"main","collection":"doh-config","host":"firefox.settings.services.mozilla.com"},{"id":"568454e9-c59e-4b6f-0c12-3dcd53a12296","last_modified":1653469171354,"bucket":"main","collection":"devtools-devices","host":"firefox.settings.services.mozilla.com"},{"id":"7a804898-26d6-ff1b-096a-df6246714e38","last_modified":1659924446436,"bucket":"main","collection":"websites-with-shared-credential-backends","host":"firefox.settings.services.mozilla.com"},{"id":"eb808f2d-5de3-89d6-4252-03823ccaded5","last_modified":1672463216411,"bucket":"main","collection":"rally-studies-v2","host":"firefox.settings.services.mozilla.com"},{"id":"8c581745-110d-0d30-f0f2-fe999bc1fde7","last_modified":1673270322227,"bucket":"main","collection":"language-dictionaries","host":"firefox.settings.services.mozilla.com"},{"id":"71e468d0-8006-a831-873e-64d518cd8515","last_modified":1674595048726,"bucket":"main","collection":"password-recipes","host":"firefox.settings.services.mozilla.com"},{"id":"2c2bcb35-b5f7-e015-b54f-3d60feccf26d","last_modified":1679600032742,"bucket":"main","collection":"password-rules","host":"firefox.settings.services.mozilla.com"},{"id":"4bf857cb-8e73-0d27-ddcf-08f2bb797163","last_modified":1681500405555,"bucket":"main","collection":"translations-identification-models","host":"firefox.settings.services.mozilla.com"},{"id":"8ee6692e-d686-a614-6e4f-23d71b55b7f3","last_modified":1683667257606,"bucket":"main","collection":"fxmonitor-breaches","host":"firefox.settings.services.mozilla.com"},{"id":"e80aaa02-f8ae-a788-8426-059a8c4fcd2e","last_modified":1688747728721,"bucket":"main","collection":"addons-manager-settings","host":"firefox.settings.services.mozilla.com"},{"id":"651e8969-24fa-eb4a-aa3d-d64b894cbe9a","last_modified":1694689843914,"bucket":"main","collection":"query-stripping","host":"firefox.settings.services.mozilla.com"},{"id":"274942c0-0ac3-cabd-0eca-3889bdfa926b","last_modified":1699046525260,"bucket":"main","collection":"cfr","host":"firefox.settings.services.mozilla.com"},{"id":"889a101d-bade-d030-e233-a18beceba9cf","last_modified":1702403047185,"bucket":"main","collection":"partitioning-exempt-urls","host":"firefox.settings.services.mozilla.com"},{"id":"28f0e7fd-7af7-617f-eba3-ba80e5f7148f","last_modified":1705701099603,"bucket":"main","collection":"translations-wasm","host":"firefox.settings.services.mozilla.com"},{"id":"49db3966-ee3d-979b-5014-4011f6d5e79b","last_modified":1709217485713,"bucket":"main","collection":"search-config-overrides","host":"firefox.settings.services.mozilla.com"},{"id":"92c52502-9661-6d8b-9389-f2732f6f5caf","last_modified":1710333238310,"bucket":"main","collection":"search-config-overrides-v2","host":"firefox.settings.services.mozilla.com"},{"id":"aea574eb-2997-6453-0c09-1851fc1b2561","last_modified":1710766850143,"bucket":"main","collection":"search-config","host":"firefox.settings.services.mozilla.com"},{"id":"b482b902-198d-8d2f-16b0-3510f086dceb","last_modified":1711033331878,"bucket":"main","collection":"devtools-news","host":"firefox.settings.services.mozilla.com"},{"id":"03247ba1-6c92-841f-f282-1ee436cc8a1d","last_modified":1715008862535,"bucket":"main","collection":"fingerprinting-protection-overrides","host":"firefox.settings.services.mozilla.com"},{"id":"572c01f9-9f5b-5de0-717b-b4e9a21c9cf0","last_modified":1716487426093,"bucket":"main","collection":"newtab-wallpapers","host":"firefox.settings.services.mozilla.com"},{"id":"301b5e58-eec9-4f1e-2f97-09abedfef627","last_modified":1723136665642,"bucket":"main","collection":"top-sites","host":"firefox.settings.services.mozilla.com"},{"id":"772d1b8b-89e9-bfd6-32ba-a0fc9713179f","last_modified":1724436366651,"bucket":"main","collection":"nimbus-web-preview","host":"firefox.settings.services.mozilla.com"},{"id":"d5795030-b96f-0d09-e315-f8f02cfe2932","last_modified":1719847110309,"bucket":"main","collection":"backup-recovery-download-links","host":"firefox.settings.services.mozilla.com"},{"id":"800de7cf-140e-6617-2685-c0490d8d29cb","last_modified":1720457798358,"bucket":"main","collection":"bounce-tracking-protection-exceptions","host":"firefox.settings.services.mozilla.com"},{"id":"cfe13ca2-8007-1935-aea8-b31c7bcefd8d","last_modified":1721063513248,"bucket":"main","collection":"search-default-override-allowlist","host":"firefox.settings.services.mozilla.com"},{"id":"aebe2560-a214-46a3-e18f-82912d0a7707","last_modified":1721068497119,"bucket":"main","collection":"newtab-wallpapers-v2","host":"firefox.settings.services.mozilla.com"},{"id":"3e829a4c-383d-93ea-bef4-49f2560e1d83","last_modified":1722426875987,"bucket":"main","collection":"backup-common-passwords-list","host":"firefox.settings.services.mozilla.com"},{"id":"8da7db1e-dffb-18c9-2efe-0e9d7459a0f4","last_modified":1727482203183,"bucket":"main","collection":"normandy-recipes","host":"firefox.settings.services.mozilla.com"},{"id":"e9f76a09-1c31-7dce-7c40-8abfbcfb244d","last_modified":1727481670415,"bucket":"main","collection":"normandy-recipes-capabilities","host":"firefox.settings.services.mozilla.com"},{"id":"b39de954-4216-fecc-150f-7a08e837b373","last_modified":1722952002241,"bucket":"main","collection":"search-config-v2","host":"firefox.settings.services.mozilla.com"},{"id":"0b696c37-e442-b92f-65ee-a0123223f224","last_modified":1724163826841,"bucket":"main","collection":"ms-images","host":"firefox.settings.services.mozilla.com"},{"id":"22625625-0f03-7107-1d3e-a8484d109ca7","last_modified":1724852270037,"bucket":"main","collection":"ml-onnx-runtime","host":"firefox.settings.services.mozilla.com"},{"id":"dd040ff6-583c-d16b-2816-5d8079aba996","last_modified":1724867833754,"bucket":"main","collection":"search-telemetry-v2","host":"firefox.settings.services.mozilla.com"},{"id":"ecf46491-801a-ee6b-c771-432925b584da","last_modified":1725526980846,"bucket":"main","collection":"cookie-banner-rules-list","host":"firefox.settings.services.mozilla.com"},{"id":"31ea171e-5558-f27b-3633-67abd4363c52","last_modified":1725548360015,"bucket":"main","collection":"third-party-cookie-blocking-exempt-urls","host":"firefox.settings.services.mozilla.com"},{"id":"6eb5c7d5-d063-34f2-f7f6-0440d029672b","last_modified":1726182473065,"bucket":"main","collection":"content-relevance","host":"firefox.settings.services.mozilla.com"},{"id":"a3c0cb7d-dad1-a596-8cc4-8ceaec428e4b","last_modified":1726816023452,"bucket":"main","collection":"devtools-compatibility-browsers","host":"firefox.settings.services.mozilla.com"},{"id":"714b69f3-69fb-0b5e-9c4a-e73c07aa2858","last_modified":1726821901198,"bucket":"main","collection":"tracking-protection-lists","host":"firefox.settings.services.mozilla.com"},{"id":"9cee02bd-bc7a-cacc-333f-61dbc4575260","last_modified":1726841594653,"bucket":"main","collection":"translations-models","host":"firefox.settings.services.mozilla.com"},{"id":"8e0dffc7-d526-aa8d-759c-0882dfda733c","last_modified":1718898145959,"bucket":"main","collection":"message-groups","host":"firefox.settings.services.mozilla.com"},{"id":"da65fbf9-7ed0-d839-d23a-1dbf9ef6601f","last_modified":1719504277655,"bucket":"main","collection":"search-config-icons","host":"firefox.settings.services.mozilla.com"},{"id":"2567487c-641d-8efe-bf09-4c9ceca0811d","last_modified":1719927826949,"bucket":"main","collection":"urlbar-persisted-search-terms","host":"firefox.settings.services.mozilla.com"},{"id":"2a96d2c2-ee2c-92d9-4415-3996dd1aef47","last_modified":1720004688246,"bucket":"main","collection":"url-classifier-skip-urls","host":"firefox.settings.services.mozilla.com"},{"id":"a7fb0c00-2166-93ab-8261-d6110ffd1212","last_modified":1726769126563,"bucket":"main","collection":"nimbus-secure-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"8b878038-f209-6179-d981-2ebf0a5c0214","last_modified":1726769128879,"bucket":"main","collection":"url-parser-default-unknown-schemes-interventions","host":"firefox.settings.services.mozilla.com"},{"id":"c067f022-492c-fb50-3c8a-5800b383fb5d","last_modified":1725347687296,"bucket":"main","collection":"ml-inference-options","host":"firefox.settings.services.mozilla.com"},{"id":"447cbbca-247c-25ea-e1eb-68e922864d1e","last_modified":1727301251311,"bucket":"main","collection":"nimbus-web-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"3ddbe540-6900-30ef-7853-199a3b4bc6df","last_modified":1727232238201,"bucket":"main","collection":"quicksuggest","host":"firefox.settings.services.mozilla.com"},{"id":"09b4c573-0b2a-e099-cc0c-32f84d78cd59","last_modified":1726599273951,"bucket":"main","collection":"search-categorization","host":"firefox.settings.services.mozilla.com"},{"id":"85fc8c6a-75fc-501e-9d4b-08306b7f81e6","last_modified":1727212608981,"bucket":"main","collection":"moz-essential-domain-fallbacks","host":"firefox.settings.services.mozilla.com"},{"id":"5a30bf02-8b01-b6f6-fa9f-c34cdd3a1042","last_modified":1727204630056,"bucket":"main","collection":"nimbus-mobile-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"c9a369e7-cbe2-f617-0ebf-c5e892b829e4","last_modified":1725908725774,"bucket":"main","collection":"fakespot-suggest-products","host":"firefox.settings.services.mozilla.com"},{"id":"d7bee3b1-5225-494c-c375-72931c7407bf","last_modified":1726515813541,"bucket":"main","collection":"ms-language-packs","host":"firefox.settings.services.mozilla.com"},{"id":"a0e7d312-12ed-a188-65c4-5e178ca5f261","last_modified":1727715486344,"bucket":"main-preview","collection":"nimbus-desktop-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"a60ac63f-506b-5d85-78a6-443c7e69d09b","last_modified":1727720830564,"bucket":"main-preview","collection":"nimbus-preview","host":"firefox.settings.services.mozilla.com"},{"id":"45bf3f78-8f3f-28f6-5a1d-8a2bb6d3a2b2","last_modified":1727658821388,"bucket":"main-preview","collection":"tracking-protection-lists","host":"firefox.settings.services.mozilla.com"},{"id":"2c434b22-08f9-ed9a-914c-ef5c30ebcb82","last_modified":1544035467383,"bucket":"main-preview","collection":"sites-classification","host":"firefox.settings.services.mozilla.com"},{"id":"e1afa4ff-ea74-d142-eff6-4c5c3d27ce8c","last_modified":1562796064168,"bucket":"main-preview","collection":"focus-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"4ceae968-33e3-b09e-fce7-87edfd15923a","last_modified":1564511755134,"bucket":"main-preview","collection":"anti-tracking-url-decoration","host":"firefox.settings.services.mozilla.com"},{"id":"ad9b4281-cfdf-902c-de11-366a78030ed5","last_modified":1569443132231,"bucket":"main-preview","collection":"cfr-srg","host":"firefox.settings.services.mozilla.com"},{"id":"2e5fede5-45b1-2e91-626c-371c244ad1b2","last_modified":1646406194397,"bucket":"main-preview","collection":"public-suffix-list","host":"firefox.settings.services.mozilla.com"},{"id":"58667b5b-2afa-c9ea-a95d-d6081529dbee","last_modified":1581701665749,"bucket":"main-preview","collection":"personality-provider-models","host":"firefox.settings.services.mozilla.com"},{"id":"3f3cc33f-0a47-9621-ca08-6f1d0d55bb7c","last_modified":1593104012343,"bucket":"main-preview","collection":"windows-default-browser-agent","host":"firefox.settings.services.mozilla.com"},{"id":"9dbb7b11-e456-bb51-2f14-f3a17ef76326","last_modified":1595950571495,"bucket":"main-preview","collection":"pioneer-study-addons","host":"firefox.settings.services.mozilla.com"},{"id":"91607703-59bd-95a1-7734-a987332bc619","last_modified":1591566906097,"bucket":"main-preview","collection":"regions","host":"firefox.settings.services.mozilla.com"},{"id":"23ee4721-520a-33d1-2063-51f8ff4fed96","last_modified":1602780283316,"bucket":"main-preview","collection":"mobile-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"3f33d824-d485-658d-ab8e-f498e6f83c8a","last_modified":1603308808124,"bucket":"main-preview","collection":"personality-provider-recipe","host":"firefox.settings.services.mozilla.com"},{"id":"415edb28-1f34-f530-ecf7-1e243652be16","last_modified":1604442382323,"bucket":"main-preview","collection":"pioneer-content-v1","host":"firefox.settings.services.mozilla.com"},{"id":"cdf5b0ef-a720-05b9-cc9f-ca272d916d46","last_modified":1605800480144,"bucket":"main-preview","collection":"hijack-blocklists","host":"firefox.settings.services.mozilla.com"},{"id":"4367935e-3364-caff-464b-db690e567471","last_modified":1607041879513,"bucket":"main-preview","collection":"pioneer-study-addons-v1","host":"firefox.settings.services.mozilla.com"},{"id":"093951eb-e25b-150b-d55f-a8da62e1e995","last_modified":1607981769164,"bucket":"main-preview","collection":"pioneer-content-v2","host":"firefox.settings.services.mozilla.com"},{"id":"45a0f571-e2c2-dddb-8f21-3d4cd7d909f7","last_modified":1607981725045,"bucket":"main-preview","collection":"pioneer-study-addons-v2","host":"firefox.settings.services.mozilla.com"},{"id":"b4759cb6-c501-cea0-ba70-8ab04c89b171","last_modified":1617029179150,"bucket":"main-preview","collection":"whats-new-panel","host":"firefox.settings.services.mozilla.com"},{"id":"101f5b7a-c0d0-247e-2c0d-0cc89d5ff7c2","last_modified":1627480834563,"bucket":"main-preview","collection":"tippytop","host":"firefox.settings.services.mozilla.com"},{"id":"eaf8523e-8945-a9c0-82dc-313a7cefead3","last_modified":1635891524078,"bucket":"main-preview","collection":"nimbus-desktop-defaults","host":"firefox.settings.services.mozilla.com"},{"id":"ead8cf13-b099-9545-b44c-e03c4270bafd","last_modified":1641843577359,"bucket":"main-preview","collection":"rally-studies-v1","host":"firefox.settings.services.mozilla.com"},{"id":"30f49866-e6b6-6377-1714-d967d46c2cc9","last_modified":1644491477799,"bucket":"main-preview","collection":"search-telemetry","host":"firefox.settings.services.mozilla.com"},{"id":"bcde7ed4-4637-5b47-922e-c8df09ece804","last_modified":1647548788458,"bucket":"main-preview","collection":"doh-providers","host":"firefox.settings.services.mozilla.com"},{"id":"03502cb8-a932-eb71-c910-0a9adb597757","last_modified":1651738492284,"bucket":"main-preview","collection":"doh-config","host":"firefox.settings.services.mozilla.com"},{"id":"bbc8352c-1fd5-7a96-a4d5-332b56d90c3c","last_modified":1653402346692,"bucket":"main-preview","collection":"devtools-devices","host":"firefox.settings.services.mozilla.com"},{"id":"fa35c1eb-3355-f100-ab9a-e4d909948e37","last_modified":1655312479742,"bucket":"main-preview","collection":"websites-with-shared-credential-backends","host":"firefox.settings.services.mozilla.com"},{"id":"d794c574-a4c6-b888-d8d7-96024e07d4b1","last_modified":1672349611696,"bucket":"main-preview","collection":"rally-studies-v2","host":"firefox.settings.services.mozilla.com"},{"id":"9f66a403-06b9-1f49-179b-8bde4f9e1d3a","last_modified":1672846460810,"bucket":"main-preview","collection":"language-dictionaries","host":"firefox.settings.services.mozilla.com"},{"id":"ab724da6-2405-a097-9ca2-e638a61eaca4","last_modified":1673279640190,"bucket":"main-preview","collection":"password-recipes","host":"firefox.settings.services.mozilla.com"},{"id":"cde3c31e-c1b8-b24e-a494-454fdb830abf","last_modified":1679594793364,"bucket":"main-preview","collection":"password-rules","host":"firefox.settings.services.mozilla.com"},{"id":"3f7fc0d0-04af-6c69-dd93-2a29d4243407","last_modified":1681344840786,"bucket":"main-preview","collection":"translations-identification-models","host":"firefox.settings.services.mozilla.com"},{"id":"c2349d3f-a0f0-2550-1e35-ee993f8a1c8d","last_modified":1682640078021,"bucket":"main-preview","collection":"fxmonitor-breaches","host":"firefox.settings.services.mozilla.com"},{"id":"bad6f034-2d51-c5b3-6cc1-a2ff19440327","last_modified":1688675787185,"bucket":"main-preview","collection":"addons-manager-settings","host":"firefox.settings.services.mozilla.com"},{"id":"00b04ed4-cacb-1281-1c64-813c2d1e5714","last_modified":1694689766005,"bucket":"main-preview","collection":"query-stripping","host":"firefox.settings.services.mozilla.com"},{"id":"461e4691-5c0d-5dad-321d-cd9d61a5c640","last_modified":1727211128895,"bucket":"main-preview","collection":"cfr","host":"firefox.settings.services.mozilla.com"},{"id":"d02d3098-a22d-738c-9de1-1a3688e8cda8","last_modified":1702402201064,"bucket":"main-preview","collection":"partitioning-exempt-urls","host":"firefox.settings.services.mozilla.com"},{"id":"347711a1-df95-2461-f315-f36e4c457397","last_modified":1705698918193,"bucket":"main-preview","collection":"translations-wasm","host":"firefox.settings.services.mozilla.com"},{"id":"accb70b3-679a-9d45-ed6f-0f5a845bf850","last_modified":1709157022845,"bucket":"main-preview","collection":"search-config-overrides","host":"firefox.settings.services.mozilla.com"},{"id":"3a960198-3d00-820d-449f-09aff056c65b","last_modified":1710170849382,"bucket":"main-preview","collection":"search-config-overrides-v2","host":"firefox.settings.services.mozilla.com"},{"id":"d6bac357-17c7-e551-94e7-9fb97f908dec","last_modified":1710757058760,"bucket":"main-preview","collection":"search-config","host":"firefox.settings.services.mozilla.com"},{"id":"530bef41-bbef-f783-33e5-b7deb2568002","last_modified":1711033331748,"bucket":"main-preview","collection":"devtools-news","host":"firefox.settings.services.mozilla.com"},{"id":"c90c4f3d-7e2b-b146-ded8-84385fb2e646","last_modified":1714419364737,"bucket":"main-preview","collection":"fingerprinting-protection-overrides","host":"firefox.settings.services.mozilla.com"},{"id":"031decaa-47bd-3d48-b752-1978196eb048","last_modified":1718722597937,"bucket":"main-preview","collection":"newtab-wallpapers","host":"firefox.settings.services.mozilla.com"},{"id":"d5acf05e-c2b7-782b-c5f7-52fd75b10abd","last_modified":1723130676108,"bucket":"main-preview","collection":"top-sites","host":"firefox.settings.services.mozilla.com"},{"id":"cba62179-d21e-aef6-f1ba-0745a83be31a","last_modified":1724436366519,"bucket":"main-preview","collection":"nimbus-web-preview","host":"firefox.settings.services.mozilla.com"},{"id":"eec76038-1880-058e-672b-dea34e735acc","last_modified":1719847110215,"bucket":"main-preview","collection":"backup-recovery-download-links","host":"firefox.settings.services.mozilla.com"},{"id":"ee5f80a9-784c-add7-857f-016be20523a3","last_modified":1720457798276,"bucket":"main-preview","collection":"bounce-tracking-protection-exceptions","host":"firefox.settings.services.mozilla.com"},{"id":"b271319d-3db1-b78c-b058-7a3e7704c80f","last_modified":1721062345952,"bucket":"main-preview","collection":"search-default-override-allowlist","host":"firefox.settings.services.mozilla.com"},{"id":"b5dcf818-f36f-19ad-380a-a6dbeebd08a0","last_modified":1721057260806,"bucket":"main-preview","collection":"newtab-wallpapers-v2","host":"firefox.settings.services.mozilla.com"},{"id":"241130b1-a088-265c-39e2-ad1e1adaf115","last_modified":1722426875836,"bucket":"main-preview","collection":"backup-common-passwords-list","host":"firefox.settings.services.mozilla.com"},{"id":"108456a5-3894-c2e1-f74c-24d098107d80","last_modified":1722942029604,"bucket":"main-preview","collection":"search-config-v2","host":"firefox.settings.services.mozilla.com"},{"id":"5141c7f4-3a3e-d7bd-7cfb-cca1f1796418","last_modified":1724878927202,"bucket":"main-preview","collection":"ms-images","host":"firefox.settings.services.mozilla.com"},{"id":"d2dbd449-2ec9-60e2-b7c8-a384ea7d0878","last_modified":1724852182400,"bucket":"main-preview","collection":"ml-onnx-runtime","host":"firefox.settings.services.mozilla.com"},{"id":"68692045-6d1b-1419-071f-eed1d9f5c262","last_modified":1724720802647,"bucket":"main-preview","collection":"search-telemetry-v2","host":"firefox.settings.services.mozilla.com"},{"id":"fb10b66d-50d9-8e4a-5874-52d7a0a6af01","last_modified":1725494410559,"bucket":"main-preview","collection":"cookie-banner-rules-list","host":"firefox.settings.services.mozilla.com"},{"id":"06026d31-633c-e362-24b4-36b0dd091cd1","last_modified":1725548359879,"bucket":"main-preview","collection":"third-party-cookie-blocking-exempt-urls","host":"firefox.settings.services.mozilla.com"},{"id":"2e2ce4af-06be-5dfe-97aa-4f511a5cf606","last_modified":1726180363239,"bucket":"main-preview","collection":"content-relevance","host":"firefox.settings.services.mozilla.com"},{"id":"1fdae7b7-324d-113c-c10c-c4a4a30aba63","last_modified":1726877106055,"bucket":"main-preview","collection":"devtools-compatibility-browsers","host":"firefox.settings.services.mozilla.com"},{"id":"d7c0fedd-8531-a315-dc68-23c7abac7088","last_modified":1726837958620,"bucket":"main-preview","collection":"translations-models","host":"firefox.settings.services.mozilla.com"},{"id":"9a2e66c0-f96b-fa05-92da-8d62775e102b","last_modified":1718434781891,"bucket":"main-preview","collection":"message-groups","host":"firefox.settings.services.mozilla.com"},{"id":"cea550ab-c8d5-f309-d445-969a81ee51cd","last_modified":1719499750277,"bucket":"main-preview","collection":"search-config-icons","host":"firefox.settings.services.mozilla.com"},{"id":"ef5ddee3-314b-197c-35a1-2943fe96c573","last_modified":1719588521214,"bucket":"main-preview","collection":"urlbar-persisted-search-terms","host":"firefox.settings.services.mozilla.com"},{"id":"4bbeba46-f780-10cb-16ea-2bc48ec77807","last_modified":1717072578555,"bucket":"main-preview","collection":"url-classifier-skip-urls","host":"firefox.settings.services.mozilla.com"},{"id":"4ebcda67-0fb6-46f6-2f1a-6d246923bb48","last_modified":1726769117508,"bucket":"main-preview","collection":"nimbus-secure-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"9d4824c1-5be6-ce43-9ca9-468dd370b054","last_modified":1726749149123,"bucket":"main-preview","collection":"url-parser-default-unknown-schemes-interventions","host":"firefox.settings.services.mozilla.com"},{"id":"071bcd17-1c4d-5cdd-7ff0-b17bef25fb92","last_modified":1725347584594,"bucket":"main-preview","collection":"ml-inference-options","host":"firefox.settings.services.mozilla.com"},{"id":"dfb5c030-b786-15e2-0622-ee8c4856abdb","last_modified":1727301247651,"bucket":"main-preview","collection":"nimbus-web-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"8195b5b2-fd71-f382-9458-5028ef84e90d","last_modified":1727232012173,"bucket":"main-preview","collection":"quicksuggest","host":"firefox.settings.services.mozilla.com"},{"id":"818868b5-18ae-a588-e1d6-8d067a64e5c0","last_modified":1726580945389,"bucket":"main-preview","collection":"search-categorization","host":"firefox.settings.services.mozilla.com"},{"id":"d4f2309b-56a0-a4c2-78cd-f216b1209a81","last_modified":1727212608847,"bucket":"main-preview","collection":"moz-essential-domain-fallbacks","host":"firefox.settings.services.mozilla.com"},{"id":"19f7ec86-7cc3-46d8-21d0-f1aeb80ba2ea","last_modified":1727204608447,"bucket":"main-preview","collection":"nimbus-mobile-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"34d68bb2-6416-0978-cc5b-de1fc1af8382","last_modified":1725904820175,"bucket":"main-preview","collection":"fakespot-suggest-products","host":"firefox.settings.services.mozilla.com"},{"id":"6133f0b4-fe59-a2ad-6839-b159c6dabc9c","last_modified":1726515698532,"bucket":"main-preview","collection":"ms-language-packs","host":"firefox.settings.services.mozilla.com"},{"id":"eae22ba6-631d-fcab-fa53-8a7c5adb39a9","last_modified":1727557031270,"bucket":"security-state","collection":"cert-revocations","host":"firefox.settings.services.mozilla.com"},{"id":"9a0cf117-f8e7-4420-cc60-9fac2c2f6ffa","last_modified":1727510222645,"bucket":"security-state","collection":"intermediates","host":"firefox.settings.services.mozilla.com"},{"id":"4dd906e9-fe4e-fd64-8138-a2c7260b2199","last_modified":1727383809894,"bucket":"security-state","collection":"onecrl","host":"firefox.settings.services.mozilla.com"},{"id":"e0739440-0519-39e8-a5d5-dfef0832cdf9","last_modified":1725293395611,"bucket":"security-state","collection":"ct-logs","host":"firefox.settings.services.mozilla.com"},{"id":"adc73734-8581-67a0-0516-1d0e427a8cbd","last_modified":1727556445522,"bucket":"security-state-preview","collection":"cert-revocations","host":"firefox.settings.services.mozilla.com"},{"id":"7b3f0682-64fd-7b37-3126-3934ea377bcb","last_modified":1727506743110,"bucket":"security-state-preview","collection":"intermediates","host":"firefox.settings.services.mozilla.com"},{"id":"58d1976f-6e75-7728-79da-f4860ed35de5","last_modified":1727370064286,"bucket":"security-state-preview","collection":"onecrl","host":"firefox.settings.services.mozilla.com"},{"id":"f934c73b-822b-89cd-0df5-3eab4878e47e","last_modified":1725036903715,"bucket":"security-state-preview","collection":"ct-logs","host":"firefox.settings.services.mozilla.com"}]}
+$$$$$$ Response Body For Transaction With Id 420 Ended $$$$$$
+
+[Traffic Filtering] Filtering services.addons.mozilla.org
+****** Request Header For Transaction With Id 425 ******
+GET /api/v4/addons/search/?guid=default-theme%40mozilla.org%2Caddons-search-detection%40mozilla.com%2Cfirefox-compact-light%40mozilla.org%2Cfirefox-compact-dark%40mozilla.org%2Cfirefox-alpenglow%40mozilla.org&lang=ru HTTP/1.1
+Host: services.addons.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 425 Ended $$$$$$
+
+****** Response Header For Transaction With Id 425 ******
+HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 82
+Connection: keep-alive
+Server: openresty
+Date: Mon, 30 Sep 2024 22:06:54 GMT
+Allow: GET, HEAD, OPTIONS
+X-AMO-Request-ID: 7b0fdfa5f9f64f1d927bed0413fe71b0
+Content-Security-Policy: script-src https://*.google-analytics.com https://*.googletagmanager.com https://www.recaptcha.net/recaptcha/ https://www.gstatic.com/recaptcha/ https://www.gstatic.cn/recaptcha/ https://addons.mozilla.org/static-server/; font-src 'self' https://addons.mozilla.org/static-server/; frame-src https://www.recaptcha.net/recaptcha/; default-src 'none'; img-src 'self' blob: data: https://addons.mozilla.org/static-server/ https://addons.mozilla.org/user-media/ https://*.google-analytics.com https://*.googletagmanager.com; media-src https://videos.cdn.mozilla.net; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; style-src 'unsafe-inline' https://addons.mozilla.org/static-server/; object-src 'none'; form-action 'self'; child-src https://www.recaptcha.net/recaptcha/; report-uri /__cspreport__
+Content-Security-Policy: default-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; object-src 'none'; report-uri /__cspreport__
+X-Frame-Options: DENY
+X-Frame-Options: deny
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=300
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+Cross-Origin-Opener-Policy: same-origin
+Cache-Control: max-age=3600
+X-XSS-Protection: 0
+Via: 1.1 google, 1.1 dbd8987d44df68dae5505300fae9f718.cloudfront.net (CloudFront)
+ETag: "4f822d39c269d2c47e3174b6c6bad3b7"
+Vary: origin,X-Country-Code,Accept-Language
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: HEL51-P5
+X-Amz-Cf-Id: wFCre6VqA5fLD_md2FZLLY94lPCjqgdddY3mHQYAlqSfKfguHobbMA==
+Age: 1757
+
+
+$$$$$$ Response Header For Transaction With Id 425 Ended $$$$$$
+
+****** Response Body For Transaction With Id 425 ******
+{"page_size":25,"page_count":1,"count":0,"next":null,"previous":null,"results":[]}
+$$$$$$ Response Body For Transaction With Id 425 Ended $$$$$$
+
+[Traffic Filtering] Filtering r11.o.lencr.org
+****** Request Header For Transaction With Id 428 ******
+POST / HTTP/1.1
+Host: r11.o.lencr.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 85
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 428 Ended $$$$$$
+
+****** Request Body For Transaction With Id 428 ******
+0S0Q0O0M0K0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14t\x02F\xF2Z\\B\x12 \xB5\xBD]v	\xA6\xBA\\\xA3G\xDF\x04\x14$\xF2.N\x0F\xBD\xCA\xF7>)U\xCAr\x8Di\x87VD\xE9z\x02\x12\x04\x11\x08\xE3\xDC\x89Tyz"\x9D\xCE\x14~\x85\x91n\xA3
+$$$$$$ Request Body For Transaction With Id 428 Ended $$$$$$
+
+****** Response Header For Transaction With Id 428 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: application/ocsp-response
+Content-Length: 5
+Cache-Control: no-cache
+Expires: Mon, 30 Sep 2024 22:36:11 GMT
+Date: Mon, 30 Sep 2024 22:36:11 GMT
+Connection: keep-alive
+
+
+$$$$$$ Response Header For Transaction With Id 428 Ended $$$$$$
+
+****** Response Body For Transaction With Id 428 ******
+0\x03
+\x01\x06
+$$$$$$ Response Body For Transaction With Id 428 Ended $$$$$$
+
+[Traffic Filtering] Filtering normandy.cdn.mozilla.net
+****** Request Header For Transaction With Id 453 ******
+GET /api/v1/ HTTP/1.1
+Host: normandy.cdn.mozilla.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: application/json
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Connection: keep-alive
+Priority: u=4
+
+
+$$$$$$ Request Header For Transaction With Id 453 Ended $$$$$$
+
+****** Response Header For Transaction With Id 453 ******
+HTTP/1.1 200 OK
+server: nginx
+Content-Length: 598
+allow: GET, HEAD, OPTIONS
+content-security-policy: form-action 'self'; worker-src 'none'; block-all-mixed-content; frame-src 'none'; object-src 'none'; default-src 'self' https://normandy.cdn.mozilla.net/; base-uri 'none'; report-uri /__cspreport__
+x-frame-options: DENY
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000
+via: 1.1 google
+Date: Mon, 30 Sep 2024 11:33:53 GMT
+Cache-Control: public, max-age=86400
+Content-Type: application/json
+Vary: Accept, Origin
+Age: 39739
+Alt-Svc: clear
+
+
+$$$$$$ Response Header For Transaction With Id 453 Ended $$$$$$
+
+****** Response Body For Transaction With Id 453 ******
+{"action-list":"https://normandy.cdn.mozilla.net/api/v1/action/","action-signed":"https://normandy.cdn.mozilla.net/api/v1/action/signed/","approvalrequest-list":"https://normandy.cdn.mozilla.net/api/v1/approval_request/","classify-client":"https://classify-client.services.mozilla.com/api/v1/classify_client/","extension-list":"https://normandy.cdn.mozilla.net/api/v1/extension/","recipe-list":"https://normandy.cdn.mozilla.net/api/v1/recipe/","recipe-signed":"https://normandy.cdn.mozilla.net/api/v1/recipe/signed/","reciperevision-list":"https://normandy.cdn.mozilla.net/api/v1/recipe_revision/"}
+$$$$$$ Response Body For Transaction With Id 453 Ended $$$$$$
+
+[Traffic Filtering] Filtering 34.98.75.36
+[Traffic Filtering] Filtering 34.98.75.36
+[Traffic Filtering] Filtering 34.98.75.36
+[Traffic Filtering] Filtering 34.98.75.36
+****** Request Header For Transaction With Id 466 ******
+GET /cgi-bin/nav.pl?in=home HTTP/1.1
+Host: localhost:1080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=true
+Cookie: MSO=SID&1727735771
+Upgrade-Insecure-Requests: 1
+Priority: u=4
+
+
+$$$$$$ Request Header For Transaction With Id 466 Ended $$$$$$
+
+****** Response Header For Transaction With Id 466 ******
+HTTP/1.1 200 OK
+Date: Mon, 30 Sep 2024 22:36:11 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Sun, 29 Sep 2024 22:36:12 GMT
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+
+
+$$$$$$ Response Header For Transaction With Id 466 Ended $$$$$$
+
+****** Response Body For Transaction With Id 466 ******
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>Web Tours Navigation Bar</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#E0E7F1">
+<style>
+blockquote {font-family: tahoma; font-size : 10pt}
+H1 {font-family: tahoma; font-size : 22pt; color: #993333}
+H3 {font-family: tahoma; font-size : 10pt; color: black}
+small {font-family: tahoma; font-size : 8pt}
+</style>
+<form method="post" action="/cgi-bin/login.pl" target="body">
+<input type="hidden" name="userSession" value="139954.294937222HVQiiQQpAtfiDDDDtDVQDpDQtcHf"/>
+<table border="0"><tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Username</small></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Password</small></td>
+<tr><td>&nbsp;</td>
+<td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="image" name="login" value="Login" alt="Login" border="1" 
+src="/WebTours/images/mer_login.gif"/></td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table><input type="hidden" name="JSFormSubmit" value="off"/>
+</form>
+
+</body>
+</html>
+
+$$$$$$ Response Body For Transaction With Id 466 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/cgi-bin/welcome.pl?signOff=true
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+[Traffic Filtering] Filtering incoming.telemetry.mozilla.org
+****** Request Header For Transaction With Id 470 ******
+POST /submit/firefox-desktop/newtab/1/a5ccd6c6-d2ac-4cce-9ba3-2f1bd0119e0e HTTP/1.1
+Host: incoming.telemetry.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+content-encoding: gzip
+content-type: application/json; charset=utf-8
+content-length: 1202
+date: Mon, 30 Sep 2024 22:36:09 GMT
+x-telemetry-agent: Glean/60.4.0 (Rust on Windows)
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 470 Ended $$$$$$
+
+****** Request Body For Transaction With Id 470 ******
+{"ping_info":{"seq":15,"start_time":"2024-10-01T01:34:42.000+03:00","end_time":"2024-10-01T01:34:42.514+03:00","reason":"newtab_session_end","experiments":{"upgrade-spotlight-rollout":{"branch":"treatment","extra":{"type":"nimbus-rollout"}},"extensions-migration-in-import-wizard-116-rollout":{"branch":"control","extra":{"type":"nimbus-rollout"}},"highlighting-in-pdfs-rollout":{"branch":"treatment","extra":{"type":"nimbus-rollout"}},"long-term-holdback-2024-h2-velocity-desktop":{"branch":"delivery","extra":{"type":"nimbus-nimbus"}},"consolidated-search-configuration-row-desktop-relaunch":{"branch":"rollout","extra":{"type":"nimbus-rollout"}},"phc-rollout":{"branch":"rollout","extra":{"type":"nimbus-rollout"}},"backgroundupdate-enable-unelevated-installations-rollout-3-release":{"branch":"enabled","extra":{"type":"nimbus-rollout"}},"tab-hover-preview-release-rollout":{"branch":"control","extra":{"type":"nimbus-rollout"}},"encrypted-client-hello-fallback-mechanism":{"branch":"control","extra":{"type":"nimbus-rol
+$$$$$$ Request Body For Transaction With Id 470 Ended $$$$$$
+
+****** Response Header For Transaction With Id 470 ******
+HTTP/1.1 200 OK
+Server: openresty
+Date: Mon, 30 Sep 2024 22:36:12 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Content-Encoding: gzip
+Via: 1.1 google
+Alt-Svc: clear
+Transfer-Encoding: chunked
+
+
+$$$$$$ Response Header For Transaction With Id 470 Ended $$$$$$
+
+****** Response Body For Transaction With Id 470 ******
+
+$$$$$$ Response Body For Transaction With Id 470 Ended $$$$$$
+
+[Traffic Filtering] Filtering aus5.mozilla.org
+****** Request Header For Transaction With Id 482 ******
+GET /update/3/GMP/130.0.1/20240913135723/WINNT_x86_64-msvc-x64/ru/release/Windows_NT%252010.0.0.0.19045.4412%2520(x64)/default/default/update.xml HTTP/1.1
+Host: aus5.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 482 Ended $$$$$$
+
+****** Response Header For Transaction With Id 482 ******
+HTTP/1.1 200 OK
+Server: nginx
+Rule-ID: unknown
+Rule-Data-Version: unknown
+Content-Signature: x5u=https://content-signature-2.cdn.mozilla.net/chains/202402/aus.content-signature.mozilla.org-2024-11-02-12-44-24.chain; p384ecdsa=prp0ToMTX5KcmmlQ092AwgkTaOv_F5oukycjlBWoMWXsjacm_DpMgXUiCchjQcOdC-po7vQmL8SRHp-YhV6_4aj5hQeZJHIZFFDDWtWuuZLGUveCotgIcbWUkc3M47o3
+Strict-Transport-Security: max-age=31536000;
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'none'; frame-ancestors 'none'
+X-Proxy-Cache-Status: EXPIRED
+Content-Encoding: gzip
+Via: 1.1 google
+Date: Mon, 30 Sep 2024 22:35:54 GMT
+Content-Type: text/xml; charset=utf-8
+Vary: Accept-Encoding
+Content-Length: 525
+Age: 19
+Cache-Control: public,max-age=90
+Alt-Svc: clear
+
+
+$$$$$$ Response Header For Transaction With Id 482 Ended $$$$$$
+
+****** Response Body For Transaction With Id 482 ******
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-gmpopenh264" URL="http://ciscobinary.openh264.org/openh264-win64-31c4d2e4a037526fd30d4e5c39f60885986cf865.zip" hashFunction="sha512" hashValue="b667086ed49579592d435df2b486fe30ba1b62ddd169f19e700cd079239747dd3e20058c285fa9c10a533e34f22b5198ed9b1f92ae560a3067f3e3feacc724f1" size="491284" version="2.3.2"/>
+        <addon id="gmp-widevinecdm" URL="https://edgedl.me.gvt1.com/edgedl/release2/chrome_component/acccxbt6wwsvpxzpob4hojndwkqq_4.10.2830.0/oimompecagnajdejgnnjijobebaeigek_4.10.2830.0_win64_dldxogwi36sxwpr57ta4lg57z4.crx3" hashFunction="sha512" hashValue="03105dcf804e4713b6ed7c281ad0343ac6d6eb2aed57a897c6a09515a8c7f3e06b344563e224365dc9159cfd8ed3ef665d6aec18cc07aaad66eed0dc4957dde3" size="14507539" version="4.10.2830.0"/>
+    </addons>
+</updates>
+$$$$$$ Response Body For Transaction With Id 482 Ended $$$$$$
+
+[Traffic Filtering] Filtering aus5.mozilla.org
+****** Request Header For Transaction With Id 484 ******
+GET /update/3/SystemAddons/130.0.1/20240913135723/WINNT_x86_64-msvc-x64/ru/release/Windows_NT%252010.0.0.0.19045.4412%2520(x64)/default/default/update.xml HTTP/1.1
+Host: aus5.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 484 Ended $$$$$$
+
+****** Response Header For Transaction With Id 484 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Length: 42
+Rule-ID: unknown
+Rule-Data-Version: unknown
+Strict-Transport-Security: max-age=31536000;
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'none'; frame-ancestors 'none'
+X-Proxy-Cache-Status: MISS
+Via: 1.1 google
+Date: Mon, 30 Sep 2024 22:35:46 GMT
+Content-Type: text/xml; charset=utf-8
+Age: 27
+Cache-Control: public,max-age=90
+Alt-Svc: clear
+
+
+$$$$$$ Response Header For Transaction With Id 484 Ended $$$$$$
+
+****** Response Body For Transaction With Id 484 ******
+<?xml version="1.0"?>
+<updates>
+</updates>
+$$$$$$ Response Body For Transaction With Id 484 Ended $$$$$$
+
+[Traffic Filtering] Filtering aus5.mozilla.org
+****** Request Header For Transaction With Id 486 ******
+GET /update/3/GMP/130.0.1/20240913135723/WINNT_x86_64-msvc-x64/ru/release/Windows_NT%252010.0.0.0.19045.4412%2520(x64)/default/default/update.xml HTTP/1.1
+Host: aus5.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 486 Ended $$$$$$
+
+****** Response Header For Transaction With Id 486 ******
+HTTP/1.1 200 OK
+Server: nginx
+Rule-ID: unknown
+Rule-Data-Version: unknown
+Content-Signature: x5u=https://content-signature-2.cdn.mozilla.net/chains/202402/aus.content-signature.mozilla.org-2024-11-02-12-44-24.chain; p384ecdsa=prp0ToMTX5KcmmlQ092AwgkTaOv_F5oukycjlBWoMWXsjacm_DpMgXUiCchjQcOdC-po7vQmL8SRHp-YhV6_4aj5hQeZJHIZFFDDWtWuuZLGUveCotgIcbWUkc3M47o3
+Strict-Transport-Security: max-age=31536000;
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'none'; frame-ancestors 'none'
+X-Proxy-Cache-Status: EXPIRED
+Content-Encoding: gzip
+Via: 1.1 google
+Date: Mon, 30 Sep 2024 22:35:54 GMT
+Content-Type: text/xml; charset=utf-8
+Vary: Accept-Encoding
+Content-Length: 525
+Age: 19
+Cache-Control: public,max-age=90
+Alt-Svc: clear
+
+
+$$$$$$ Response Header For Transaction With Id 486 Ended $$$$$$
+
+****** Response Body For Transaction With Id 486 ******
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-gmpopenh264" URL="http://ciscobinary.openh264.org/openh264-win64-31c4d2e4a037526fd30d4e5c39f60885986cf865.zip" hashFunction="sha512" hashValue="b667086ed49579592d435df2b486fe30ba1b62ddd169f19e700cd079239747dd3e20058c285fa9c10a533e34f22b5198ed9b1f92ae560a3067f3e3feacc724f1" size="491284" version="2.3.2"/>
+        <addon id="gmp-widevinecdm" URL="https://edgedl.me.gvt1.com/edgedl/release2/chrome_component/acccxbt6wwsvpxzpob4hojndwkqq_4.10.2830.0/oimompecagnajdejgnnjijobebaeigek_4.10.2830.0_win64_dldxogwi36sxwpr57ta4lg57z4.crx3" hashFunction="sha512" hashValue="03105dcf804e4713b6ed7c281ad0343ac6d6eb2aed57a897c6a09515a8c7f3e06b344563e224365dc9159cfd8ed3ef665d6aec18cc07aaad66eed0dc4957dde3" size="14507539" version="4.10.2830.0"/>
+    </addons>
+</updates>
+$$$$$$ Response Body For Transaction With Id 486 Ended $$$$$$
+
+[Traffic Filtering] Filtering incoming.telemetry.mozilla.org
+****** Request Header For Transaction With Id 498 ******
+POST /submit/firefox-desktop/use-counters/1/8c871a57-6162-4e23-900d-776f121fd0ae HTTP/1.1
+Host: incoming.telemetry.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+content-encoding: gzip
+content-type: application/json; charset=utf-8
+content-length: 773
+date: Mon, 30 Sep 2024 22:36:13 GMT
+x-telemetry-agent: Glean/60.4.0 (Rust on Windows)
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 498 Ended $$$$$$
+
+****** Request Body For Transaction With Id 498 ******
+{"ping_info":{"seq":4,"start_time":"2024-09-30T21:13:04.000+03:00","end_time":"2024-10-01T01:34:42.540+03:00","reason":"app_shutdown_confirmed","experiments":{"encrypted-client-hello-fallback-mechanism":{"branch":"control","extra":{"type":"nimbus-rollout"}},"long-term-holdback-2024-h2-velocity-desktop":{"branch":"delivery","extra":{"type":"nimbus-nimbus"}},"backgroundupdate-enable-unelevated-installations-rollout-3-release":{"branch":"enabled","extra":{"type":"nimbus-rollout"}},"extensions-migration-in-import-wizard-116-rollout":{"branch":"control","extra":{"type":"nimbus-rollout"}},"launch-firefox-on-os-restart-treatment-a-rollout":{"branch":"treatment-a","extra":{"type":"nimbus-rollout"}},"highlighting-in-pdfs-rollout":{"branch":"treatment","extra":{"type":"nimbus-rollout"}},"consolidated-search-configuration-row-desktop-relaunch":{"branch":"rollout","extra":{"type":"nimbus-rollout"}},"phc-rollout":{"branch":"rollout","extra":{"type":"nimbus-rollout"}},"disable-redirects-for-authretries":{"branch":"control"
+$$$$$$ Request Body For Transaction With Id 498 Ended $$$$$$
+
+****** Response Header For Transaction With Id 498 ******
+HTTP/1.1 200 OK
+Server: openresty
+Date: Mon, 30 Sep 2024 22:36:13 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Content-Encoding: gzip
+Via: 1.1 google
+Alt-Svc: clear
+Transfer-Encoding: chunked
+
+
+$$$$$$ Response Header For Transaction With Id 498 Ended $$$$$$
+
+****** Response Body For Transaction With Id 498 ******
+
+$$$$$$ Response Body For Transaction With Id 498 Ended $$$$$$
+
+[Traffic Filtering] Filtering r11.o.lencr.org
+****** Request Header For Transaction With Id 501 ******
+POST / HTTP/1.1
+Host: r11.o.lencr.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 85
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 501 Ended $$$$$$
+
+****** Request Body For Transaction With Id 501 ******
+0S0Q0O0M0K0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14t\x02F\xF2Z\\B\x12 \xB5\xBD]v	\xA6\xBA\\\xA3G\xDF\x04\x14$\xF2.N\x0F\xBD\xCA\xF7>)U\xCAr\x8Di\x87VD\xE9z\x02\x12\x04?\x7F\xAC\x80\xC0\xB1h\xAD&\x80\xE0\xCB\xAE+\xA0H!
+$$$$$$ Request Body For Transaction With Id 501 Ended $$$$$$
+
+****** Response Header For Transaction With Id 501 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: application/ocsp-response
+Content-Length: 5
+Cache-Control: no-cache
+Expires: Mon, 30 Sep 2024 22:36:13 GMT
+Date: Mon, 30 Sep 2024 22:36:13 GMT
+Connection: keep-alive
+
+
+$$$$$$ Response Header For Transaction With Id 501 Ended $$$$$$
+
+****** Response Body For Transaction With Id 501 ******
+0\x03
+\x01\x06
+$$$$$$ Response Body For Transaction With Id 501 Ended $$$$$$
+
+[Traffic Filtering] Filtering content-signature-2.cdn.mozilla.net
+****** Request Header For Transaction With Id 503 ******
+GET /chains/202402/aus.content-signature.mozilla.org-2024-11-02-12-44-24.chain HTTP/1.1
+Host: content-signature-2.cdn.mozilla.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 503 Ended $$$$$$
+
+****** Response Header For Transaction With Id 503 ******
+HTTP/1.1 200 OK
+X-Amz-Id-2: MVAhgLt7qqNvHD5+ACeDK1CjHnFQeVX31xElhrpR1hBa1N8yt77OuvFeE9yBup3KPLu+o59i83zChHI1C6Iycw==
+X-Amz-Request-Id: TE75T7WEGCG6MX8D
+X-Amz-Server-Side-Encryption: AES256
+Content-Disposition: attachment
+Accept-Ranges: bytes
+Server: AmazonS3
+Content-Length: 5319
+Via: 1.1 google
+Date: Mon, 30 Sep 2024 22:04:09 GMT
+Age: 1924
+Last-Modified: Fri, 13 Sep 2024 12:44:25 GMT
+ETag: "65658967ce59590efe9a8d4b8ef64d4c"
+Content-Type: binary/octet-stream
+Cache-Control: public,max-age=3600
+Alt-Svc: clear
+
+
+$$$$$$ Response Header For Transaction With Id 503 Ended $$$$$$
+
+****** Response Body For Transaction With Id 503 ******
+-----BEGIN CERTIFICATE-----
+MIIC6zCCAnGgAwIBAgIIF/TOXuELSQEwCgYIKoZIzj0EAwMwgaMxCzAJBgNVBAYT
+AlVTMRwwGgYDVQQKExNNb3ppbGxhIENvcnBvcmF0aW9uMS8wLQYDVQQLEyZNb3pp
+bGxhIEFNTyBQcm9kdWN0aW9uIFNpZ25pbmcgU2VydmljZTFFMEMGA1UEAww8Q29u
+dGVudCBTaWduaW5nIEludGVybWVkaWF0ZS9lbWFpbEFkZHJlc3M9Zm94c2VjQG1v
+emlsbGEuY29tMB4XDTI0MDgxNDEyNDQyNFoXDTI0MTEwMjEyNDQyNFowgZ0xCzAJ
+BgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFp
+biBWaWV3MRwwGgYDVQQKExNNb3ppbGxhIENvcnBvcmF0aW9uMRcwFQYDVQQLEw5D
+bG91ZCBTZXJ2aWNlczEqMCgGA1UEAxMhYXVzLmNvbnRlbnQtc2lnbmF0dXJlLm1v
+emlsbGEub3JnMHYwEAYHKoZIzj0CAQYFK4EEACIDYgAEp1Fjj6Nz9IkeUnKdyhOB
+kvWeS4eWG8PCkv1n5EAAz9T8nXJACvn1OnIA/9cRNgoNDRCsVGRjk7xW2Uj7rO6A
+LjAQ1PikT83UFFvTIHbTli8tHivRO7ZwwWah3ro2oWQHo3YwdDAOBgNVHQ8BAf8E
+BAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUHAwMwHwYDVR0jBBgwFoAUoB1KF0+Mwis1
+RfFj8dpwcKfO+OEwLAYDVR0RBCUwI4IhYXVzLmNvbnRlbnQtc2lnbmF0dXJlLm1v
+emlsbGEub3JnMAoGCCqGSM49BAMDA2gAMGUCMD1TAvt+rSMUKdQ9jqrZ7CroknDb
+H/bDXyWQNh0/t0FerUrRnoH6CmWHCf5vPwitLQIxANm6Cx/iF6XSHaTveZqaCjms
+3wHOjTL/2NgXasy+srAxyuPpILGfh++3+4n11y3cZQ==
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+MIIFgTCCA2mgAwIBAgIFFwkzZYIwDQYJKoZIhvcNAQEMBQAwfTELMAkGA1UEBhMC
+VVMxHDAaBgNVBAoTE01vemlsbGEgQ29ycG9yYXRpb24xLzAtBgNVBAsTJk1vemls
+bGEgQU1PIFByb2R1Y3Rpb24gU2lnbmluZyBTZXJ2aWNlMR8wHQYDVQQDExZyb290
+LWNhLXByb2R1Y3Rpb24tYW1vMCIYDzIwMjQwMjAxMDAwMDAwWhgPMjEwMDEyMDMw
+MDAwMDBaMIGjMQswCQYDVQQGEwJVUzEcMBoGA1UEChMTTW96aWxsYSBDb3Jwb3Jh
+dGlvbjEvMC0GA1UECxMmTW96aWxsYSBBTU8gUHJvZHVjdGlvbiBTaWduaW5nIFNl
+cnZpY2UxRTBDBgNVBAMMPENvbnRlbnQgU2lnbmluZyBJbnRlcm1lZGlhdGUvZW1h
+aWxBZGRyZXNzPWZveHNlY0Btb3ppbGxhLmNvbTB2MBAGByqGSM49AgEGBSuBBAAi
+A2IABCSVpyWrz0Eo9xgh9R1VLgkX+lnGNNU6VhV2PhAnnGikcCeBeRSCBiSQePS2
+ZlURytesJWrWoS0H+TvBdeRTgc32tftZxSSSwKUMmZRDappvM/uLbSrd6kY2rntE
+TaneEqOCAYkwggGFMAwGA1UdEwQFMAMBAf8wDgYDVR0PAQH/BAQDAgEGMBYGA1Ud
+JQEB/wQMMAoGCCsGAQUFBwMDMB0GA1UdDgQWBBSgHUoXT4zCKzVF8WPx2nBwp874
+4TCBqAYDVR0jBIGgMIGdgBSzvOpYdKvhbngqsqucIx6oYyyXt6GBgaR/MH0xCzAJ
+BgNVBAYTAlVTMRwwGgYDVQQKExNNb3ppbGxhIENvcnBvcmF0aW9uMS8wLQYDVQQL
+EyZNb3ppbGxhIEFNTyBQcm9kdWN0aW9uIFNpZ25pbmcgU2VydmljZTEfMB0GA1UE
+AxMWcm9vdC1jYS1wcm9kdWN0aW9uLWFtb4IBATAzBglghkgBhvhCAQQEJhYkaHR0
+cDovL2FkZG9ucy5hbGxpem9tLm9yZy9jYS9jcmwucGVtME4GA1UdHgRHMEWgQzAg
+gh4uY29udGVudC1zaWduYXR1cmUubW96aWxsYS5vcmcwH4IdY29udGVudC1zaWdu
+YXR1cmUubW96aWxsYS5vcmcwDQYJKoZIhvcNAQEMBQADggIBAA2y9FMsBG0fkr0o
+knPhdNHMdWOPuknuHoChta23uWkPntAkQzMq6srIoVLWmNTsunLL20guOT1AmjB9
+wu4CMR172R2A7jBHnivBojNw/nFxeiN1eL8dhkyHnkHZMuvjUPttcbQyi49tcX+c
+LBAKfUwwIWS+zMN+1xmYJW29Rs9Dd8PqQ9CnWMPgLh2EFf5CxKjbODcY4qyhwspc
+WenY6wBageD9iEt3GBgqgvGbSJNAQJFmXfiR1FwX1/2Y4GW5c6ZclZShTceEiU5C
+lzGCShw0pJebrLCJ7dVm5CeDVlAKt2E7kvMYlDwPiC7OTu9eiyCLJJKLWdJpb85X
+7SZ3Xe1OJjZNyf+s0eWWBIuCE4xXjRlH6d8px4EuQoamEH7SKcL5+mYXbRKJcdFe
+hxTMs7+tjmXuX6S7jaVO81xuUuFKLbjCJafLNeRZ2eUNQ1ClhsItPkyCfbw8H212
+Z0xT442Me7xaSjIjqmu4w7nc/+LcSOmq1PqHcSfg1ROE50ldGqRF2zUFFOpLWJnz
+sH6EX7JiqktEUF//2oA9VuXI0lytfeIMAtiAerfdYYHsvndoJu9q6dV6iUlYq53n
+mbZFhj63eioeITgpTsZ6XpKFU1fH81muAersQ4zLvvt3F4w8rCn1BdnVC5wtI2cp
+68hE4Q9r6kl7gs07YY6nlVQNK39l
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+MIIGZTCCBE2gAwIBAgIBATANBgkqhkiG9w0BAQwFADB9MQswCQYDVQQGEwJVUzEc
+MBoGA1UEChMTTW96aWxsYSBDb3Jwb3JhdGlvbjEvMC0GA1UECxMmTW96aWxsYSBB
+TU8gUHJvZHVjdGlvbiBTaWduaW5nIFNlcnZpY2UxHzAdBgNVBAMTFnJvb3QtY2Et
+cHJvZHVjdGlvbi1hbW8wIhgPMjAyNDAyMDEwMDAwMDBaGA8yMjAwMTIwMzAwMDAw
+MFowfTELMAkGA1UEBhMCVVMxHDAaBgNVBAoTE01vemlsbGEgQ29ycG9yYXRpb24x
+LzAtBgNVBAsTJk1vemlsbGEgQU1PIFByb2R1Y3Rpb24gU2lnbmluZyBTZXJ2aWNl
+MR8wHQYDVQQDExZyb290LWNhLXByb2R1Y3Rpb24tYW1vMIICIDANBgkqhkiG9w0B
+AQEFAAOCAg0AMIICCAKCAgEAtLth11268Mt+vjD3in+Y4KAEjHzDc+5iVgXnCYL5
+U3+IRyWy8zD7CFGrsyPRhKS3x3WesM0shTm+ADPg9ZsQFobmSdzAwCTn9wdUbOkK
+Kx65fKqpTbTxqnqZ6TSXC6OybEqqhNzVJu9jIKiB0YE0bKlLPuyyDxnu9utlPjf0
+9Cz2FS3uK2dkQx6GmYWGO2vfuPZhziP4NmBQfvcmYxPl3aZU9pAYAOD/HW+4uyNL
+SIuG9AdDesvTIS/gkWScsXRXtsAcpCV9eC7IXirDNWsx42Tuekija1vFQCUy5KUc
+QprIk69PH5z8gypmnmdAbbLoInHYqXGaV64iBprGWyNdqucrsI0hC3ZA1elGo6Np
+/tsLObl6z9+Nl+9VoloQv3ReXc9SyrYwXZlJMWkDDj/7obVxCga2aNaLpw0UMdY+
+/kpEOARMIwd0hLa+1w1hjnDiJKCWVjwAnwSwtzyQgVo0wMgZbndAuZ9wsva3oAAJ
+ziKiNbdehlNpWkYe3pSe4D0TYEIMC13mXBccOsL8ohHJgozhEOjzPFEI7YTrCpbM
+zIZSsL48jhg6M7ZKkgcv7/gLMezltkO65VXymqy9JkRGXUjH6Mt804LTFQjNL4TZ
+es3L3+RzTaKaBHYOcrl6NnIWdadSfqvOm9BuciUTHk9vojlWNhEN+7R66lFEZ3As
+uLsCAQOjge0wgeowDAYDVR0TBAUwAwEB/zAOBgNVHQ8BAf8EBAMCAQYwFgYDVR0l
+AQH/BAwwCgYIKwYBBQUHAwMwHQYDVR0OBBYEFLO86lh0q+FueCqyq5wjHqhjLJe3
+MIGSBgNVHSMEgYowgYehgYGkfzB9MQswCQYDVQQGEwJVUzEcMBoGA1UEChMTTW96
+aWxsYSBDb3Jwb3JhdGlvbjEvMC0GA1UECxMmTW96aWxsYSBBTU8gUHJvZHVjdGlv
+biBTaWduaW5nIFNlcnZpY2UxHzAdBgNVBAMTFnJvb3QtY2EtcHJvZHVjdGlvbi1h
+bW+CAQEwDQYJKoZIhvcNAQEMBQADggIBAAAJuN23qDiyAZ8y9DhqTfIfdYBXC7jg
+f7p5DNCj6mcfLxCMLuSvLljYWm0IfHYs5W0lnQgm8+N0m3SAjQd18AzWfXNklFjZ
+1EcP8MRU/keFEk9SmeHZhP916jQfqQvB45w4QwPcJG0nPkWsYzceqD3uL5g2g4Jg
+gk+WYWmtE4eeM2BX6cT0itMErYKWei3SF09TdrCX+XpHMixg4nnDdsGe9wxc8F/o
+diQ48f/7AZo06moMyZvIH4PPcVt0osAU18fLO0RrVJkupMraxbM1XXL1UwJlyV+p
+kvJutX2xBB1f1BA3xPl3NlQneaLIm3JFsw0r7t0z0n1shC6xCi4+t3Fh6Z38CnbS
+WwAe5rA2OCQYMjsehxRK9BhmDCG8U65GVd9t8nV4iEJFTrjntBDEFtVD5s4Qnlyv
+OUrWd2du4dLCs+WW2E6+R7jZtrsIqFD6qwCLqcgBgC9CM9UgHeUBOixmZLBKCNDE
+N1sRkmcVwXcCl5btdgVVq74Mgsd38xsmYuFoMi6nbDLllm6T2ql8LZExyX2i/vo0
+pxhEVRaFwj1J1r3TRNXksjdqFcgpNCMf2FRbjDGtVLXRVG0DCCGRayigKgdH78qM
+HpdXrbaTDFsfMLTAMnGFnqOZMuMobNJS5M6/vqdepoC8L7xmI5dQgW8YGyymr8DP
+gchMof0tylgn
+-----END CERTIFICATE-----
+
+$$$$$$ Response Body For Transaction With Id 503 Ended $$$$$$
+
+[Traffic Filtering] Filtering content-signature-2.cdn.mozilla.net
+****** Request Header For Transaction With Id 513 ******
+GET /chains/202402/aus.content-signature.mozilla.org-2024-11-02-12-44-24.chain HTTP/1.1
+Host: content-signature-2.cdn.mozilla.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 513 Ended $$$$$$
+
+****** Response Header For Transaction With Id 513 ******
+HTTP/1.1 200 OK
+X-Amz-Id-2: MVAhgLt7qqNvHD5+ACeDK1CjHnFQeVX31xElhrpR1hBa1N8yt77OuvFeE9yBup3KPLu+o59i83zChHI1C6Iycw==
+X-Amz-Request-Id: TE75T7WEGCG6MX8D
+X-Amz-Server-Side-Encryption: AES256
+Content-Disposition: attachment
+Accept-Ranges: bytes
+Server: AmazonS3
+Content-Length: 5319
+Via: 1.1 google
+Date: Mon, 30 Sep 2024 22:04:09 GMT
+Age: 1924
+Last-Modified: Fri, 13 Sep 2024 12:44:25 GMT
+ETag: "65658967ce59590efe9a8d4b8ef64d4c"
+Content-Type: binary/octet-stream
+Cache-Control: public,max-age=3600
+Alt-Svc: clear
+
+
+$$$$$$ Response Header For Transaction With Id 513 Ended $$$$$$
+
+****** Response Body For Transaction With Id 513 ******
+-----BEGIN CERTIFICATE-----
+MIIC6zCCAnGgAwIBAgIIF/TOXuELSQEwCgYIKoZIzj0EAwMwgaMxCzAJBgNVBAYT
+AlVTMRwwGgYDVQQKExNNb3ppbGxhIENvcnBvcmF0aW9uMS8wLQYDVQQLEyZNb3pp
+bGxhIEFNTyBQcm9kdWN0aW9uIFNpZ25pbmcgU2VydmljZTFFMEMGA1UEAww8Q29u
+dGVudCBTaWduaW5nIEludGVybWVkaWF0ZS9lbWFpbEFkZHJlc3M9Zm94c2VjQG1v
+emlsbGEuY29tMB4XDTI0MDgxNDEyNDQyNFoXDTI0MTEwMjEyNDQyNFowgZ0xCzAJ
+BgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFp
+biBWaWV3MRwwGgYDVQQKExNNb3ppbGxhIENvcnBvcmF0aW9uMRcwFQYDVQQLEw5D
+bG91ZCBTZXJ2aWNlczEqMCgGA1UEAxMhYXVzLmNvbnRlbnQtc2lnbmF0dXJlLm1v
+emlsbGEub3JnMHYwEAYHKoZIzj0CAQYFK4EEACIDYgAEp1Fjj6Nz9IkeUnKdyhOB
+kvWeS4eWG8PCkv1n5EAAz9T8nXJACvn1OnIA/9cRNgoNDRCsVGRjk7xW2Uj7rO6A
+LjAQ1PikT83UFFvTIHbTli8tHivRO7ZwwWah3ro2oWQHo3YwdDAOBgNVHQ8BAf8E
+BAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUHAwMwHwYDVR0jBBgwFoAUoB1KF0+Mwis1
+RfFj8dpwcKfO+OEwLAYDVR0RBCUwI4IhYXVzLmNvbnRlbnQtc2lnbmF0dXJlLm1v
+emlsbGEub3JnMAoGCCqGSM49BAMDA2gAMGUCMD1TAvt+rSMUKdQ9jqrZ7CroknDb
+H/bDXyWQNh0/t0FerUrRnoH6CmWHCf5vPwitLQIxANm6Cx/iF6XSHaTveZqaCjms
+3wHOjTL/2NgXasy+srAxyuPpILGfh++3+4n11y3cZQ==
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+MIIFgTCCA2mgAwIBAgIFFwkzZYIwDQYJKoZIhvcNAQEMBQAwfTELMAkGA1UEBhMC
+VVMxHDAaBgNVBAoTE01vemlsbGEgQ29ycG9yYXRpb24xLzAtBgNVBAsTJk1vemls
+bGEgQU1PIFByb2R1Y3Rpb24gU2lnbmluZyBTZXJ2aWNlMR8wHQYDVQQDExZyb290
+LWNhLXByb2R1Y3Rpb24tYW1vMCIYDzIwMjQwMjAxMDAwMDAwWhgPMjEwMDEyMDMw
+MDAwMDBaMIGjMQswCQYDVQQGEwJVUzEcMBoGA1UEChMTTW96aWxsYSBDb3Jwb3Jh
+dGlvbjEvMC0GA1UECxMmTW96aWxsYSBBTU8gUHJvZHVjdGlvbiBTaWduaW5nIFNl
+cnZpY2UxRTBDBgNVBAMMPENvbnRlbnQgU2lnbmluZyBJbnRlcm1lZGlhdGUvZW1h
+aWxBZGRyZXNzPWZveHNlY0Btb3ppbGxhLmNvbTB2MBAGByqGSM49AgEGBSuBBAAi
+A2IABCSVpyWrz0Eo9xgh9R1VLgkX+lnGNNU6VhV2PhAnnGikcCeBeRSCBiSQePS2
+ZlURytesJWrWoS0H+TvBdeRTgc32tftZxSSSwKUMmZRDappvM/uLbSrd6kY2rntE
+TaneEqOCAYkwggGFMAwGA1UdEwQFMAMBAf8wDgYDVR0PAQH/BAQDAgEGMBYGA1Ud
+JQEB/wQMMAoGCCsGAQUFBwMDMB0GA1UdDgQWBBSgHUoXT4zCKzVF8WPx2nBwp874
+4TCBqAYDVR0jBIGgMIGdgBSzvOpYdKvhbngqsqucIx6oYyyXt6GBgaR/MH0xCzAJ
+BgNVBAYTAlVTMRwwGgYDVQQKExNNb3ppbGxhIENvcnBvcmF0aW9uMS8wLQYDVQQL
+EyZNb3ppbGxhIEFNTyBQcm9kdWN0aW9uIFNpZ25pbmcgU2VydmljZTEfMB0GA1UE
+AxMWcm9vdC1jYS1wcm9kdWN0aW9uLWFtb4IBATAzBglghkgBhvhCAQQEJhYkaHR0
+cDovL2FkZG9ucy5hbGxpem9tLm9yZy9jYS9jcmwucGVtME4GA1UdHgRHMEWgQzAg
+gh4uY29udGVudC1zaWduYXR1cmUubW96aWxsYS5vcmcwH4IdY29udGVudC1zaWdu
+YXR1cmUubW96aWxsYS5vcmcwDQYJKoZIhvcNAQEMBQADggIBAA2y9FMsBG0fkr0o
+knPhdNHMdWOPuknuHoChta23uWkPntAkQzMq6srIoVLWmNTsunLL20guOT1AmjB9
+wu4CMR172R2A7jBHnivBojNw/nFxeiN1eL8dhkyHnkHZMuvjUPttcbQyi49tcX+c
+LBAKfUwwIWS+zMN+1xmYJW29Rs9Dd8PqQ9CnWMPgLh2EFf5CxKjbODcY4qyhwspc
+WenY6wBageD9iEt3GBgqgvGbSJNAQJFmXfiR1FwX1/2Y4GW5c6ZclZShTceEiU5C
+lzGCShw0pJebrLCJ7dVm5CeDVlAKt2E7kvMYlDwPiC7OTu9eiyCLJJKLWdJpb85X
+7SZ3Xe1OJjZNyf+s0eWWBIuCE4xXjRlH6d8px4EuQoamEH7SKcL5+mYXbRKJcdFe
+hxTMs7+tjmXuX6S7jaVO81xuUuFKLbjCJafLNeRZ2eUNQ1ClhsItPkyCfbw8H212
+Z0xT442Me7xaSjIjqmu4w7nc/+LcSOmq1PqHcSfg1ROE50ldGqRF2zUFFOpLWJnz
+sH6EX7JiqktEUF//2oA9VuXI0lytfeIMAtiAerfdYYHsvndoJu9q6dV6iUlYq53n
+mbZFhj63eioeITgpTsZ6XpKFU1fH81muAersQ4zLvvt3F4w8rCn1BdnVC5wtI2cp
+68hE4Q9r6kl7gs07YY6nlVQNK39l
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+MIIGZTCCBE2gAwIBAgIBATANBgkqhkiG9w0BAQwFADB9MQswCQYDVQQGEwJVUzEc
+MBoGA1UEChMTTW96aWxsYSBDb3Jwb3JhdGlvbjEvMC0GA1UECxMmTW96aWxsYSBB
+TU8gUHJvZHVjdGlvbiBTaWduaW5nIFNlcnZpY2UxHzAdBgNVBAMTFnJvb3QtY2Et
+cHJvZHVjdGlvbi1hbW8wIhgPMjAyNDAyMDEwMDAwMDBaGA8yMjAwMTIwMzAwMDAw
+MFowfTELMAkGA1UEBhMCVVMxHDAaBgNVBAoTE01vemlsbGEgQ29ycG9yYXRpb24x
+LzAtBgNVBAsTJk1vemlsbGEgQU1PIFByb2R1Y3Rpb24gU2lnbmluZyBTZXJ2aWNl
+MR8wHQYDVQQDExZyb290LWNhLXByb2R1Y3Rpb24tYW1vMIICIDANBgkqhkiG9w0B
+AQEFAAOCAg0AMIICCAKCAgEAtLth11268Mt+vjD3in+Y4KAEjHzDc+5iVgXnCYL5
+U3+IRyWy8zD7CFGrsyPRhKS3x3WesM0shTm+ADPg9ZsQFobmSdzAwCTn9wdUbOkK
+Kx65fKqpTbTxqnqZ6TSXC6OybEqqhNzVJu9jIKiB0YE0bKlLPuyyDxnu9utlPjf0
+9Cz2FS3uK2dkQx6GmYWGO2vfuPZhziP4NmBQfvcmYxPl3aZU9pAYAOD/HW+4uyNL
+SIuG9AdDesvTIS/gkWScsXRXtsAcpCV9eC7IXirDNWsx42Tuekija1vFQCUy5KUc
+QprIk69PH5z8gypmnmdAbbLoInHYqXGaV64iBprGWyNdqucrsI0hC3ZA1elGo6Np
+/tsLObl6z9+Nl+9VoloQv3ReXc9SyrYwXZlJMWkDDj/7obVxCga2aNaLpw0UMdY+
+/kpEOARMIwd0hLa+1w1hjnDiJKCWVjwAnwSwtzyQgVo0wMgZbndAuZ9wsva3oAAJ
+ziKiNbdehlNpWkYe3pSe4D0TYEIMC13mXBccOsL8ohHJgozhEOjzPFEI7YTrCpbM
+zIZSsL48jhg6M7ZKkgcv7/gLMezltkO65VXymqy9JkRGXUjH6Mt804LTFQjNL4TZ
+es3L3+RzTaKaBHYOcrl6NnIWdadSfqvOm9BuciUTHk9vojlWNhEN+7R66lFEZ3As
+uLsCAQOjge0wgeowDAYDVR0TBAUwAwEB/zAOBgNVHQ8BAf8EBAMCAQYwFgYDVR0l
+AQH/BAwwCgYIKwYBBQUHAwMwHQYDVR0OBBYEFLO86lh0q+FueCqyq5wjHqhjLJe3
+MIGSBgNVHSMEgYowgYehgYGkfzB9MQswCQYDVQQGEwJVUzEcMBoGA1UEChMTTW96
+aWxsYSBDb3Jwb3JhdGlvbjEvMC0GA1UECxMmTW96aWxsYSBBTU8gUHJvZHVjdGlv
+biBTaWduaW5nIFNlcnZpY2UxHzAdBgNVBAMTFnJvb3QtY2EtcHJvZHVjdGlvbi1h
+bW+CAQEwDQYJKoZIhvcNAQEMBQADggIBAAAJuN23qDiyAZ8y9DhqTfIfdYBXC7jg
+f7p5DNCj6mcfLxCMLuSvLljYWm0IfHYs5W0lnQgm8+N0m3SAjQd18AzWfXNklFjZ
+1EcP8MRU/keFEk9SmeHZhP916jQfqQvB45w4QwPcJG0nPkWsYzceqD3uL5g2g4Jg
+gk+WYWmtE4eeM2BX6cT0itMErYKWei3SF09TdrCX+XpHMixg4nnDdsGe9wxc8F/o
+diQ48f/7AZo06moMyZvIH4PPcVt0osAU18fLO0RrVJkupMraxbM1XXL1UwJlyV+p
+kvJutX2xBB1f1BA3xPl3NlQneaLIm3JFsw0r7t0z0n1shC6xCi4+t3Fh6Z38CnbS
+WwAe5rA2OCQYMjsehxRK9BhmDCG8U65GVd9t8nV4iEJFTrjntBDEFtVD5s4Qnlyv
+OUrWd2du4dLCs+WW2E6+R7jZtrsIqFD6qwCLqcgBgC9CM9UgHeUBOixmZLBKCNDE
+N1sRkmcVwXcCl5btdgVVq74Mgsd38xsmYuFoMi6nbDLllm6T2ql8LZExyX2i/vo0
+pxhEVRaFwj1J1r3TRNXksjdqFcgpNCMf2FRbjDGtVLXRVG0DCCGRayigKgdH78qM
+HpdXrbaTDFsfMLTAMnGFnqOZMuMobNJS5M6/vqdepoC8L7xmI5dQgW8YGyymr8DP
+gchMof0tylgn
+-----END CERTIFICATE-----
+
+$$$$$$ Response Body For Transaction With Id 513 Ended $$$$$$
+
+[Traffic Filtering] Filtering classify-client.services.mozilla.com
+****** Request Header For Transaction With Id 519 ******
+GET /api/v1/classify_client/ HTTP/1.1
+Host: classify-client.services.mozilla.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: application/json
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Connection: keep-alive
+Priority: u=4
+
+
+$$$$$$ Request Header For Transaction With Id 519 Ended $$$$$$
+
+****** Response Header For Transaction With Id 519 ******
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 30 Sep 2024 22:36:13 GMT
+Content-Type: application/json
+Content-Length: 64
+cache-control: max-age=0, no-cache, no-store, must-revalidate
+Strict-Transport-Security: max-age=31536000
+Via: 1.1 google
+Alt-Svc: clear
+
+
+$$$$$$ Response Header For Transaction With Id 519 Ended $$$$$$
+
+****** Response Body For Transaction With Id 519 ******
+{"request_time":"2024-09-30T22:36:13.868118329Z","country":"RU"}
+$$$$$$ Response Body For Transaction With Id 519 Ended $$$$$$
+
+[Traffic Filtering] Filtering incoming.telemetry.mozilla.org
+****** Request Header For Transaction With Id 522 ******
+POST /submit/firefox-desktop/baseline/1/fbcfe6f5-1f29-40cb-939d-31eda901ddd4 HTTP/1.1
+Host: incoming.telemetry.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+content-encoding: gzip
+content-type: application/json; charset=utf-8
+content-length: 860
+date: Mon, 30 Sep 2024 22:36:13 GMT
+x-telemetry-agent: Glean/60.4.0 (Rust on Windows)
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 522 Ended $$$$$$
+
+****** Request Body For Transaction With Id 522 ******
+{"ping_info":{"seq":5,"start_time":"2024-09-30T21:12:50.000+03:00","end_time":"2024-10-01T01:34:42.561+03:00","reason":"active","experiments":{"highlighting-in-pdfs-rollout":{"branch":"treatment","extra":{"type":"nimbus-rollout"}},"consolidated-search-configuration-row-desktop-relaunch":{"branch":"rollout","extra":{"type":"nimbus-rollout"}},"tab-hover-preview-release-rollout":{"branch":"control","extra":{"type":"nimbus-rollout"}},"extensions-migration-in-import-wizard-116-rollout":{"branch":"control","extra":{"type":"nimbus-rollout"}},"launch-firefox-on-os-restart-treatment-a-rollout":{"branch":"treatment-a","extra":{"type":"nimbus-rollout"}},"disable-redirects-for-authretries":{"branch":"control","extra":{"type":"nimbus-rollout"}},"long-term-holdback-2024-h2-velocity-desktop":{"branch":"delivery","extra":{"type":"nimbus-nimbus"}},"phc-rollout":{"branch":"rollout","extra":{"type":"nimbus-rollout"}},"encrypted-client-hello-fallback-mechanism":{"branch":"control","extra":{"type":"nimbus-rollout"}},"backgroundup
+$$$$$$ Request Body For Transaction With Id 522 Ended $$$$$$
+
+****** Response Header For Transaction With Id 522 ******
+HTTP/1.1 200 OK
+Server: openresty
+Date: Mon, 30 Sep 2024 22:36:13 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Content-Encoding: gzip
+Via: 1.1 google
+Alt-Svc: clear
+Transfer-Encoding: chunked
+
+
+$$$$$$ Response Header For Transaction With Id 522 Ended $$$$$$
+
+****** Response Body For Transaction With Id 522 ******
+
+$$$$$$ Response Body For Transaction With Id 522 Ended $$$$$$
+
+[Traffic Filtering] Filtering content-signature-2.cdn.mozilla.net
+****** Request Header For Transaction With Id 529 ******
+GET /chains/202402/normandy.content-signature.mozilla.org-2024-11-02-12-44-22.chain?cachebust=2017-06-13-21-06 HTTP/1.1
+Host: content-signature-2.cdn.mozilla.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: application/json
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Connection: keep-alive
+If-Modified-Since: Fri, 13 Sep 2024 12:44:23 GMT
+If-None-Match: "e37678d995f0ddabee0fc795218700f8"
+Priority: u=4
+
+
+$$$$$$ Request Header For Transaction With Id 529 Ended $$$$$$
+
+****** Response Header For Transaction With Id 529 ******
+HTTP/1.1 304 Not Modified
+Date: Mon, 30 Sep 2024 22:30:38 GMT
+Age: 336
+ETag: "e37678d995f0ddabee0fc795218700f8"
+Cache-Control: public,max-age=3600
+Alt-Svc: clear
+
+
+$$$$$$ Response Header For Transaction With Id 529 Ended $$$$$$
+
+[Traffic Filtering] Filtering incoming.telemetry.mozilla.org
+****** Request Header For Transaction With Id 531 ******
+POST /submit/firefox-desktop/newtab/1/1da486c9-88b2-4b66-bf9e-6be5c133b1c7 HTTP/1.1
+Host: incoming.telemetry.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+content-encoding: gzip
+content-length: 478
+content-type: application/json; charset=utf-8
+x-telemetry-agent: Glean/60.4.0 (Rust on Windows)
+date: Mon, 30 Sep 2024 22:36:14 GMT
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 531 Ended $$$$$$
+
+****** Request Body For Transaction With Id 531 ******
+{"ping_info":{"seq":16,"start_time":"2024-10-01T01:34:42.000+03:00","end_time":"2024-10-01T01:35:23.637+03:00","reason":"component_init"},"client_info":{"telemetry_sdk_build":"60.4.0","first_run_date":"2024-09-29+03:00","build_date":"1970-01-01T00:00:00+00:00","windows_build_number":19045,"app_channel":"release","architecture":"x86_64","app_build":"20240913135723","app_display_version":"130.0.1","locale":"ru","os_version":"10.0","os":"Windows","client_id":"98bfcdf8-c612-46bb-986a-6bf0a53f2f18"},"metrics":{"boolean":{"topsites.enabled":true,"topsites.sponsored_enabled":true,"pocket.enabled":true,"pocket.is_signed_in":false,"newtab.weather_enabled":true,"newtab.search.enabled":true,"pocket.sponsored_stories_enabled":true},"string":{"newtab.locale":"ru","newtab.newtab_category":"enabled","newtab.homepage_category":"enabled"},"string_list":{"newtab.blocked_sponsors":[]},"quantity":{"topsites.rows":1}}}
+$$$$$$ Request Body For Transaction With Id 531 Ended $$$$$$
+
+****** Response Header For Transaction With Id 531 ******
+HTTP/1.1 200 OK
+Server: openresty
+Date: Mon, 30 Sep 2024 22:36:14 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Content-Encoding: gzip
+Via: 1.1 google
+Alt-Svc: clear
+Transfer-Encoding: chunked
+
+
+$$$$$$ Response Header For Transaction With Id 531 Ended $$$$$$
+
+****** Response Body For Transaction With Id 531 ******
+
+$$$$$$ Response Body For Transaction With Id 531 Ended $$$$$$
+
+[Traffic Filtering] Filtering incoming.telemetry.mozilla.org
+****** Request Header For Transaction With Id 534 ******
+POST /submit/firefox-desktop/baseline/1/6aba543f-6ef9-4b97-91af-da44760bec03 HTTP/1.1
+Host: incoming.telemetry.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+content-encoding: gzip
+content-length: 821
+content-type: application/json; charset=utf-8
+x-telemetry-agent: Glean/60.4.0 (Rust on Windows)
+date: Mon, 30 Sep 2024 22:36:14 GMT
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 534 Ended $$$$$$
+
+****** Request Body For Transaction With Id 534 ******
+{"ping_info":{"seq":6,"start_time":"2024-10-01T01:34:42.000+03:00","end_time":"2024-10-01T01:35:23.881+03:00","reason":"active","experiments":{"extensions-migration-in-import-wizard-116-rollout":{"branch":"control","extra":{"type":"nimbus-rollout"}},"phc-rollout":{"branch":"rollout","extra":{"type":"nimbus-rollout"}},"disable-redirects-for-authretries":{"branch":"control","extra":{"type":"nimbus-rollout"}},"backgroundupdate-enable-unelevated-installations-rollout-3-release":{"branch":"enabled","extra":{"type":"nimbus-rollout"}},"fx-accounts-ping-release-rollout-2":{"branch":"control","extra":{"type":"nimbus-rollout"}},"encrypted-client-hello-fallback-mechanism":{"branch":"control","extra":{"type":"nimbus-rollout"}},"consolidated-search-configuration-row-desktop-relaunch":{"branch":"rollout","extra":{"type":"nimbus-rollout"}},"highlighting-in-pdfs-rollout":{"branch":"treatment","extra":{"type":"nimbus-rollout"}},"long-term-holdback-2024-h2-velocity-desktop":{"branch":"delivery","extra":{"type":"nimbus-nimbus"}
+$$$$$$ Request Body For Transaction With Id 534 Ended $$$$$$
+
+****** Response Header For Transaction With Id 534 ******
+HTTP/1.1 200 OK
+Server: openresty
+Date: Mon, 30 Sep 2024 22:36:14 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Content-Encoding: gzip
+Via: 1.1 google
+Alt-Svc: clear
+Transfer-Encoding: chunked
+
+
+$$$$$$ Response Header For Transaction With Id 534 Ended $$$$$$
+
+****** Response Body For Transaction With Id 534 ******
+
+$$$$$$ Response Body For Transaction With Id 534 Ended $$$$$$
+
+[Traffic Filtering] Filtering incoming.telemetry.mozilla.org
+****** Request Header For Transaction With Id 540 ******
+POST /submit/firefox-desktop/events/1/7166c990-899a-47be-a111-53cfe3b3204b HTTP/1.1
+Host: incoming.telemetry.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+content-encoding: gzip
+content-type: application/json; charset=utf-8
+content-length: 1204
+date: Mon, 30 Sep 2024 22:36:14 GMT
+x-telemetry-agent: Glean/60.4.0 (Rust on Windows)
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 540 Ended $$$$$$
+
+****** Request Body For Transaction With Id 540 ******
+{"ping_info":{"seq":4,"start_time":"2024-10-01T01:34:42.000+03:00","end_time":"2024-10-01T01:35:23.415+03:00","reason":"startup","experiments":{"consolidated-search-configuration-row-desktop-relaunch":{"branch":"rollout","extra":{"type":"nimbus-rollout"}},"encrypted-client-hello-fallback-mechanism":{"branch":"control","extra":{"type":"nimbus-rollout"}},"extensions-migration-in-import-wizard-116-rollout":{"branch":"control","extra":{"type":"nimbus-rollout"}},"disable-redirects-for-authretries":{"branch":"control","extra":{"type":"nimbus-rollout"}},"phc-rollout":{"branch":"rollout","extra":{"type":"nimbus-rollout"}},"tab-hover-preview-release-rollout":{"branch":"control","extra":{"type":"nimbus-rollout"}},"highlighting-in-pdfs-rollout":{"branch":"treatment","extra":{"type":"nimbus-rollout"}},"upgrade-spotlight-rollout":{"branch":"treatment","extra":{"type":"nimbus-rollout"}},"backgroundupdate-enable-unelevated-installations-rollout-3-release":{"branch":"enabled","extra":{"type":"nimbus-rollout"}},"launch-firefo
+$$$$$$ Request Body For Transaction With Id 540 Ended $$$$$$
+
+****** Response Header For Transaction With Id 540 ******
+HTTP/1.1 200 OK
+Server: openresty
+Date: Mon, 30 Sep 2024 22:36:14 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Content-Encoding: gzip
+Via: 1.1 google
+Alt-Svc: clear
+Transfer-Encoding: chunked
+
+
+$$$$$$ Response Header For Transaction With Id 540 Ended $$$$$$
+
+****** Response Body For Transaction With Id 540 ******
+
+$$$$$$ Response Body For Transaction With Id 540 Ended $$$$$$
+
+[Traffic Filtering] Filtering incoming.telemetry.mozilla.org
+****** Request Header For Transaction With Id 543 ******
+POST /submit/firefox-desktop/use-counters/1/9128e8ec-8a46-4e63-9b69-46618826f896 HTTP/1.1
+Host: incoming.telemetry.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+content-encoding: gzip
+content-type: application/json; charset=utf-8
+content-length: 763
+x-telemetry-agent: Glean/60.4.0 (Rust on Windows)
+date: Mon, 30 Sep 2024 22:36:14 GMT
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 543 Ended $$$$$$
+
+****** Request Body For Transaction With Id 543 ******
+{"ping_info":{"seq":3,"start_time":"2024-09-30T13:03:17.000+03:00","end_time":"2024-09-30T21:13:04.189+03:00","reason":"app_shutdown_confirmed","experiments":{"launch-firefox-on-os-restart-treatment-a-rollout":{"branch":"treatment-a","extra":{"type":"nimbus-rollout"}},"consolidated-search-configuration-row-desktop-relaunch":{"branch":"rollout","extra":{"type":"nimbus-rollout"}},"long-term-holdback-2024-h2-velocity-desktop":{"branch":"delivery","extra":{"type":"nimbus-nimbus"}},"disable-redirects-for-authretries":{"branch":"control","extra":{"type":"nimbus-rollout"}},"encrypted-client-hello-fallback-mechanism":{"branch":"control","extra":{"type":"nimbus-rollout"}},"tab-hover-preview-release-rollout":{"branch":"control","extra":{"type":"nimbus-rollout"}},"highlighting-in-pdfs-rollout":{"branch":"treatment","extra":{"type":"nimbus-rollout"}},"upgrade-spotlight-rollout":{"branch":"treatment","extra":{"type":"nimbus-rollout"}},"fx-accounts-ping-release-rollout-2":{"branch":"control","extra":{"type":"nimbus-rollout
+$$$$$$ Request Body For Transaction With Id 543 Ended $$$$$$
+
+****** Response Header For Transaction With Id 543 ******
+HTTP/1.1 200 OK
+Server: openresty
+Date: Mon, 30 Sep 2024 22:36:15 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Content-Encoding: gzip
+Via: 1.1 google
+Alt-Svc: clear
+Transfer-Encoding: chunked
+
+
+$$$$$$ Response Header For Transaction With Id 543 Ended $$$$$$
+
+****** Response Body For Transaction With Id 543 ******
+
+$$$$$$ Response Body For Transaction With Id 543 Ended $$$$$$
+
+[Traffic Filtering] Filtering incoming.telemetry.mozilla.org
+****** Request Header For Transaction With Id 546 ******
+POST /submit/firefox-desktop/events/1/1e8c0d3c-83b8-4a5a-916b-a10238372a6a HTTP/1.1
+Host: incoming.telemetry.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+content-encoding: gzip
+content-length: 1058
+content-type: application/json; charset=utf-8
+date: Mon, 30 Sep 2024 22:36:15 GMT
+x-telemetry-agent: Glean/60.4.0 (Rust on Windows)
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 546 Ended $$$$$$
+
+****** Request Body For Transaction With Id 546 ******
+{"ping_info":{"seq":3,"start_time":"2024-09-30T21:12:50.000+03:00","end_time":"2024-10-01T01:34:42.085+03:00","reason":"startup","experiments":{"phc-rollout":{"branch":"rollout","extra":{"type":"nimbus-rollout"}},"backgroundupdate-enable-unelevated-installations-rollout-3-release":{"branch":"enabled","extra":{"type":"nimbus-rollout"}},"consolidated-search-configuration-row-desktop-relaunch":{"branch":"rollout","extra":{"type":"nimbus-rollout"}},"disable-redirects-for-authretries":{"branch":"control","extra":{"type":"nimbus-rollout"}},"encrypted-client-hello-fallback-mechanism":{"branch":"control","extra":{"type":"nimbus-rollout"}},"long-term-holdback-2024-h2-velocity-desktop":{"branch":"delivery","extra":{"type":"nimbus-nimbus"}},"fx-accounts-ping-release-rollout-2":{"branch":"control","extra":{"type":"nimbus-rollout"}},"upgrade-spotlight-rollout":{"branch":"treatment","extra":{"type":"nimbus-rollout"}},"launch-firefox-on-os-restart-treatment-a-rollout":{"branch":"treatment-a","extra":{"type":"nimbus-rollout"
+$$$$$$ Request Body For Transaction With Id 546 Ended $$$$$$
+
+****** Response Header For Transaction With Id 546 ******
+HTTP/1.1 200 OK
+Server: openresty
+Date: Mon, 30 Sep 2024 22:36:15 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Content-Encoding: gzip
+Via: 1.1 google
+Alt-Svc: clear
+Transfer-Encoding: chunked
+
+
+$$$$$$ Response Header For Transaction With Id 546 Ended $$$$$$
+
+****** Response Body For Transaction With Id 546 ******
+
+$$$$$$ Response Body For Transaction With Id 546 Ended $$$$$$
+
+[Traffic Filtering] Filtering incoming.telemetry.mozilla.org
+****** Request Header For Transaction With Id 549 ******
+POST /submit/firefox-desktop/newtab/1/1d6d7c82-3467-4939-aaec-b17cdfc65bb3 HTTP/1.1
+Host: incoming.telemetry.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+content-encoding: gzip
+content-type: application/json; charset=utf-8
+content-length: 1188
+date: Mon, 30 Sep 2024 22:36:15 GMT
+x-telemetry-agent: Glean/60.4.0 (Rust on Windows)
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 549 Ended $$$$$$
+
+****** Request Body For Transaction With Id 549 ******
+{"ping_info":{"seq":17,"start_time":"2024-10-01T01:35:23.000+03:00","end_time":"2024-10-01T01:35:59.120+03:00","reason":"newtab_session_end","experiments":{"extensions-migration-in-import-wizard-116-rollout":{"branch":"control","extra":{"type":"nimbus-rollout"}},"long-term-holdback-2024-h2-velocity-desktop":{"branch":"delivery","extra":{"type":"nimbus-nimbus"}},"phc-rollout":{"branch":"rollout","extra":{"type":"nimbus-rollout"}},"consolidated-search-configuration-row-desktop-relaunch":{"branch":"rollout","extra":{"type":"nimbus-rollout"}},"disable-redirects-for-authretries":{"branch":"control","extra":{"type":"nimbus-rollout"}},"encrypted-client-hello-fallback-mechanism":{"branch":"control","extra":{"type":"nimbus-rollout"}},"tab-hover-preview-release-rollout":{"branch":"control","extra":{"type":"nimbus-rollout"}},"upgrade-spotlight-rollout":{"branch":"treatment","extra":{"type":"nimbus-rollout"}},"highlighting-in-pdfs-rollout":{"branch":"treatment","extra":{"type":"nimbus-rollout"}},"backgroundupdate-enable-
+$$$$$$ Request Body For Transaction With Id 549 Ended $$$$$$
+
+****** Response Header For Transaction With Id 549 ******
+HTTP/1.1 200 OK
+Server: openresty
+Date: Mon, 30 Sep 2024 22:36:15 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Content-Encoding: gzip
+Via: 1.1 google
+Alt-Svc: clear
+Transfer-Encoding: chunked
+
+
+$$$$$$ Response Header For Transaction With Id 549 Ended $$$$$$
+
+****** Response Body For Transaction With Id 549 ******
+
+$$$$$$ Response Body For Transaction With Id 549 Ended $$$$$$
+
+[Traffic Filtering] Filtering incoming.telemetry.mozilla.org
+****** Request Header For Transaction With Id 554 ******
+POST /submit/firefox-desktop/newtab/1/4bf25868-936c-4bb7-99ea-822b3bc2696c HTTP/1.1
+Host: incoming.telemetry.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+content-encoding: gzip
+content-type: application/json; charset=utf-8
+content-length: 523
+date: Mon, 30 Sep 2024 22:36:15 GMT
+x-telemetry-agent: Glean/60.4.0 (Rust on Windows)
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 554 Ended $$$$$$
+
+****** Request Body For Transaction With Id 554 ******
+{"ping_info":{"seq":14,"start_time":"2024-09-30T21:12:54.000+03:00","end_time":"2024-10-01T01:34:42.345+03:00","reason":"component_init"},"client_info":{"telemetry_sdk_build":"60.4.0","windows_build_number":19045,"client_id":"98bfcdf8-c612-46bb-986a-6bf0a53f2f18","app_channel":"release","app_display_version":"130.0.1","locale":"ru","os":"Windows","os_version":"10.0","app_build":"20240913135723","architecture":"x86_64","first_run_date":"2024-09-29+03:00","build_date":"1970-01-01T00:00:00+00:00"},"metrics":{"quantity":{"topsites.rows":1},"boolean":{"newtab.search.enabled":true,"pocket.is_signed_in":false,"topsites.enabled":true,"newtab.weather_enabled":true,"pocket.enabled":true,"pocket.sponsored_stories_enabled":true,"topsites.sponsored_enabled":true},"string":{"search.engine.default.engine_id":"google-com-nocodes","newtab.newtab_category":"enabled","newtab.homepage_category":"enabled","newtab.locale":"ru","search.engine.private.engine_id":""},"string_list":{"newtab.blocked_sponsors":[]}}}
+$$$$$$ Request Body For Transaction With Id 554 Ended $$$$$$
+
+****** Response Header For Transaction With Id 554 ******
+HTTP/1.1 200 OK
+Server: openresty
+Date: Mon, 30 Sep 2024 22:36:16 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Content-Encoding: gzip
+Via: 1.1 google
+Alt-Svc: clear
+Transfer-Encoding: chunked
+
+
+$$$$$$ Response Header For Transaction With Id 554 Ended $$$$$$
+
+****** Response Body For Transaction With Id 554 ******
+
+$$$$$$ Response Body For Transaction With Id 554 Ended $$$$$$
+
+[Traffic Filtering] Filtering push.services.mozilla.com
+****** Request Header For Transaction With Id 565 ******
+GET / HTTP/1.1
+Host: push.services.mozilla.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Sec-WebSocket-Version: 13
+Origin: wss://push.services.mozilla.com/
+Sec-WebSocket-Protocol: push-notification
+Sec-WebSocket-Extensions: permessage-deflate
+Sec-WebSocket-Key: 4iENbeC6iiIuHGyKSVQBIg==
+Connection: keep-alive, Upgrade
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: websocket
+Sec-Fetch-Site: cross-site
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+
+$$$$$$ Request Header For Transaction With Id 565 Ended $$$$$$
+
+****** Response Header For Transaction With Id 565 ******
+HTTP/1.1 101 Switching Protocols
+sec-websocket-accept: Bl/M1uAeIzfR+V7hb9QxicbXkVA=
+date: Mon, 30 Sep 2024 22:36:19 GMT
+Via: 1.1 google
+Upgrade: websocket
+Connection: Upgrade
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+
+$$$$$$ Response Header For Transaction With Id 565 Ended $$$$$$
+
+****** Response Body For Transaction With Id 565 ******
+
+$$$$$$ Response Body For Transaction With Id 565 Ended $$$$$$
+
+[Traffic Filtering] Filtering 34.149.100.209
+[Traffic Filtering] Filtering 34.149.100.209
+[Traffic Filtering] Filtering 34.149.100.209
+[Traffic Filtering] Filtering 34.149.100.209
+[Traffic Filtering] Filtering 34.149.100.209
+[Traffic Filtering] Filtering 34.149.100.209
+[Traffic Filtering] Filtering firefox.settings.services.mozilla.com
+****** Request Header For Transaction With Id 579 ******
+GET /v1/buckets/monitor/collections/changes/changeset?_expected=%221727734884245%22 HTTP/1.1
+Host: firefox.settings.services.mozilla.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 579 Ended $$$$$$
+
+****** Response Header For Transaction With Id 579 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Length: 30545
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, Retry-After, Backoff, Alert, Content-Length
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'none'; frame-ancestors 'none'; base-uri 'none';
+Strict-Transport-Security: max-age=31536000
+Via: 1.1 google
+Date: Mon, 30 Sep 2024 22:25:03 GMT
+Age: 677
+Last-Modified: Mon, 30 Sep 2024 22:21:24 GMT
+Content-Type: application/json
+Cache-Control: public,max-age=3600
+Alt-Svc: clear
+
+
+$$$$$$ Response Header For Transaction With Id 579 Ended $$$$$$
+
+****** Response Body For Transaction With Id 579 ******
+{"metadata":{"bucket":"monitor"},"timestamp":1727734884245,"changes":[{"id":"19e79f22-62cf-92e1-c12c-a3b4b9cf51be","last_modified":1603126502200,"bucket":"blocklists","collection":"plugins","host":"firefox.settings.services.mozilla.com"},{"id":"b7f595f9-5fc5-d863-b5dd-e5425dcf427a","last_modified":1604940558744,"bucket":"blocklists","collection":"addons","host":"firefox.settings.services.mozilla.com"},{"id":"061d4584-acd0-fecc-b5fb-dcfe0ad5e123","last_modified":1624388514784,"bucket":"blocklists","collection":"qa","host":"firefox.settings.services.mozilla.com"},{"id":"3fadb169-e5de-a2f0-374e-6eeb3eac3dbb","last_modified":1692730580117,"bucket":"blocklists","collection":"gfx","host":"firefox.settings.services.mozilla.com"},{"id":"0e543556-43bf-3139-1fda-2a0068116c6d","last_modified":1727384103227,"bucket":"blocklists","collection":"certificates","host":"firefox.settings.services.mozilla.com"},{"id":"c521b443-368f-2e18-a853-066abaa1e9e3","last_modified":1727375761616,"bucket":"blocklists","collection":"addons-bloomfilters","host":"firefox.settings.services.mozilla.com"},{"id":"3ace9d8e-00b5-a353-7fd5-1f081ff482ba","last_modified":1603099530179,"bucket":"blocklists-preview","collection":"plugins","host":"firefox.settings.services.mozilla.com"},{"id":"c6671b58-a04c-2753-1904-decfb584f9ce","last_modified":1604936711141,"bucket":"blocklists-preview","collection":"addons","host":"firefox.settings.services.mozilla.com"},{"id":"e42f495f-e3fb-6d65-4edd-51dd0f3985f3","last_modified":1573556826481,"bucket":"blocklists-preview","collection":"qa","host":"firefox.settings.services.mozilla.com"},{"id":"be77064f-af40-d297-93f9-91e676ec04ea","last_modified":1692730325835,"bucket":"blocklists-preview","collection":"gfx","host":"firefox.settings.services.mozilla.com"},{"id":"5a30bf02-8b01-b6f6-fa9f-c34cdd3a1042","last_modified":1727734884245,"bucket":"main","collection":"nimbus-mobile-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"501583ca-d580-51de-0584-dab08102506d","last_modified":1727734706629,"bucket":"main","collection":"nimbus-desktop-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"380cd5a8-a585-42ef-3ee6-93bc618bcc36","last_modified":1727720830781,"bucket":"main","collection":"nimbus-preview","host":"firefox.settings.services.mozilla.com"},{"id":"0ad92238-e4ce-dd27-57f8-c97134add3c9","last_modified":1544035467383,"bucket":"main","collection":"sites-classification","host":"firefox.settings.services.mozilla.com"},{"id":"0164d8d8-c422-4215-1f5a-70f62b85bf44","last_modified":1562796064168,"bucket":"main","collection":"focus-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"248f8630-6807-ab30-6370-14918dc824c2","last_modified":1564511755134,"bucket":"main","collection":"anti-tracking-url-decoration","host":"firefox.settings.services.mozilla.com"},{"id":"e02dce4c-7a13-3dda-6e62-d6d9084e82f5","last_modified":1569443132800,"bucket":"main","collection":"cfr-srg","host":"firefox.settings.services.mozilla.com"},{"id":"5f39c5e3-7a2a-3868-c29d-e7f11d76d66b","last_modified":1575468539758,"bucket":"main","collection":"public-suffix-list","host":"firefox.settings.services.mozilla.com"},{"id":"0d61e3ec-c708-b839-512a-e09c3f5f1880","last_modified":1581703205374,"bucket":"main","collection":"personality-provider-models","host":"firefox.settings.services.mozilla.com"},{"id":"5b1ab327-5196-0f05-629f-fdd288138d69","last_modified":1593104364892,"bucket":"main","collection":"windows-default-browser-agent","host":"firefox.settings.services.mozilla.com"},{"id":"e535535a-be20-8cb5-d162-ba72b1d81f3f","last_modified":1595950625167,"bucket":"main","collection":"pioneer-study-addons","host":"firefox.settings.services.mozilla.com"},{"id":"3f7e9dcc-c522-ea35-c98b-9334230153aa","last_modified":1600363002708,"bucket":"main","collection":"regions","host":"firefox.settings.services.mozilla.com"},{"id":"2ca9d0dc-f44b-9e48-5f37-37a90600b10f","last_modified":1602876354998,"bucket":"main","collection":"mobile-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"958b14fa-88b0-ec42-8e68-464502a21eb1","last_modified":1603308987530,"bucket":"main","collection":"personality-provider-recipe","host":"firefox.settings.services.mozilla.com"},{"id":"10583668-d3dc-6025-0200-dbcec975ac47","last_modified":1604450883297,"bucket":"main","collection":"pioneer-content-v1","host":"firefox.settings.services.mozilla.com"},{"id":"8451eb15-8141-758c-6dd1-6d9f04146fa9","last_modified":1605801189258,"bucket":"main","collection":"hijack-blocklists","host":"firefox.settings.services.mozilla.com"},{"id":"6fcd379b-83fc-111c-e7f5-c9fa9d7caf25","last_modified":1607042143590,"bucket":"main","collection":"pioneer-study-addons-v1","host":"firefox.settings.services.mozilla.com"},{"id":"a998e5e0-c645-25e4-8306-d22953baacb4","last_modified":1607983636189,"bucket":"main","collection":"pioneer-content-v2","host":"firefox.settings.services.mozilla.com"},{"id":"2652b5c8-7854-2c47-d567-19bbcaae38e5","last_modified":1607983639228,"bucket":"main","collection":"pioneer-study-addons-v2","host":"firefox.settings.services.mozilla.com"},{"id":"1611c176-3998-f3df-07b7-c1858138d48b","last_modified":1617030573137,"bucket":"main","collection":"whats-new-panel","host":"firefox.settings.services.mozilla.com"},{"id":"e4764d29-ebad-2f17-3945-cdff8214f400","last_modified":1627481728329,"bucket":"main","collection":"tippytop","host":"firefox.settings.services.mozilla.com"},{"id":"6f8a35aa-c73e-2e16-bff9-956ee6f17a46","last_modified":1635892651252,"bucket":"main","collection":"nimbus-desktop-defaults","host":"firefox.settings.services.mozilla.com"},{"id":"45a93597-80e3-cc6c-f29c-1ad6e0dd4455","last_modified":1641843848274,"bucket":"main","collection":"rally-studies-v1","host":"firefox.settings.services.mozilla.com"},{"id":"6caeca19-d819-2f9c-cfe3-8b0c1de9b52b","last_modified":1644517845433,"bucket":"main","collection":"search-telemetry","host":"firefox.settings.services.mozilla.com"},{"id":"a252dd48-1252-7149-1c3f-1e82697843af","last_modified":1647549722107,"bucket":"main","collection":"doh-providers","host":"firefox.settings.services.mozilla.com"},{"id":"42830d75-4c14-f884-1ceb-05febc3902b9","last_modified":1651753780606,"bucket":"main","collection":"doh-config","host":"firefox.settings.services.mozilla.com"},{"id":"568454e9-c59e-4b6f-0c12-3dcd53a12296","last_modified":1653469171354,"bucket":"main","collection":"devtools-devices","host":"firefox.settings.services.mozilla.com"},{"id":"7a804898-26d6-ff1b-096a-df6246714e38","last_modified":1659924446436,"bucket":"main","collection":"websites-with-shared-credential-backends","host":"firefox.settings.services.mozilla.com"},{"id":"eb808f2d-5de3-89d6-4252-03823ccaded5","last_modified":1672463216411,"bucket":"main","collection":"rally-studies-v2","host":"firefox.settings.services.mozilla.com"},{"id":"8c581745-110d-0d30-f0f2-fe999bc1fde7","last_modified":1673270322227,"bucket":"main","collection":"language-dictionaries","host":"firefox.settings.services.mozilla.com"},{"id":"71e468d0-8006-a831-873e-64d518cd8515","last_modified":1674595048726,"bucket":"main","collection":"password-recipes","host":"firefox.settings.services.mozilla.com"},{"id":"2c2bcb35-b5f7-e015-b54f-3d60feccf26d","last_modified":1679600032742,"bucket":"main","collection":"password-rules","host":"firefox.settings.services.mozilla.com"},{"id":"4bf857cb-8e73-0d27-ddcf-08f2bb797163","last_modified":1681500405555,"bucket":"main","collection":"translations-identification-models","host":"firefox.settings.services.mozilla.com"},{"id":"8ee6692e-d686-a614-6e4f-23d71b55b7f3","last_modified":1683667257606,"bucket":"main","collection":"fxmonitor-breaches","host":"firefox.settings.services.mozilla.com"},{"id":"e80aaa02-f8ae-a788-8426-059a8c4fcd2e","last_modified":1688747728721,"bucket":"main","collection":"addons-manager-settings","host":"firefox.settings.services.mozilla.com"},{"id":"651e8969-24fa-eb4a-aa3d-d64b894cbe9a","last_modified":1694689843914,"bucket":"main","collection":"query-stripping","host":"firefox.settings.services.mozilla.com"},{"id":"274942c0-0ac3-cabd-0eca-3889bdfa926b","last_modified":1699046525260,"bucket":"main","collection":"cfr","host":"firefox.settings.services.mozilla.com"},{"id":"889a101d-bade-d030-e233-a18beceba9cf","last_modified":1702403047185,"bucket":"main","collection":"partitioning-exempt-urls","host":"firefox.settings.services.mozilla.com"},{"id":"28f0e7fd-7af7-617f-eba3-ba80e5f7148f","last_modified":1705701099603,"bucket":"main","collection":"translations-wasm","host":"firefox.settings.services.mozilla.com"},{"id":"49db3966-ee3d-979b-5014-4011f6d5e79b","last_modified":1709217485713,"bucket":"main","collection":"search-config-overrides","host":"firefox.settings.services.mozilla.com"},{"id":"92c52502-9661-6d8b-9389-f2732f6f5caf","last_modified":1710333238310,"bucket":"main","collection":"search-config-overrides-v2","host":"firefox.settings.services.mozilla.com"},{"id":"aea574eb-2997-6453-0c09-1851fc1b2561","last_modified":1710766850143,"bucket":"main","collection":"search-config","host":"firefox.settings.services.mozilla.com"},{"id":"b482b902-198d-8d2f-16b0-3510f086dceb","last_modified":1711033331878,"bucket":"main","collection":"devtools-news","host":"firefox.settings.services.mozilla.com"},{"id":"03247ba1-6c92-841f-f282-1ee436cc8a1d","last_modified":1715008862535,"bucket":"main","collection":"fingerprinting-protection-overrides","host":"firefox.settings.services.mozilla.com"},{"id":"572c01f9-9f5b-5de0-717b-b4e9a21c9cf0","last_modified":1716487426093,"bucket":"main","collection":"newtab-wallpapers","host":"firefox.settings.services.mozilla.com"},{"id":"301b5e58-eec9-4f1e-2f97-09abedfef627","last_modified":1723136665642,"bucket":"main","collection":"top-sites","host":"firefox.settings.services.mozilla.com"},{"id":"772d1b8b-89e9-bfd6-32ba-a0fc9713179f","last_modified":1724436366651,"bucket":"main","collection":"nimbus-web-preview","host":"firefox.settings.services.mozilla.com"},{"id":"d5795030-b96f-0d09-e315-f8f02cfe2932","last_modified":1719847110309,"bucket":"main","collection":"backup-recovery-download-links","host":"firefox.settings.services.mozilla.com"},{"id":"800de7cf-140e-6617-2685-c0490d8d29cb","last_modified":1720457798358,"bucket":"main","collection":"bounce-tracking-protection-exceptions","host":"firefox.settings.services.mozilla.com"},{"id":"cfe13ca2-8007-1935-aea8-b31c7bcefd8d","last_modified":1721063513248,"bucket":"main","collection":"search-default-override-allowlist","host":"firefox.settings.services.mozilla.com"},{"id":"aebe2560-a214-46a3-e18f-82912d0a7707","last_modified":1721068497119,"bucket":"main","collection":"newtab-wallpapers-v2","host":"firefox.settings.services.mozilla.com"},{"id":"3e829a4c-383d-93ea-bef4-49f2560e1d83","last_modified":1722426875987,"bucket":"main","collection":"backup-common-passwords-list","host":"firefox.settings.services.mozilla.com"},{"id":"8da7db1e-dffb-18c9-2efe-0e9d7459a0f4","last_modified":1727482203183,"bucket":"main","collection":"normandy-recipes","host":"firefox.settings.services.mozilla.com"},{"id":"e9f76a09-1c31-7dce-7c40-8abfbcfb244d","last_modified":1727481670415,"bucket":"main","collection":"normandy-recipes-capabilities","host":"firefox.settings.services.mozilla.com"},{"id":"b39de954-4216-fecc-150f-7a08e837b373","last_modified":1722952002241,"bucket":"main","collection":"search-config-v2","host":"firefox.settings.services.mozilla.com"},{"id":"0b696c37-e442-b92f-65ee-a0123223f224","last_modified":1724163826841,"bucket":"main","collection":"ms-images","host":"firefox.settings.services.mozilla.com"},{"id":"22625625-0f03-7107-1d3e-a8484d109ca7","last_modified":1724852270037,"bucket":"main","collection":"ml-onnx-runtime","host":"firefox.settings.services.mozilla.com"},{"id":"dd040ff6-583c-d16b-2816-5d8079aba996","last_modified":1724867833754,"bucket":"main","collection":"search-telemetry-v2","host":"firefox.settings.services.mozilla.com"},{"id":"ecf46491-801a-ee6b-c771-432925b584da","last_modified":1725526980846,"bucket":"main","collection":"cookie-banner-rules-list","host":"firefox.settings.services.mozilla.com"},{"id":"31ea171e-5558-f27b-3633-67abd4363c52","last_modified":1725548360015,"bucket":"main","collection":"third-party-cookie-blocking-exempt-urls","host":"firefox.settings.services.mozilla.com"},{"id":"6eb5c7d5-d063-34f2-f7f6-0440d029672b","last_modified":1726182473065,"bucket":"main","collection":"content-relevance","host":"firefox.settings.services.mozilla.com"},{"id":"a3c0cb7d-dad1-a596-8cc4-8ceaec428e4b","last_modified":1726816023452,"bucket":"main","collection":"devtools-compatibility-browsers","host":"firefox.settings.services.mozilla.com"},{"id":"714b69f3-69fb-0b5e-9c4a-e73c07aa2858","last_modified":1726821901198,"bucket":"main","collection":"tracking-protection-lists","host":"firefox.settings.services.mozilla.com"},{"id":"9cee02bd-bc7a-cacc-333f-61dbc4575260","last_modified":1726841594653,"bucket":"main","collection":"translations-models","host":"firefox.settings.services.mozilla.com"},{"id":"8e0dffc7-d526-aa8d-759c-0882dfda733c","last_modified":1718898145959,"bucket":"main","collection":"message-groups","host":"firefox.settings.services.mozilla.com"},{"id":"da65fbf9-7ed0-d839-d23a-1dbf9ef6601f","last_modified":1719504277655,"bucket":"main","collection":"search-config-icons","host":"firefox.settings.services.mozilla.com"},{"id":"2567487c-641d-8efe-bf09-4c9ceca0811d","last_modified":1719927826949,"bucket":"main","collection":"urlbar-persisted-search-terms","host":"firefox.settings.services.mozilla.com"},{"id":"2a96d2c2-ee2c-92d9-4415-3996dd1aef47","last_modified":1720004688246,"bucket":"main","collection":"url-classifier-skip-urls","host":"firefox.settings.services.mozilla.com"},{"id":"a7fb0c00-2166-93ab-8261-d6110ffd1212","last_modified":1726769126563,"bucket":"main","collection":"nimbus-secure-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"8b878038-f209-6179-d981-2ebf0a5c0214","last_modified":1726769128879,"bucket":"main","collection":"url-parser-default-unknown-schemes-interventions","host":"firefox.settings.services.mozilla.com"},{"id":"c067f022-492c-fb50-3c8a-5800b383fb5d","last_modified":1725347687296,"bucket":"main","collection":"ml-inference-options","host":"firefox.settings.services.mozilla.com"},{"id":"447cbbca-247c-25ea-e1eb-68e922864d1e","last_modified":1727301251311,"bucket":"main","collection":"nimbus-web-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"3ddbe540-6900-30ef-7853-199a3b4bc6df","last_modified":1727232238201,"bucket":"main","collection":"quicksuggest","host":"firefox.settings.services.mozilla.com"},{"id":"09b4c573-0b2a-e099-cc0c-32f84d78cd59","last_modified":1726599273951,"bucket":"main","collection":"search-categorization","host":"firefox.settings.services.mozilla.com"},{"id":"85fc8c6a-75fc-501e-9d4b-08306b7f81e6","last_modified":1727212608981,"bucket":"main","collection":"moz-essential-domain-fallbacks","host":"firefox.settings.services.mozilla.com"},{"id":"c9a369e7-cbe2-f617-0ebf-c5e892b829e4","last_modified":1725908725774,"bucket":"main","collection":"fakespot-suggest-products","host":"firefox.settings.services.mozilla.com"},{"id":"d7bee3b1-5225-494c-c375-72931c7407bf","last_modified":1726515813541,"bucket":"main","collection":"ms-language-packs","host":"firefox.settings.services.mozilla.com"},{"id":"19f7ec86-7cc3-46d8-21d0-f1aeb80ba2ea","last_modified":1727734862576,"bucket":"main-preview","collection":"nimbus-mobile-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"a0e7d312-12ed-a188-65c4-5e178ca5f261","last_modified":1727734686600,"bucket":"main-preview","collection":"nimbus-desktop-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"a60ac63f-506b-5d85-78a6-443c7e69d09b","last_modified":1727720830564,"bucket":"main-preview","collection":"nimbus-preview","host":"firefox.settings.services.mozilla.com"},{"id":"45bf3f78-8f3f-28f6-5a1d-8a2bb6d3a2b2","last_modified":1727658821388,"bucket":"main-preview","collection":"tracking-protection-lists","host":"firefox.settings.services.mozilla.com"},{"id":"2c434b22-08f9-ed9a-914c-ef5c30ebcb82","last_modified":1544035467383,"bucket":"main-preview","collection":"sites-classification","host":"firefox.settings.services.mozilla.com"},{"id":"e1afa4ff-ea74-d142-eff6-4c5c3d27ce8c","last_modified":1562796064168,"bucket":"main-preview","collection":"focus-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"4ceae968-33e3-b09e-fce7-87edfd15923a","last_modified":1564511755134,"bucket":"main-preview","collection":"anti-tracking-url-decoration","host":"firefox.settings.services.mozilla.com"},{"id":"ad9b4281-cfdf-902c-de11-366a78030ed5","last_modified":1569443132231,"bucket":"main-preview","collection":"cfr-srg","host":"firefox.settings.services.mozilla.com"},{"id":"2e5fede5-45b1-2e91-626c-371c244ad1b2","last_modified":1646406194397,"bucket":"main-preview","collection":"public-suffix-list","host":"firefox.settings.services.mozilla.com"},{"id":"58667b5b-2afa-c9ea-a95d-d6081529dbee","last_modified":1581701665749,"bucket":"main-preview","collection":"personality-provider-models","host":"firefox.settings.services.mozilla.com"},{"id":"3f3cc33f-0a47-9621-ca08-6f1d0d55bb7c","last_modified":1593104012343,"bucket":"main-preview","collection":"windows-default-browser-agent","host":"firefox.settings.services.mozilla.com"},{"id":"9dbb7b11-e456-bb51-2f14-f3a17ef76326","last_modified":1595950571495,"bucket":"main-preview","collection":"pioneer-study-addons","host":"firefox.settings.services.mozilla.com"},{"id":"91607703-59bd-95a1-7734-a987332bc619","last_modified":1591566906097,"bucket":"main-preview","collection":"regions","host":"firefox.settings.services.mozilla.com"},{"id":"23ee4721-520a-33d1-2063-51f8ff4fed96","last_modified":1602780283316,"bucket":"main-preview","collection":"mobile-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"3f33d824-d485-658d-ab8e-f498e6f83c8a","last_modified":1603308808124,"bucket":"main-preview","collection":"personality-provider-recipe","host":"firefox.settings.services.mozilla.com"},{"id":"415edb28-1f34-f530-ecf7-1e243652be16","last_modified":1604442382323,"bucket":"main-preview","collection":"pioneer-content-v1","host":"firefox.settings.services.mozilla.com"},{"id":"cdf5b0ef-a720-05b9-cc9f-ca272d916d46","last_modified":1605800480144,"bucket":"main-preview","collection":"hijack-blocklists","host":"firefox.settings.services.mozilla.com"},{"id":"4367935e-3364-caff-464b-db690e567471","last_modified":1607041879513,"bucket":"main-preview","collection":"pioneer-study-addons-v1","host":"firefox.settings.services.mozilla.com"},{"id":"093951eb-e25b-150b-d55f-a8da62e1e995","last_modified":1607981769164,"bucket":"main-preview","collection":"pioneer-content-v2","host":"firefox.settings.services.mozilla.com"},{"id":"45a0f571-e2c2-dddb-8f21-3d4cd7d909f7","last_modified":1607981725045,"bucket":"main-preview","collection":"pioneer-study-addons-v2","host":"firefox.settings.services.mozilla.com"},{"id":"b4759cb6-c501-cea0-ba70-8ab04c89b171","last_modified":1617029179150,"bucket":"main-preview","collection":"whats-new-panel","host":"firefox.settings.services.mozilla.com"},{"id":"101f5b7a-c0d0-247e-2c0d-0cc89d5ff7c2","last_modified":1627480834563,"bucket":"main-preview","collection":"tippytop","host":"firefox.settings.services.mozilla.com"},{"id":"eaf8523e-8945-a9c0-82dc-313a7cefead3","last_modified":1635891524078,"bucket":"main-preview","collection":"nimbus-desktop-defaults","host":"firefox.settings.services.mozilla.com"},{"id":"ead8cf13-b099-9545-b44c-e03c4270bafd","last_modified":1641843577359,"bucket":"main-preview","collection":"rally-studies-v1","host":"firefox.settings.services.mozilla.com"},{"id":"30f49866-e6b6-6377-1714-d967d46c2cc9","last_modified":1644491477799,"bucket":"main-preview","collection":"search-telemetry","host":"firefox.settings.services.mozilla.com"},{"id":"bcde7ed4-4637-5b47-922e-c8df09ece804","last_modified":1647548788458,"bucket":"main-preview","collection":"doh-providers","host":"firefox.settings.services.mozilla.com"},{"id":"03502cb8-a932-eb71-c910-0a9adb597757","last_modified":1651738492284,"bucket":"main-preview","collection":"doh-config","host":"firefox.settings.services.mozilla.com"},{"id":"bbc8352c-1fd5-7a96-a4d5-332b56d90c3c","last_modified":1653402346692,"bucket":"main-preview","collection":"devtools-devices","host":"firefox.settings.services.mozilla.com"},{"id":"fa35c1eb-3355-f100-ab9a-e4d909948e37","last_modified":1655312479742,"bucket":"main-preview","collection":"websites-with-shared-credential-backends","host":"firefox.settings.services.mozilla.com"},{"id":"d794c574-a4c6-b888-d8d7-96024e07d4b1","last_modified":1672349611696,"bucket":"main-preview","collection":"rally-studies-v2","host":"firefox.settings.services.mozilla.com"},{"id":"9f66a403-06b9-1f49-179b-8bde4f9e1d3a","last_modified":1672846460810,"bucket":"main-preview","collection":"language-dictionaries","host":"firefox.settings.services.mozilla.com"},{"id":"ab724da6-2405-a097-9ca2-e638a61eaca4","last_modified":1673279640190,"bucket":"main-preview","collection":"password-recipes","host":"firefox.settings.services.mozilla.com"},{"id":"cde3c31e-c1b8-b24e-a494-454fdb830abf","last_modified":1679594793364,"bucket":"main-preview","collection":"password-rules","host":"firefox.settings.services.mozilla.com"},{"id":"3f7fc0d0-04af-6c69-dd93-2a29d4243407","last_modified":1681344840786,"bucket":"main-preview","collection":"translations-identification-models","host":"firefox.settings.services.mozilla.com"},{"id":"c2349d3f-a0f0-2550-1e35-ee993f8a1c8d","last_modified":1682640078021,"bucket":"main-preview","collection":"fxmonitor-breaches","host":"firefox.settings.services.mozilla.com"},{"id":"bad6f034-2d51-c5b3-6cc1-a2ff19440327","last_modified":1688675787185,"bucket":"main-preview","collection":"addons-manager-settings","host":"firefox.settings.services.mozilla.com"},{"id":"00b04ed4-cacb-1281-1c64-813c2d1e5714","last_modified":1694689766005,"bucket":"main-preview","collection":"query-stripping","host":"firefox.settings.services.mozilla.com"},{"id":"461e4691-5c0d-5dad-321d-cd9d61a5c640","last_modified":1727211128895,"bucket":"main-preview","collection":"cfr","host":"firefox.settings.services.mozilla.com"},{"id":"d02d3098-a22d-738c-9de1-1a3688e8cda8","last_modified":1702402201064,"bucket":"main-preview","collection":"partitioning-exempt-urls","host":"firefox.settings.services.mozilla.com"},{"id":"347711a1-df95-2461-f315-f36e4c457397","last_modified":1705698918193,"bucket":"main-preview","collection":"translations-wasm","host":"firefox.settings.services.mozilla.com"},{"id":"accb70b3-679a-9d45-ed6f-0f5a845bf850","last_modified":1709157022845,"bucket":"main-preview","collection":"search-config-overrides","host":"firefox.settings.services.mozilla.com"},{"id":"3a960198-3d00-820d-449f-09aff056c65b","last_modified":1710170849382,"bucket":"main-preview","collection":"search-config-overrides-v2","host":"firefox.settings.services.mozilla.com"},{"id":"d6bac357-17c7-e551-94e7-9fb97f908dec","last_modified":1710757058760,"bucket":"main-preview","collection":"search-config","host":"firefox.settings.services.mozilla.com"},{"id":"530bef41-bbef-f783-33e5-b7deb2568002","last_modified":1711033331748,"bucket":"main-preview","collection":"devtools-news","host":"firefox.settings.services.mozilla.com"},{"id":"c90c4f3d-7e2b-b146-ded8-84385fb2e646","last_modified":1714419364737,"bucket":"main-preview","collection":"fingerprinting-protection-overrides","host":"firefox.settings.services.mozilla.com"},{"id":"031decaa-47bd-3d48-b752-1978196eb048","last_modified":1718722597937,"bucket":"main-preview","collection":"newtab-wallpapers","host":"firefox.settings.services.mozilla.com"},{"id":"d5acf05e-c2b7-782b-c5f7-52fd75b10abd","last_modified":1723130676108,"bucket":"main-preview","collection":"top-sites","host":"firefox.settings.services.mozilla.com"},{"id":"cba62179-d21e-aef6-f1ba-0745a83be31a","last_modified":1724436366519,"bucket":"main-preview","collection":"nimbus-web-preview","host":"firefox.settings.services.mozilla.com"},{"id":"eec76038-1880-058e-672b-dea34e735acc","last_modified":1719847110215,"bucket":"main-preview","collection":"backup-recovery-download-links","host":"firefox.settings.services.mozilla.com"},{"id":"ee5f80a9-784c-add7-857f-016be20523a3","last_modified":1720457798276,"bucket":"main-preview","collection":"bounce-tracking-protection-exceptions","host":"firefox.settings.services.mozilla.com"},{"id":"b271319d-3db1-b78c-b058-7a3e7704c80f","last_modified":1721062345952,"bucket":"main-preview","collection":"search-default-override-allowlist","host":"firefox.settings.services.mozilla.com"},{"id":"b5dcf818-f36f-19ad-380a-a6dbeebd08a0","last_modified":1721057260806,"bucket":"main-preview","collection":"newtab-wallpapers-v2","host":"firefox.settings.services.mozilla.com"},{"id":"241130b1-a088-265c-39e2-ad1e1adaf115","last_modified":1722426875836,"bucket":"main-preview","collection":"backup-common-passwords-list","host":"firefox.settings.services.mozilla.com"},{"id":"108456a5-3894-c2e1-f74c-24d098107d80","last_modified":1722942029604,"bucket":"main-preview","collection":"search-config-v2","host":"firefox.settings.services.mozilla.com"},{"id":"5141c7f4-3a3e-d7bd-7cfb-cca1f1796418","last_modified":1724878927202,"bucket":"main-preview","collection":"ms-images","host":"firefox.settings.services.mozilla.com"},{"id":"d2dbd449-2ec9-60e2-b7c8-a384ea7d0878","last_modified":1724852182400,"bucket":"main-preview","collection":"ml-onnx-runtime","host":"firefox.settings.services.mozilla.com"},{"id":"68692045-6d1b-1419-071f-eed1d9f5c262","last_modified":1724720802647,"bucket":"main-preview","collection":"search-telemetry-v2","host":"firefox.settings.services.mozilla.com"},{"id":"fb10b66d-50d9-8e4a-5874-52d7a0a6af01","last_modified":1725494410559,"bucket":"main-preview","collection":"cookie-banner-rules-list","host":"firefox.settings.services.mozilla.com"},{"id":"06026d31-633c-e362-24b4-36b0dd091cd1","last_modified":1725548359879,"bucket":"main-preview","collection":"third-party-cookie-blocking-exempt-urls","host":"firefox.settings.services.mozilla.com"},{"id":"2e2ce4af-06be-5dfe-97aa-4f511a5cf606","last_modified":1726180363239,"bucket":"main-preview","collection":"content-relevance","host":"firefox.settings.services.mozilla.com"},{"id":"1fdae7b7-324d-113c-c10c-c4a4a30aba63","last_modified":1726877106055,"bucket":"main-preview","collection":"devtools-compatibility-browsers","host":"firefox.settings.services.mozilla.com"},{"id":"d7c0fedd-8531-a315-dc68-23c7abac7088","last_modified":1726837958620,"bucket":"main-preview","collection":"translations-models","host":"firefox.settings.services.mozilla.com"},{"id":"9a2e66c0-f96b-fa05-92da-8d62775e102b","last_modified":1718434781891,"bucket":"main-preview","collection":"message-groups","host":"firefox.settings.services.mozilla.com"},{"id":"cea550ab-c8d5-f309-d445-969a81ee51cd","last_modified":1719499750277,"bucket":"main-preview","collection":"search-config-icons","host":"firefox.settings.services.mozilla.com"},{"id":"ef5ddee3-314b-197c-35a1-2943fe96c573","last_modified":1719588521214,"bucket":"main-preview","collection":"urlbar-persisted-search-terms","host":"firefox.settings.services.mozilla.com"},{"id":"4bbeba46-f780-10cb-16ea-2bc48ec77807","last_modified":1717072578555,"bucket":"main-preview","collection":"url-classifier-skip-urls","host":"firefox.settings.services.mozilla.com"},{"id":"4ebcda67-0fb6-46f6-2f1a-6d246923bb48","last_modified":1726769117508,"bucket":"main-preview","collection":"nimbus-secure-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"9d4824c1-5be6-ce43-9ca9-468dd370b054","last_modified":1726749149123,"bucket":"main-preview","collection":"url-parser-default-unknown-schemes-interventions","host":"firefox.settings.services.mozilla.com"},{"id":"071bcd17-1c4d-5cdd-7ff0-b17bef25fb92","last_modified":1725347584594,"bucket":"main-preview","collection":"ml-inference-options","host":"firefox.settings.services.mozilla.com"},{"id":"dfb5c030-b786-15e2-0622-ee8c4856abdb","last_modified":1727301247651,"bucket":"main-preview","collection":"nimbus-web-experiments","host":"firefox.settings.services.mozilla.com"},{"id":"8195b5b2-fd71-f382-9458-5028ef84e90d","last_modified":1727232012173,"bucket":"main-preview","collection":"quicksuggest","host":"firefox.settings.services.mozilla.com"},{"id":"818868b5-18ae-a588-e1d6-8d067a64e5c0","last_modified":1726580945389,"bucket":"main-preview","collection":"search-categorization","host":"firefox.settings.services.mozilla.com"},{"id":"d4f2309b-56a0-a4c2-78cd-f216b1209a81","last_modified":1727212608847,"bucket":"main-preview","collection":"moz-essential-domain-fallbacks","host":"firefox.settings.services.mozilla.com"},{"id":"34d68bb2-6416-0978-cc5b-de1fc1af8382","last_modified":1725904820175,"bucket":"main-preview","collection":"fakespot-suggest-products","host":"firefox.settings.services.mozilla.com"},{"id":"6133f0b4-fe59-a2ad-6839-b159c6dabc9c","last_modified":1726515698532,"bucket":"main-preview","collection":"ms-language-packs","host":"firefox.settings.services.mozilla.com"},{"id":"eae22ba6-631d-fcab-fa53-8a7c5adb39a9","last_modified":1727557031270,"bucket":"security-state","collection":"cert-revocations","host":"firefox.settings.services.mozilla.com"},{"id":"9a0cf117-f8e7-4420-cc60-9fac2c2f6ffa","last_modified":1727510222645,"bucket":"security-state","collection":"intermediates","host":"firefox.settings.services.mozilla.com"},{"id":"4dd906e9-fe4e-fd64-8138-a2c7260b2199","last_modified":1727383809894,"bucket":"security-state","collection":"onecrl","host":"firefox.settings.services.mozilla.com"},{"id":"e0739440-0519-39e8-a5d5-dfef0832cdf9","last_modified":1725293395611,"bucket":"security-state","collection":"ct-logs","host":"firefox.settings.services.mozilla.com"},{"id":"adc73734-8581-67a0-0516-1d0e427a8cbd","last_modified":1727556445522,"bucket":"security-state-preview","collection":"cert-revocations","host":"firefox.settings.services.mozilla.com"},{"id":"7b3f0682-64fd-7b37-3126-3934ea377bcb","last_modified":1727506743110,"bucket":"security-state-preview","collection":"intermediates","host":"firefox.settings.services.mozilla.com"},{"id":"58d1976f-6e75-7728-79da-f4860ed35de5","last_modified":1727370064286,"bucket":"security-state-preview","collection":"onecrl","host":"firefox.settings.services.mozilla.com"},{"id":"f934c73b-822b-89cd-0df5-3eab4878e47e","last_modified":1725036903715,"bucket":"security-state-preview","collection":"ct-logs","host":"firefox.settings.services.mozilla.com"}]}
+$$$$$$ Response Body For Transaction With Id 579 Ended $$$$$$
+
+[Traffic Filtering] Filtering detectportal.firefox.com
+****** Request Header For Transaction With Id 605 ******
+GET /canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 605 Ended $$$$$$
+
+****** Response Header For Transaction With Id 605 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Length: 90
+Via: 1.1 google
+Date: Mon, 30 Sep 2024 03:17:13 GMT
+Age: 69547
+Content-Type: text/html
+Cache-Control: public,must-revalidate,max-age=0,s-maxage=3600
+
+
+$$$$$$ Response Header For Transaction With Id 605 Ended $$$$$$
+
+****** Response Body For Transaction With Id 605 ******
+<meta http-equiv="refresh" content="0;url=https://support.mozilla.org/kb/captive-portal"/>
+$$$$$$ Response Body For Transaction With Id 605 Ended $$$$$$
+
+[Traffic Filtering] Filtering detectportal.firefox.com
+****** Request Header For Transaction With Id 617 ******
+GET /success.txt?ipv4 HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 617 Ended $$$$$$
+
+****** Response Header For Transaction With Id 617 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Length: 8
+Via: 1.1 google
+Date: Mon, 30 Sep 2024 03:37:50 GMT
+Age: 68310
+Content-Type: text/plain
+Cache-Control: public,must-revalidate,max-age=0,s-maxage=3600
+
+
+$$$$$$ Response Header For Transaction With Id 617 Ended $$$$$$
+
+****** Response Body For Transaction With Id 617 ******
+success
+
+$$$$$$ Response Body For Transaction With Id 617 Ended $$$$$$
+
+[Traffic Filtering] Filtering firefox.settings.services.mozilla.com
+****** Request Header For Transaction With Id 619 ******
+GET /v1/buckets/main/collections/nimbus-desktop-experiments/changeset?_expected=1727734706629&_since=%221727715499842%22 HTTP/1.1
+Host: firefox.settings.services.mozilla.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: application/json
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Content-Type: application/json
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 619 Ended $$$$$$
+
+****** Response Header For Transaction With Id 619 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Length: 822
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, Content-Length, Backoff, Alert, Retry-After
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'none'; frame-ancestors 'none'; base-uri 'none';
+Strict-Transport-Security: max-age=31536000
+Via: 1.1 google
+Date: Mon, 30 Sep 2024 22:20:03 GMT
+Last-Modified: Mon, 30 Sep 2024 22:18:26 GMT
+Content-Type: application/json
+Age: 978
+Cache-Control: public,max-age=3600
+Alt-Svc: clear
+
+
+$$$$$$ Response Header For Transaction With Id 619 Ended $$$$$$
+
+****** Response Body For Transaction With Id 619 ******
+{"metadata":{"flags":["startup"],"signature":{"ref":"tr19g0gz79pz8l1qk5bn8xfg","x5u":"https://content-signature-2.cdn.mozilla.net/chains/remote-settings.content-signature.mozilla.org-2024-11-17-16-19-53.chain","mode":"p384ecdsa","type":"contentsignaturepki","signature":"MVXBcqHiwGzwJxPToVc5sZZrO7PJ_OpxWVktjlV80bBPAZBFAg5nn9gEG0hkikql8vOC8cSDMek6mr8dyjArIZP7lE8q2XjdMTuGt3xxl1xzSTXgZ7HEaljdOmf6hZRR","signer_id":"remote-settings","public_key":"MHYwEAYHKoZIzj0CAQYFK4EEACIDYgAE8TQ57KEbLOUqKds8QM9z4v2WRbQTTR505jawiSBhLzGsLgroUDuvd7KswoCECiOFMtqxyUfieFzfMWo9VNUyqfV2mz8lP4ZlEPNf6dnaJkY/RpFjwjzWZ4tNfs1OWaZo"},"id":"nimbus-desktop-experiments","last_modified":1727734706871,"bucket":"main"},"timestamp":1727734706629,"changes":[{"deleted":true,"id":"rollout-sponsored-topsites-in-eu-regions","last_modified":1727734706629}]}
+$$$$$$ Response Body For Transaction With Id 619 Ended $$$$$$
+
+[Traffic Filtering] Filtering content-signature-2.cdn.mozilla.net
+****** Request Header For Transaction With Id 621 ******
+GET /chains/remote-settings.content-signature.mozilla.org-2024-11-17-16-19-53.chain HTTP/1.1
+Host: content-signature-2.cdn.mozilla.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Connection: keep-alive
+If-Modified-Since: Sat, 28 Sep 2024 16:19:54 GMT
+If-None-Match: "e8a8ba16a785936a736227d6d7289044"
+
+
+$$$$$$ Request Header For Transaction With Id 621 Ended $$$$$$
+
+****** Response Header For Transaction With Id 621 ******
+HTTP/1.1 304 Not Modified
+Date: Mon, 30 Sep 2024 21:45:54 GMT
+Age: 3027
+ETag: "e8a8ba16a785936a736227d6d7289044"
+Cache-Control: public,max-age=3600
+Alt-Svc: clear
+
+
+$$$$$$ Response Header For Transaction With Id 621 Ended $$$$$$
+
+[Traffic Filtering] Filtering aus5.mozilla.org
+****** Request Header For Transaction With Id 623 ******
+GET /update/3/GMP/130.0.1/20240913135723/WINNT_x86_64-msvc-x64/ru/release/Windows_NT%252010.0.0.0.19045.4412%2520(x64)/default/default/update.xml HTTP/1.1
+Host: aus5.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 623 Ended $$$$$$
+
+****** Response Header For Transaction With Id 623 ******
+HTTP/1.1 200 OK
+Server: nginx
+Rule-ID: unknown
+Rule-Data-Version: unknown
+Content-Signature: x5u=https://content-signature-2.cdn.mozilla.net/chains/202402/aus.content-signature.mozilla.org-2024-11-02-12-44-24.chain; p384ecdsa=prp0ToMTX5KcmmlQ092AwgkTaOv_F5oukycjlBWoMWXsjacm_DpMgXUiCchjQcOdC-po7vQmL8SRHp-YhV6_4aj5hQeZJHIZFFDDWtWuuZLGUveCotgIcbWUkc3M47o3
+Strict-Transport-Security: max-age=31536000;
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'none'; frame-ancestors 'none'
+X-Proxy-Cache-Status: EXPIRED
+Content-Encoding: gzip
+Via: 1.1 google
+Date: Mon, 30 Sep 2024 22:35:54 GMT
+Content-Type: text/xml; charset=utf-8
+Vary: Accept-Encoding
+Content-Length: 525
+Age: 28
+Cache-Control: public,max-age=90
+Alt-Svc: clear
+
+
+$$$$$$ Response Header For Transaction With Id 623 Ended $$$$$$
+
+****** Response Body For Transaction With Id 623 ******
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-gmpopenh264" URL="http://ciscobinary.openh264.org/openh264-win64-31c4d2e4a037526fd30d4e5c39f60885986cf865.zip" hashFunction="sha512" hashValue="b667086ed49579592d435df2b486fe30ba1b62ddd169f19e700cd079239747dd3e20058c285fa9c10a533e34f22b5198ed9b1f92ae560a3067f3e3feacc724f1" size="491284" version="2.3.2"/>
+        <addon id="gmp-widevinecdm" URL="https://edgedl.me.gvt1.com/edgedl/release2/chrome_component/acccxbt6wwsvpxzpob4hojndwkqq_4.10.2830.0/oimompecagnajdejgnnjijobebaeigek_4.10.2830.0_win64_dldxogwi36sxwpr57ta4lg57z4.crx3" hashFunction="sha512" hashValue="03105dcf804e4713b6ed7c281ad0343ac6d6eb2aed57a897c6a09515a8c7f3e06b344563e224365dc9159cfd8ed3ef665d6aec18cc07aaad66eed0dc4957dde3" size="14507539" version="4.10.2830.0"/>
+    </addons>
+</updates>
+$$$$$$ Response Body For Transaction With Id 623 Ended $$$$$$
+
+****** Request Header For Transaction With Id 627 ******
+POST /cgi-bin/login.pl HTTP/1.1
+Host: localhost:1080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 122
+Origin: http://localhost:1080
+Connection: keep-alive
+Referer: http://localhost:1080/cgi-bin/nav.pl?in=home
+Cookie: MSO=SID&1727735771
+Upgrade-Insecure-Requests: 1
+Priority: u=4
+
+
+$$$$$$ Request Header For Transaction With Id 627 Ended $$$$$$
+
+****** Request Body For Transaction With Id 627 ******
+userSession=139954.294937222HVQiiQQpAtfiDDDDtDVQDpDQtcHf&username=jojo&password=bean&login.x=38&login.y=8&JSFormSubmit=off
+$$$$$$ Request Body For Transaction With Id 627 Ended $$$$$$
+
+****** Response Header For Transaction With Id 627 ******
+HTTP/1.1 200 OK
+Date: Mon, 30 Sep 2024 22:36:40 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Set-Cookie: MTUserInfo=firstName&Jojo&address2&&username&jojo&hash&47&lastName&Bean%0A&address1&&creditCard&&expDate&%0A; path=/
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+
+
+$$$$$$ Response Header For Transaction With Id 627 Ended $$$$$$
+
+****** Response Body For Transaction With Id 627 ******
+<!--
+User password was correct - added a cookie with the user's default
+information.  Set the user up to make reservations...
+
+--->
+
+<html>
+<title>Web Tours</title>
+<frameset cols="160,*" border=1 frameborder=1>
+<frame src="nav.pl?page=menu&in=home" name="navbar" marginheight="2" marginwidth="2" noresize="noresize" scrolling="auto"/>
+<frame src="login.pl?intro=true" name="info" marginheight="2" marginwidth="2" noresize="noresize" scrolling="auto"/>
+</frameset>
+
+</body>
+</html>
+$$$$$$ Response Body For Transaction With Id 627 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/cgi-bin/welcome.pl?signOff=true
+	/cgi-bin/nav.pl?in=home
+	Form: name= action=/cgi-bin/login.pl
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 627 ****** (Location Flag : tFlagInsertEnd, Location ID : 627)
+	web_submit_form("login.pl",
+		"Snapshot=t2.inf",
+		ITEMDATA,
+		"Name=username", "Value=jojo", ENDITEM,
+		"Name=password", "Value=bean", ENDITEM,
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 627 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 411)
+	web_add_auto_header("Priority",
+		"u=4");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 411)
+	web_add_auto_header("Upgrade-Insecure-Requests",
+		"1");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Request Header For Transaction With Id 631 ******
+GET /cgi-bin/nav.pl?page=menu&in=home HTTP/1.1
+Host: localhost:1080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:1080/cgi-bin/login.pl
+Cookie: MSO=SID&1727735771; MTUserInfo=firstName&Jojo&address2&&username&jojo&hash&47&lastName&Bean%0A&address1&&creditCard&&expDate&%0A
+Upgrade-Insecure-Requests: 1
+Priority: u=4
+
+
+$$$$$$ Request Header For Transaction With Id 631 Ended $$$$$$
+
+****** Response Header For Transaction With Id 631 ******
+HTTP/1.1 200 OK
+Date: Mon, 30 Sep 2024 22:36:40 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Sun, 29 Sep 2024 22:36:40 GMT
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+
+
+$$$$$$ Response Header For Transaction With Id 631 Ended $$$$$$
+
+****** Response Body For Transaction With Id 631 ******
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>Web Tours Navigation Bar</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#E0E7F1">
+
+<style>
+	blockquote {font-family: tahoma; font-size : 10pt}
+	H1 {font-family: tahoma; font-size : 22pt; color: #993333}
+	small {font-family: tahoma; font-size : 8pt}
+	H3{font-family: tahoma; font-size : 10pt; color: black}
+	A {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATION: none}
+	A:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DECORATION: underline}
+	TD {font-family: tahoma; font-size : 10pt; color: black}
+</style>
+
+<BR><BR><center>
+
+<br clear="both"/><center><A HREF="welcome.pl?page=search" TARGET="body"><IMG BORDER="0" SRC="/WebTours/images/flights.gif" 
+ALT="Search Flights Button"/></A>
+<br clear="both"/><A HREF="welcome.pl?page=itinerary" TARGET="body"><IMG BORDER="0" SRC="/WebTours/images/itinerary.gif" 
+ALT="Itinerary Button"/></A>
+<br clear="both"/><A HREF="welcome.pl?page=menus" TARGET="body"><IMG BORDER="0" SRC="/WebTours/images/in_home.gif" 
+ALT="Home Button"/></A>
+<br clear><A HREF="welcome.pl?signOff=1" TARGET="body"><IMG BORDER="0" SRC="/WebTours/images/signoff.gif" 
+ALT="SignOff Button"/></A></center>
+
+</body>
+</html>
+
+$$$$$$ Response Body For Transaction With Id 631 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+The Node has no URL
+	/cgi-bin/welcome.pl?signOff=true
+		/cgi-bin/nav.pl?in=home
+		Form: name= action=/cgi-bin/login.pl
+	/cgi-bin/login.pl
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 635 ******
+GET /cgi-bin/login.pl?intro=true HTTP/1.1
+Host: localhost:1080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:1080/cgi-bin/login.pl
+Cookie: MSO=SID&1727735771; MTUserInfo=firstName&Jojo&address2&&username&jojo&hash&47&lastName&Bean%0A&address1&&creditCard&&expDate&%0A
+Upgrade-Insecure-Requests: 1
+Priority: u=4
+
+
+$$$$$$ Request Header For Transaction With Id 635 Ended $$$$$$
+
+****** Response Header For Transaction With Id 635 ******
+HTTP/1.1 200 OK
+Date: Mon, 30 Sep 2024 22:36:40 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+
+
+$$$$$$ Response Header For Transaction With Id 635 Ended $$$$$$
+
+****** Response Body For Transaction With Id 635 ******
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>Welcome to Web Tours</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#E0E7F1">
+<p /><style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-size : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: tahoma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: black}</style><BR/><BR/><BR/><BR/><BR/><blockquote>Welcome, <b>jojo</b>, to the Web Tours reservation pages.<BR/>Using the menu to the left, you can search for new flights to book, 
+or review/edit the flights already booked.  Don't forget to sign off when
+you're done!
+</blockquote>
+</body>
+</html>
+$$$$$$ Response Body For Transaction With Id 635 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+The Node has no URL
+	/cgi-bin/welcome.pl?signOff=true
+		/cgi-bin/nav.pl?in=home
+		Form: name= action=/cgi-bin/login.pl
+	/cgi-bin/login.pl
+		/cgi-bin/nav.pl?page=menu&in=home
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 642 ******
+GET /cgi-bin/welcome.pl?signOff=1 HTTP/1.1
+Host: localhost:1080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home
+Cookie: MSO=SID&1727735771; MTUserInfo=firstName&Jojo&address2&&username&jojo&hash&47&lastName&Bean%0A&address1&&creditCard&&expDate&%0A
+Upgrade-Insecure-Requests: 1
+Priority: u=4
+
+
+$$$$$$ Request Header For Transaction With Id 642 Ended $$$$$$
+
+****** Response Header For Transaction With Id 642 ******
+HTTP/1.1 200 OK
+Date: Mon, 30 Sep 2024 22:36:50 GMT
+Server: Apache/2.2.21 (Win32)
+Set-Cookie: MSO=SID&1727735810; path=/
+Set-Cookie: MTUserInfo=; path=/; expires=Sun, 29-Sep-2024 22:36:50 GMT
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+
+
+$$$$$$ Response Header For Transaction With Id 642 Ended $$$$$$
+
+****** Response Body For Transaction With Id 642 ******
+<!-- 
+ A Session ID has been created and loaded into a cookie called MSO.
+ Also, the server options have been loaded into the cookie called
+ MSO as well.  The server options can be set via the Admin page.
+ --->
+
+<html>
+<title>Web Tours</title>
+   <!-- Frame Set -->
+   <frameset cols="160,*" border="1" frameborder="1">
+      <!-- Navigation Frame -->
+      <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" 
+            noresize="noresize" scrolling="auto"/>
+      <!-- Home Frame -->
+      <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" 
+            noresize="noresize" scrolling="auto"/>
+   </frameset>
+</html>
+
+</body>
+</html>
+$$$$$$ Response Body For Transaction With Id 642 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+The Node has no URL
+	/cgi-bin/welcome.pl?signOff=true
+		/cgi-bin/nav.pl?in=home
+		Form: name= action=/cgi-bin/login.pl
+	/cgi-bin/login.pl
+		/cgi-bin/nav.pl?page=menu&in=home
+		/cgi-bin/login.pl?intro=true
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 642 ****** (Location Flag : tFlagInsertEnd, Location ID : 642)
+	web_image("SignOff Button",
+		"Alt=SignOff Button",
+		"Snapshot=t3.inf",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 642 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 627)
+	web_add_header("Origin",
+		"http://localhost:1080");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Request Header For Transaction With Id 647 ******
+GET /cgi-bin/nav.pl?in=home HTTP/1.1
+Host: localhost:1080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=1
+Cookie: MSO=SID&1727735810
+Upgrade-Insecure-Requests: 1
+Priority: u=4
+
+
+$$$$$$ Request Header For Transaction With Id 647 Ended $$$$$$
+
+****** Response Header For Transaction With Id 647 ******
+HTTP/1.1 200 OK
+Date: Mon, 30 Sep 2024 22:36:50 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Sun, 29 Sep 2024 22:36:51 GMT
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+
+
+$$$$$$ Response Header For Transaction With Id 647 Ended $$$$$$
+
+****** Response Body For Transaction With Id 647 ******
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>Web Tours Navigation Bar</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#E0E7F1">
+<style>
+blockquote {font-family: tahoma; font-size : 10pt}
+H1 {font-family: tahoma; font-size : 22pt; color: #993333}
+H3 {font-family: tahoma; font-size : 10pt; color: black}
+small {font-family: tahoma; font-size : 8pt}
+</style>
+<form method="post" action="/cgi-bin/login.pl" target="body">
+<input type="hidden" name="userSession" value="139954.298096395HVQiiQQpcAiDDDDDtDVQDpDQfcf"/>
+<table border="0"><tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Username</small></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Password</small></td>
+<tr><td>&nbsp;</td>
+<td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="image" name="login" value="Login" alt="Login" border="1" 
+src="/WebTours/images/mer_login.gif"/></td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table><input type="hidden" name="JSFormSubmit" value="off"/>
+</form>
+
+</body>
+</html>
+
+$$$$$$ Response Body For Transaction With Id 647 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+The Node has no URL
+	/cgi-bin/welcome.pl?signOff=true
+		/cgi-bin/nav.pl?in=home
+		Form: name= action=/cgi-bin/login.pl
+	/cgi-bin/welcome.pl?signOff=1
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+

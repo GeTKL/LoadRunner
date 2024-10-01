@@ -1,0 +1,1293 @@
+[API Trapper      (1b0c: f5c)] Recording in 64-bit mode: D:\Program Files\Mozilla Firefox\firefox.exe
+[API Trapper      (1fa0:1900)] Recording in 64-bit mode: D:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer (1fa0:1560)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1fa0:1560)] Load Network Traffic Analyzers:
+[Network Analyzer (1fa0:1560)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1fa0:1560)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (1fa0:1560)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1fa0:1560)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (1fa0:1560)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (1fa0:1560)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (1fa0:1560)]     Analyzer Module: local_server (value=)
+[Network Analyzer (1fa0:1560)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1fa0:1788)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Establish Listener @ 127.0.0.1:23700
+[API Trapper      (2494: 19c)] Recording in 64-bit mode: D:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 127.0.0.1:23700   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (1fa0:1788)] "GET /canonical.html"   
+[Network Analyzer (1fa0:1788)]   (Sid:  3) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  3) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "GET /success.txt?ipv4"   
+[Network Analyzer (1fa0:1788)]   (Sid:  5) Client -> Server @ : 341 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  5) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 8 bytes 
+[Network Analyzer (1fa0:1bdc)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 34.117.188.166:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "GET /success.txt?ipv4"   
+[Network Analyzer (1fa0:1788)]   (Sid:  5) Client -> Server @ : 341 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0: 528)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  5) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 2.23.167.179:80   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "POST /"   
+[Network Analyzer (1fa0:1788)]   (Sid:  7) Client -> Server @ : 462 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  7) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent UC_03_BuyTickets [Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 34.160.144.191:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1d28)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[User action                 ] StartTransactionEvent open_WebTours [Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 34.117.121.53:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1d28)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:21f8)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 142.250.180.74:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:2920)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 35.244.181.201:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:114c)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0: 98c)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1fa0:1a74)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (1fa0:1a74)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1bdc)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "POST /"   
+[Network Analyzer (1fa0:1788)]   (Sid:  7) Client -> Server @ : 462 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  7) Server -> Client : 889 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0: 574)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    (1fa0: 574)] SSLAccept(ssl_id = 1207444977584 = 00000119215437B0) Failed, ctx = 0000011913AC85C0, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (1fa0: 574)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 2.23.167.179:80   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "POST /"   
+[Network Analyzer (1fa0:1788)]   (Sid:  7) Client -> Server @ : 462 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "POST /"   
+[Network Analyzer (1fa0:1788)]   (Sid: 15) Client -> Server @ : 462 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 34.117.188.166:443   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 2.23.167.179:80   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0: 3c0)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1fa0:1788)]   (Sid: 15) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  7) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (1fa0:1788)]   (Sid: 18) Client -> Server @ : 481 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Web Request      (1fa0:1788)] "POST /"   
+[Network Analyzer (1fa0:1788)]   (Sid: 17) Client -> Server @ : 462 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (1fa0: a94)]   (Sid: 24) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1788)]   (Sid: 17) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 2.23.167.179:80   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 5 bytes 
+[Network Analyzer (1fa0:2920)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0: 528)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 2.23.167.179:80   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (1fa0:2794)]   (Sid: 25) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 2.20.255.114:80   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "POST /"   
+[Network Analyzer (1fa0:1788)]   (Sid: 28) Client -> Server @ : 462 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 2.23.167.179:80   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 35.244.181.201:443   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0: 98c)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 35.201.103.21:443   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "GET /"   
+[Network Analyzer (1fa0:1788)]   (Sid: 11) Client -> Server @ : 631 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 28) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:25f0)]   (Sid: 31) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:2568)]   (Sid: 30) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1fa0:15e0)]   (Sid: 32) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1fa0:1788)]   (Sid: 11) Server -> Client : 240 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 18) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 18) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 34.98.75.36:443   (Service=)  (Sid= 33)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "GET /v1/buckets/main/collections/ms-language-packs/records/cfr-v1-ru"   
+[Network Analyzer (1fa0:1788)]   (Sid: 13) Client -> Server @ : 413 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:15e0)]   (Sid: 32) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:2568)]   (Sid: 30) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 13) Server -> Client : 939 bytes (SSL) (Service=HTTP)
+[Net An. Error    (1fa0: 3c0)] SSLAccept(ssl_id = 1207444971424 = 0000011921541FA0) Failed, ctx = 00000119214F4E90, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (1fa0: 3c0)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0: e88)]   (Sid: 33) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:21f8)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]    (Sid: 11) WebSocket handshake detected, switching connection type from HTTP to WebSocket
+[Network Analyzer (1fa0:1788)]   (Sid: 11) Server -> Client : 20 bytes (SSL) (Service=WEBS)
+[Network Analyzer (1fa0:1788)]   (Sid: 11) Connection Terminated (by Server)
+[Network Analyzer (1fa0:1788)]   (Sid: 18) Connection Terminated (by Server)
+[Network Analyzer (1fa0:1788)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 35.244.181.201:443   (Service=)  (Sid= 34)  PROXIED!
+[Web Request      (1fa0:1788)] "GET /chains/remote-settings.content-signature.mozilla.org-2024-10-28-16-16-00.chain"   
+[Network Analyzer (1fa0:1788)]   (Sid:  8) Client -> Server @ : 366 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  8) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1fa0:114c)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  8) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  8) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  8) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:12fc)]   (Sid: 34) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1fa0:1788)]   (Sid:  8) Server -> Client : 322 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 142.251.143.35:80   (Service=)  (Sid= 35)  PROXIED!
+[Net An. Error    (1fa0: a94)] SSLAccept(ssl_id = 1207444983744 = 0000011921544FC0) Failed, ctx = 0000011913AC85C0, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (1fa0: a94)]   (Sid: 24) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer (1fa0:1788)]   (Sid: 24) Connection Terminated (by Client)
+[Web Request      (1fa0:1788)] "GET /v1/"   
+[Network Analyzer (1fa0:1788)]   (Sid: 32) Client -> Server @ : 308 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (1fa0:1788)] "POST /s/wr3/XjA"   
+[Network Analyzer (1fa0:1788)]   (Sid: 35) Client -> Server @ : 464 bytes (Service=HTTP)
+[Network Analyzer (1fa0:12fc)]   (Sid: 34) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 20) Connection Terminated (by Client)
+[Network Analyzer (1fa0:1788)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer (1fa0:1788)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer (1fa0:1788)]   (Sid: 23) Connection Terminated (by Client)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:2794)]   (Sid: 25) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 32) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 32) Server -> Client : 40 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 142.251.143.35:80   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid: 26) Connection Terminated (by Client)
+[Network Analyzer (1fa0:1788)]   (Sid: 27) Connection Terminated (by Client)
+[Network Analyzer (1fa0:1788)]   (Sid: 29) Connection Terminated (by Client)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "GET /update/6/Firefox/130.0.1/20240913135723/WINNT_x86_64-msvc-x64/ru/release/Windows_NT%252010.0.0.0.19045.4412%2520(x64)/ISET%3ASSE4_2%2CMEM%3A6011/default/default/update.xml?force=1"   
+[Network Analyzer (1fa0:1788)]   (Sid: 12) Client -> Server @ : 491 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "POST /wr2"   
+[Network Analyzer (1fa0:1788)]   (Sid: 36) Client -> Server @ : 458 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 35) Server -> Client : 1104 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Web Request      (1fa0:1788)] "POST /"   
+[Network Analyzer (1fa0:1788)]   (Sid: 28) Client -> Server @ : 462 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:25f0)]   (Sid: 31) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 36) Server -> Client : 231 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0: e88)]   (Sid: 33) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1fa0:1788)]   (Sid: 28) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 12) Server -> Client : 411 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 12) Server -> Client : 42 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 192.229.221.95:80   (Service=)  (Sid= 37)  PROXIED!
+[Web Request      (1fa0:1788)] "GET /"   
+[Network Analyzer (1fa0:1788)]   (Sid: 25) Client -> Server @ : 631 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (1fa0:1788)] "POST /"   
+[Network Analyzer (1fa0:1788)]   (Sid: 37) Client -> Server @ : 462 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "GET /update/6/Firefox/130.0.1/20240913135723/WINNT_x86_64-msvc-x64/ru/release/Windows_NT%252010.0.0.0.19045.4412%2520(x64)/ISET%3ASSE4_2%2CMEM%3A6011/default/default/update.xml"   
+[Network Analyzer (1fa0:1788)]   (Sid: 30) Client -> Server @ : 483 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 25) Server -> Client : 240 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 37) Server -> Client : 175 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 30) Server -> Client : 411 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 30) Server -> Client : 42 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 44.236.66.235:443   (Service=)  (Sid= 38)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 34.117.188.166:443   (Service=)  (Sid= 39)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 6 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "POST /"   
+[Network Analyzer (1fa0:1788)]   (Sid: 28) Client -> Server @ : 462 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 192.229.221.95:80   (Service=)  (Sid= 40)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid: 39) Connection Terminated (by Client)
+[Web Request      (1fa0:1788)] "GET /api/v1/classify_client/"   
+[Network Analyzer (1fa0:1788)]   (Sid: 33) Client -> Server @ : 340 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "POST /"   
+[Network Analyzer (1fa0:1788)]   (Sid: 40) Client -> Server @ : 462 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 41)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (1fa0:1788)]   (Sid: 41) Client -> Server @ : 522 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 28) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 40) Server -> Client : 175 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 42)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (1fa0:1788)]    (Sid: 25) WebSocket handshake detected, switching connection type from HTTP to WebSocket
+[Network Analyzer (1fa0:1788)]   (Sid: 25) Server -> Client : 20 bytes (SSL) (Service=WEBS)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 25) Connection Terminated (by Server)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1788)]   (Sid: 33) Server -> Client : 264 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 33) Server -> Client : 64 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 2.20.255.114:80   (Service=)  (Sid= 43)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 5 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 44)  PROXIED!
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 45)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1adc)]   (Sid: 38) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (1fa0:1788)]   (Sid: 41) Server -> Client : 1753 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 41) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 31) Connection Terminated (by Client)
+[Network Analyzer (1fa0:1788)]   (Sid: 34) Connection Terminated (by Client)
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 2.20.255.114:80   (Service=)  (Sid= 46)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 34.160.144.191:443   (Service=)  (Sid= 47)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 2.23.167.179:80   (Service=)  (Sid= 48)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "POST /"   
+[Network Analyzer (1fa0:1788)]   (Sid: 48) Client -> Server @ : 462 bytes (Service=HTTP)
+[Network Analyzer (1fa0:16cc)]   (Sid: 47) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:16cc)]   (Sid: 47) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (1fa0:1788)] "GET /chains/202402/normandy.content-signature.mozilla.org-2024-11-02-12-44-22.chain?cachebust=2017-06-13-21-06"   
+[Network Analyzer (1fa0:1788)]   (Sid: 47) Client -> Server @ : 522 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 47) Server -> Client : 171 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 48) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1adc)]   (Sid: 38) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "POST /downloads?client=navclient-auto-ffox&appver=130.0&pver=2.2"   
+[Network Analyzer (1fa0:1788)]   (Sid: 38) Client -> Server @ : 1130 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 38) Server -> Client : 206 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 38) Connection Terminated (by Server)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 7 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid= 49)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0: 67c)]   (Sid: 49) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0: 67c)]   (Sid: 49) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "GET /"   
+[Network Analyzer (1fa0:1788)]   (Sid: 49) Client -> Server @ : 631 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 49) Server -> Client : 240 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 49) WebSocket handshake detected, switching connection type from HTTP to WebSocket
+[Network Analyzer (1fa0:1788)]   (Sid: 49) Client -> Server @ : 117 bytes (SSL)(Service=WEBS)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 49) Server -> Client : 115 bytes (SSL) (Service=WEBS)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent open_WebTours [Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 43) Connection Terminated (by Client)
+[Network Analyzer (1fa0:1788)]   (Sid: 41) Connection Terminated (by Server)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (1fa0:1788)] "GET /canonical.html"   
+[Network Analyzer (1fa0:1788)]   (Sid:  3) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 42) Connection Terminated (by Client)
+[Network Analyzer (1fa0:1788)]   (Sid:  3) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "GET /success.txt?ipv4"   
+[Network Analyzer (1fa0:1788)]   (Sid:  5) Client -> Server @ : 341 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  5) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 44) Connection Terminated (by Client)
+[Network Analyzer (1fa0:1788)]   (Sid: 45) Connection Terminated (by Client)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 46) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent login [Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 50)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (1fa0:1788)]   (Sid: 50) Client -> Server @ : 730 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 50) Server -> Client : 847 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 50) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (1fa0:1788)]   (Sid: 50) Client -> Server @ : 627 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 51)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (1fa0:1788)]   (Sid: 51) Client -> Server @ : 622 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 50) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 50) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 51) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 51) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent login [Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 50) Connection Terminated (by Server)
+[Network Analyzer (1fa0:1788)]   (Sid: 51) Connection Terminated (by Server)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent open_fligtsPage [Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 52)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer (1fa0:1788)]   (Sid: 52) Client -> Server @ : 641 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 52) Server -> Client : 839 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 52) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Web Request      (1fa0:1788)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer (1fa0:1788)]   (Sid: 52) Client -> Server @ : 644 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 53)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer (1fa0:1788)]   (Sid: 53) Client -> Server @ : 645 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 52) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 52) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 53) Server -> Client : 4235 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 53) Server -> Client : 281 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 53) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent open_fligtsPage [Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 52) Connection Terminated (by Server)
+[Network Analyzer (1fa0:1788)]   (Sid: 53) Connection Terminated (by Server)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent FindFlight [Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 54)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (1fa0:1788)]   (Sid: 54) Client -> Server @ : 976 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 54) Server -> Client : 2683 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 54) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent FindFlight [Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 54) Connection Terminated (by Server)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent FlightPlant [Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 55)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (1fa0:1788)]   (Sid: 55) Client -> Server @ : 869 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 55) Server -> Client : 2957 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 55) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent FlightPlant [Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 55) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent PaymentsForm [Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 5 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 56)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (1fa0:1788)]   (Sid: 56) Client -> Server @ : 1008 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 56) Server -> Client : 2824 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 56) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent PaymentsForm [Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 56) Connection Terminated (by Client)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent logout [Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 57)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (1fa0:1788)]   (Sid: 57) Client -> Server @ : 618 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 57) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 57) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (1fa0:1788)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (1fa0:1788)]   (Sid: 57) Client -> Server @ : 519 bytes (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1560)] Address lookup for DESKTOP-J2DCITM = 172.19.16.1
+[Network Analyzer (1fa0:1560)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 58)  PROXIED!
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid: 57) Server -> Client : 1746 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid: 57) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (1fa0:1788)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent logout [User action                 ] EndTransactionEvent UC_03_BuyTickets 
