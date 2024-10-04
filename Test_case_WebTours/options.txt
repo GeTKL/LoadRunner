@@ -1,9 +1,0 @@
--+
--DCCI
--D_IDA_XL
--DWINNT
--IC:\Users\GeT\Desktop\lr_hw\Скрипты\Test_case_WebTours
--IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ec:\users\get\desktop\lr_hw\скрипты\test_case_webtours\\logfile.log
-c:\users\get\desktop\lr_hw\скрипты\test_case_webtours\\combined_WebTours_Test1.c
-c:\users\get\desktop\lr_hw\скрипты\test_case_webtours\\pre_cci.c

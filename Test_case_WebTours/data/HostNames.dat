@@ -1,9 +1,0 @@
-[hosts]
-localhost=
-detectportal.firefox.com=
-r10.o.lencr.org=
-push.services.mozilla.com=
-aus5.mozilla.org=
-firefox.settings.services.mozilla.com=
-content-signature-2.cdn.mozilla.net=
-ocsp.digicert.com=
