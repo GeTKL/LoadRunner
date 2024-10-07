@@ -1,9 +1,0 @@
--+
--DCCI
--D_IDA_XL
--DWINNT
--IC:\Users\GeT\Desktop\lr_hw\Скрипты\Log_LogOut
--IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ec:\users\get\desktop\lr_hw\скрипты\log_logout\\logfile.log
-c:\users\get\desktop\lr_hw\скрипты\log_logout\\combined_Log_LogOut.c
-c:\users\get\desktop\lr_hw\скрипты\log_logout\\pre_cci.c
