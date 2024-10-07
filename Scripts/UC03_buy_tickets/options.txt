@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\GeT\Desktop\lr_hw\Scripts\UC03_buy_tickets
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\get\desktop\lr_hw\scripts\uc03_buy_tickets\\logfile.log
+c:\users\get\desktop\lr_hw\scripts\uc03_buy_tickets\\combined_UC03_buy_tickets.c
+c:\users\get\desktop\lr_hw\scripts\uc03_buy_tickets\\pre_cci.c

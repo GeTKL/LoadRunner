@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\GeT\Desktop\lr_hw\Scripts\UC02_search_tickets
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\get\desktop\lr_hw\scripts\uc02_search_tickets\\logfile.log
+c:\users\get\desktop\lr_hw\scripts\uc02_search_tickets\\combined_UC02_search_tickets.c
+c:\users\get\desktop\lr_hw\scripts\uc02_search_tickets\\pre_cci.c
