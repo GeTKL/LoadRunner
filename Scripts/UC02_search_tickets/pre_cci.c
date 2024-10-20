@@ -2644,7 +2644,7 @@ Action()
 		"LAST");
 
 	lr_end_transaction("open_webtours",2);
-	lr_think_time(8);
+	lr_think_time(5);
 	lr_start_transaction("login");
 	
 	web_reg_find("Text=Welcome, <b>{login}</b>","LAST");
@@ -2660,7 +2660,7 @@ Action()
 		"LAST");
 
 	lr_end_transaction("login",2);
-	lr_think_time(12);
+	lr_think_time(5);
 	lr_start_transaction("click_flights_page");
 	
 	web_reg_find("Text=<td align\=\"left\">Departure City :</td> <td>", "LAST");
@@ -2679,8 +2679,10 @@ Action()
 		"LAST");
 
 	lr_end_transaction("click_flights_page",2);
-	lr_think_time(8);
+	lr_think_time(5);
 	lr_start_transaction("search_flight");
+	
+	web_reg_save_param_ex("ParamName=outboundFlight","LB=\outboundFlight\" value\=\"","RB=\"","Ordinal=All","LAST");
 	
 	lr_save_string(lr_paramarr_random("Town"), "departCity");
 	do{
@@ -2711,17 +2713,37 @@ Action()
 		"LAST");
 
 	lr_end_transaction("search_flight",2);
-	lr_think_time(4);
-	lr_start_transaction("logout");
+	lr_think_time(5);
+	lr_start_transaction("select_plane");
 	
-	web_reg_find("Text=Welcome to the Web Tours site.","LAST");
+	web_reg_find("Text=<b>Payment Details</font></b>","LAST");
+	lr_save_string(lr_paramarr_random("outboundFlight"),"randomOutBoundFlight");
 
-	web_image("SignOff Button", 
-		"Alt=SignOff Button", 
+	web_submit_form("reservations.pl_2", 
 		"Snapshot=t5.inf", 
+		"ITEMDATA", 
+		"Name=outboundFlight", "Value={randomOutBoundFlight}", "ENDITEM", 
+		"Name=reserveFlights.x", "Value=46", "ENDITEM", 
+		"Name=reserveFlights.y", "Value=10", "ENDITEM", 
+		"Name=numPassengers", "Value=1", "ENDITEM",
+		"Name=seatPref", "Value={setSeatPref}", "ENDITEM",
+		"Name=seatType", "Value={setSeatType}", "ENDITEM",
 		"LAST");
+
+	lr_end_transaction("select_plane",2);
+	lr_start_transaction("open_booking_pages");
 	
-	lr_end_transaction("logout",2);
+	web_reg_find("Text=<title>Flights List</title>\n","LAST");
+
+	web_add_auto_header("Upgrade-Insecure-Requests", 
+		"1");
+
+	web_image("Itinerary Button", 
+		"Alt=Itinerary Button", 
+		"Snapshot=t3.inf", 
+		"LAST");
+
+	lr_end_transaction("open_booking_pages",2);
 	lr_end_transaction("UC02_search_tickets",2);
 
 	return 0;

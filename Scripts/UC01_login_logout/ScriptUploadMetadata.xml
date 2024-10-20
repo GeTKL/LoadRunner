@@ -23,7 +23,23 @@
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="Log_LogOut.prm.bak" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv9QU.393.log" Filter="1" />
+    <FileEntry Name="mdrvB2x.757.log" Filter="1" />
+    <FileEntry Name="mdrvC6G.83.log" Filter="1" />
+    <FileEntry Name="mdrvI4C.611.log" Filter="1" />
+    <FileEntry Name="mdrviFS.773.log" Filter="1" />
+    <FileEntry Name="mdrvjhK.429.log" Filter="1" />
+    <FileEntry Name="mdrvkhM.517.log" Filter="1" />
+    <FileEntry Name="mdrvlGd.895.log" Filter="1" />
+    <FileEntry Name="mdrvMfF.683.log" Filter="1" />
     <FileEntry Name="mdrvNkO.345.log" Filter="1" />
+    <FileEntry Name="mdrvo33.473.log" Filter="1" />
+    <FileEntry Name="mdrvsGU.985.log" Filter="1" />
+    <FileEntry Name="mdrvtGv.567.log" Filter="1" />
+    <FileEntry Name="mdrvTh6.963.log" Filter="1" />
+    <FileEntry Name="mdrvTMe.343.log" Filter="1" />
+    <FileEntry Name="mdrvY4Z.217.log" Filter="1" />
+    <FileEntry Name="mdrvZGq.257.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
     <FileEntry Name="output.bak" Filter="1" />
@@ -32,6 +48,7 @@
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="UC01_login_logout.c.pickle" Filter="1" />
     <FileEntry Name="UC01_login_logout.ci" Filter="1" />
     <FileEntry Name="UC01_login_logout.prm.bak" Filter="1" />

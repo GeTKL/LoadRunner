@@ -14,12 +14,28 @@
     <FileEntry Name="UC05_delete_booking.prm" Filter="2" />
     <FileEntry Name="globals.h" Filter="2" />
     <FileEntry Name="WebSocketBuffer.h" Filter="2" />
+    <FileEntry Name="combined_UC05_delete_booking.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="117983879440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
     <FileEntry Name="DeleteBooking.prm.bak" Filter="1" />
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv3wl.103.log" Filter="1" />
+    <FileEntry Name="mdrv7FQ.647.log" Filter="1" />
+    <FileEntry Name="mdrvce3.435.log" Filter="1" />
+    <FileEntry Name="mdrvDa4.601.log" Filter="1" />
+    <FileEntry Name="mdrvEdN.403.log" Filter="1" />
+    <FileEntry Name="mdrvess.85.log" Filter="1" />
+    <FileEntry Name="mdrvibr.487.log" Filter="1" />
+    <FileEntry Name="mdrvK9d.935.log" Filter="1" />
+    <FileEntry Name="mdrvkhM.517.log" Filter="1" />
+    <FileEntry Name="mdrvL1O.781.log" Filter="1" />
+    <FileEntry Name="mdrvMfF.683.log" Filter="1" />
+    <FileEntry Name="mdrvR4j.127.log" Filter="1" />
+    <FileEntry Name="mdrvrD9.705.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
     <FileEntry Name="output.bak" Filter="1" />
@@ -29,6 +45,9 @@
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />
+    <FileEntry Name="UC05_delete_booking.c.pickle" Filter="1" />
+    <FileEntry Name="UC05_delete_booking.ci" Filter="1" />
+    <FileEntry Name="UC05_delete_booking.prm.bak" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />

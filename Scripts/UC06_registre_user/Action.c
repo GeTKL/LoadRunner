@@ -98,25 +98,6 @@ Action()
 		LAST);
 
 	lr_end_transaction("reg_user",LR_AUTO);
-	lr_think_time(6);
-	lr_start_transaction("logout");
-	
-	web_reg_find("Text=Welcome to the Web Tours site.",LAST);
-
-	web_add_header("Upgrade-Insecure-Requests", 
-		"1");
-
-	web_url("SignOff Button", 
-		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=1", 
-		"TargetFrame=body", 
-		"Resource=0", 
-		"RecContentType=text/html", 
-		"Referer=http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home", 
-		"Snapshot=t12.inf", 
-		"Mode=HTML", 
-		LAST);
-
-	lr_end_transaction("logout",LR_AUTO);
 	lr_end_transaction("UC06_registre_user",LR_AUTO);
 
 	return 0;

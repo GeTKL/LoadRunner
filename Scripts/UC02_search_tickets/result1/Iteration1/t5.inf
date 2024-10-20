@@ -6,32 +6,32 @@ SaveSnapshotResources=1
 FileName11=t1_0_mer_login.gif
 FileName10=t2_1_flights.gif
 RequestHeaderFile=t5_RequestHeader.txt
-RawStepStartTime=1728323886021
+RawStepStartTime=1729434649841
 ContentType=text/html
-RawStepName=SignOff Button
+RawStepName=reservations.pl_2
 FrameIndex2=0.0
 FrameIndex3=0.1
 ResponseHeaderFile=t5_ResponseHeader.txt
-RawStepEndTime=1728323886237
+RawStepEndTime=1729434649966
 UseFrameIndex=1
 SnapshotXmlFile=snapshot_5.xml
 Total=11
-URL1=http://localhost:1080/cgi-bin/welcome.pl?signOff=1
-URL2=http://localhost:1080/cgi-bin/nav.pl?in=home
-URL3=http://localhost:1080/WebTours/home.html
+URL1=http://localhost:1080/cgi-bin/welcome.pl?page=search
+URL2=http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights
+URL3=http://localhost:1080/cgi-bin/reservations.pl
 URL4=http://localhost:1080/WebTours/images/button_next.gif
-URL5=http://localhost:1080/WebTours/images/in_flights.gif
-FileName1=t5.html
-URL6=http://localhost:1080/WebTours/images/home.gif
+URL5=http://localhost:1080/WebTours/images/home.gif
+FileName1=t3.html
+URL6=http://localhost:1080/WebTours/images/in_flights.gif
 URL7=http://localhost:1080/WebTours/images/signoff.gif
 FileName3=t5f1.html
 URL8=http://localhost:1080/WebTours/images/in_home.gif
 URL9=http://localhost:1080/WebTours/images/itinerary.gif
-FileName2=t5f0.html
-FileName5=t3_6_in_flights.gif
+FileName2=t3f0.html
+FileName5=t3_6_home.gif
 FileName4=t3_7_button_next.gif
 FileName7=t2_4_signoff.gif
-FileName6=t3_5_home.gif
+FileName6=t3_5_in_flights.gif
 FileName9=t2_2_itinerary.gif
 FileName8=t2_3_in_home.gif
-StepName=Image: SignOff Button
+StepName=Submit Form: reservations.pl_2
