@@ -6,68 +6,55 @@
                 "stepId": "STEP1",
                 "stepName": "Url: welcome.pl",
                 "infFile": "t1.inf",
-                "time": 1728329461452
+                "time": 1729434694852
             },
             {
                 "stepId": "STEP2",
                 "stepName": "Url: login.pl",
                 "infFile": "t2.inf",
-                "time": 1728329461966
+                "time": 1729434695188
             },
             {
                 "stepId": "STEP3",
                 "stepName": "Submit Data: login.pl_2",
                 "infFile": "t3.inf",
-                "time": 1728329462650
+                "time": 1729434695715
             },
             {
                 "stepId": "STEP4",
                 "stepName": "Url: button_next.gif",
                 "infFile": "t4.inf",
-                "time": 1728329463207
-            },
-            {
-                "stepId": "STEP5",
-                "stepName": "Url: SignOff Button",
-                "infFile": "t5.inf",
-                "time": 1728329464601
+                "time": 1729434696032
             }
         ],
         "transactions": [
             {
                 "transactionName": "open_webtours",
-                "rawStartTime": 1728329460168,
-                "rawEndTime": 1728329461475,
+                "rawStartTime": 1729434694192,
+                "rawEndTime": 1729434694884,
                 "thinkTime": 0.0,
-                "wastedTime": 0.35002613067626955
+                "wastedTime": 0.2891685962677002
             },
             {
                 "transactionName": "open_reg_page",
-                "rawStartTime": 1728329461508,
-                "rawEndTime": 1728329461981,
+                "rawStartTime": 1729434694915,
+                "rawEndTime": 1729434695196,
                 "thinkTime": 0.0,
-                "wastedTime": 0.015019893646240235
+                "wastedTime": 0.010687828063964844
             },
             {
                 "transactionName": "reg_user",
-                "rawStartTime": 1728329461997,
-                "rawEndTime": 1728329463221,
+                "rawStartTime": 1729434695212,
+                "rawEndTime": 1729434696036,
                 "thinkTime": 0.0,
-                "wastedTime": 0.028337717056274415
-            },
-            {
-                "transactionName": "logout",
-                "rawStartTime": 1728329463602,
-                "rawEndTime": 1728329464639,
-                "thinkTime": 0.0,
-                "wastedTime": 0.012974977493286133
+                "wastedTime": 0.01766371726989746
             },
             {
                 "transactionName": "UC06_registre_user",
-                "rawStartTime": 1728329460152,
-                "rawEndTime": 1728329464654,
+                "rawStartTime": 1729434694176,
+                "rawEndTime": 1729434696051,
                 "thinkTime": 0.0,
-                "wastedTime": 0.4063587188720703
+                "wastedTime": 0.3175201416015625
             }
         ]
     }

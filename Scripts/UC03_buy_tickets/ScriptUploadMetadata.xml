@@ -26,7 +26,24 @@
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="lrw_custom_body.h" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv0Gy.361.log" Filter="1" />
+    <FileEntry Name="mdrv9PJ.437.log" Filter="1" />
+    <FileEntry Name="mdrvdmf.899.log" Filter="1" />
+    <FileEntry Name="mdrvFlC.441.log" Filter="1" />
+    <FileEntry Name="mdrvHHF.927.log" Filter="1" />
+    <FileEntry Name="mdrvK8s.363.log" Filter="1" />
+    <FileEntry Name="mdrvKOF.37.log" Filter="1" />
+    <FileEntry Name="mdrvLPO.355.log" Filter="1" />
+    <FileEntry Name="mdrvMBI.775.log" Filter="1" />
     <FileEntry Name="mdrvMio.253.log" Filter="1" />
+    <FileEntry Name="mdrvMlG.155.log" Filter="1" />
+    <FileEntry Name="mdrvNGd.247.log" Filter="1" />
+    <FileEntry Name="mdrvNjN.199.log" Filter="1" />
+    <FileEntry Name="mdrvOIF.857.log" Filter="1" />
+    <FileEntry Name="mdrvsmk.701.log" Filter="1" />
+    <FileEntry Name="mdrvUxt.933.log" Filter="1" />
+    <FileEntry Name="mdrvVJR.901.log" Filter="1" />
+    <FileEntry Name="mdrvXd0.245.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
     <FileEntry Name="output.bak" Filter="1" />
@@ -35,9 +52,11 @@
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="UC03_buytickets.prm.bak" Filter="1" />
     <FileEntry Name="UC03_buy_tickets.c.pickle" Filter="1" />
     <FileEntry Name="UC03_buy_tickets.ci" Filter="1" />
+    <FileEntry Name="UC03_buy_tickets.prm.bak" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />

@@ -14,6 +14,9 @@
     <FileEntry Name="UC04_check_booking_pages.prm" Filter="2" />
     <FileEntry Name="globals.h" Filter="2" />
     <FileEntry Name="WebSocketBuffer.h" Filter="2" />
+    <FileEntry Name="combined_UC04_check_booking_pages.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="67077007440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
@@ -21,6 +24,23 @@
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="lrw_custom_body.h" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv2Sk.487.log" Filter="1" />
+    <FileEntry Name="mdrv6hK.79.log" Filter="1" />
+    <FileEntry Name="mdrv9vq.961.log" Filter="1" />
+    <FileEntry Name="mdrvDfk.461.log" Filter="1" />
+    <FileEntry Name="mdrvFCB.349.log" Filter="1" />
+    <FileEntry Name="mdrvhZx.303.log" Filter="1" />
+    <FileEntry Name="mdrvJts.461.log" Filter="1" />
+    <FileEntry Name="mdrvkVh.733.log" Filter="1" />
+    <FileEntry Name="mdrvLA5.743.log" Filter="1" />
+    <FileEntry Name="mdrvmtJ.409.log" Filter="1" />
+    <FileEntry Name="mdrvmXl.727.log" Filter="1" />
+    <FileEntry Name="mdrvNhr.295.log" Filter="1" />
+    <FileEntry Name="mdrvPo4.863.log" Filter="1" />
+    <FileEntry Name="mdrvrjJ.235.log" Filter="1" />
+    <FileEntry Name="mdrvuUK.605.log" Filter="1" />
+    <FileEntry Name="mdrvX2y.459.log" Filter="1" />
+    <FileEntry Name="mdrvXRt.939.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="openBookingPages.prm.bak" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
@@ -30,6 +50,10 @@
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
+    <FileEntry Name="UC04_check_booking_pages.c.pickle" Filter="1" />
+    <FileEntry Name="UC04_check_booking_pages.ci" Filter="1" />
+    <FileEntry Name="UC04_check_booking_pages.prm.bak" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />

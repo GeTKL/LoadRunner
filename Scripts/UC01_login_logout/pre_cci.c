@@ -2646,7 +2646,7 @@ Action()
 	 
 
 	lr_end_transaction("open_webtours",2);
-	lr_think_time(8);
+	lr_think_time(5);
 	lr_start_transaction("login");
 	
 	web_reg_find("Text=Welcome, <b>{login}</b>","LAST");
@@ -2662,7 +2662,6 @@ Action()
 		"LAST");
 
 	lr_end_transaction("login",2);
-	lr_think_time(9);
 	lr_start_transaction("logout");
 	
 	web_reg_find("Text=Welcome to the Web Tours site.","LAST");

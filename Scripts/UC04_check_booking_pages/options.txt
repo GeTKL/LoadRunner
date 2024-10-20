@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IC:\Users\GeT\Desktop\lr_hw\Scripts\openBookingPages
+-IC:\Users\GeT\Desktop\lr_hw\Scripts\UC04_check_booking_pages
 -IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ec:\users\get\desktop\lr_hw\scripts\openbookingpages\\logfile.log
-c:\users\get\desktop\lr_hw\scripts\openbookingpages\\combined_openBookingPages.c
-c:\users\get\desktop\lr_hw\scripts\openbookingpages\\pre_cci.c
+-ec:\users\get\desktop\lr_hw\scripts\uc04_check_booking_pages\\logfile.log
+c:\users\get\desktop\lr_hw\scripts\uc04_check_booking_pages\\combined_UC04_check_booking_pages.c
+c:\users\get\desktop\lr_hw\scripts\uc04_check_booking_pages\\pre_cci.c

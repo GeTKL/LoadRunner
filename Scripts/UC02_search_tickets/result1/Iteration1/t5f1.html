@@ -1,40 +1,16 @@
-<HTML>
-<HEAD>
-	<title>Web Tours</title>
-</HEAD>
-<style>
-	blockquote {font-family: tahoma; font-size : 10pt}
-	H1 {font-family: tahoma; font-size : 22pt; color: #003366}
-	small {font-family: tahoma; font-size : 8pt}
-	H3{font-family: tahoma; font-size : 10pt; color: black}
-	A {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATION: none}
-	A:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DECORATION: underline}
-	TD {font-family: tahoma; font-size : 10pt; color: black}
-</style>
-<body bgcolor="#e0e7f1">
-<BR/>
-<BR/>
-<BR/>
-<br/>
-<table border="0">
-<tr><td></td></tr>
-<TR><TD></TD></TR>
-<TR><TD>
-<blockquote>
-<H1><b>Web Tours</b></H1>
-Welcome to the Web Tours site.
-<br/>
-To make reservations,please enter your account information to the left.
-<br/>
-If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getInfo=true" ><B>sign up now</B></A> to get access to all our resources.
-<br/>
-To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>administration</b></A> link.
-<br/><br/><br/><br/><br/><br/>
-<br/><small>
-This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imatix.com" target="new"><B><small>iMatix Corporation</small></B></A> 
-</small>
-</blockquote></TD>
-<TD></TD></TR>
-</table>
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>Flight Reservation</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#E0E7F1">
+<style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-size : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: tahoma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: black}</style><BR/><BR/><h1><font color="#003366">&nbsp;&nbsp;<b>Payment Details</font></b></h1><blockquote><form method="post" action="reservations.pl" enctype="application/x-www-form-urlencoded" onsubmit="return true ;">
+<table><tr><td align="right">First Name : <td><input type="text" name="firstName"  size="15" /><tr><td align="right">Last Name : <td><input type="text" name="lastName" value="&#10;" size="15" /><tr><td align="right">Street Address : <td colspan="3"><input type="text" name="address1"  size="30" /><tr><td align="right">City/State/Zip : <td colspan="3"><input type="text" name="address2"  size="30" /><tr><td align="right">Passenger Names : <td colspan="3"><input type="text" name="pass1" value=" &#10;" size="30" /><tr><td height="10"><tr><td height="10" align="center" colspan="4">Total for 1 ticket(s) is = $ 635<tr><td align="right">Credit Card : <td><input type="text" name="creditCard"  size="20" maxlength="20" /><td align="right">Exp Date : <td><input type="text" name="expDate" value="&#10;" size="5" maxlength="5" /><tr><TD><td colspan="3" align="left"><label><input type="checkbox" name="saveCC" value="on" />Save this Credit Card Information</label><input type="hidden" name="oldCCOption" value=""  /></table><input type="hidden" name="numPassengers" value="1"  /><input type="hidden" name="seatType" value="First"  /><input type="hidden" name="seatPref" value="None"  /><input type="hidden" name="outboundFlight" value="200;635;10/21/2024"  /><input type="hidden" name="advanceDiscount" value="0"  /><input type="hidden" name="returnFlight" value=""  /><input type="hidden" name="JSFormSubmit" value="off"  /><center><table width=80% cellspacing=1><tr><td align=center>
+<input type="image" name="buyFlights" src="/WebTours/images/button_next.gif" border="0" /><div><input type="hidden" name=".cgifields" value="saveCC"  /></div></form>
+<td>&nbsp;<td align=center><form method="post" action="reservations.pl" enctype="application/x-www-form-urlencoded" onsubmit="void(0);">
+</form></table></center></blockquote>
 </body>
-</HTML>
+</html>
