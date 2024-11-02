@@ -1,0 +1,176 @@
+Action.c(110):     Set-Cookie: MTUserInfo=; path=/; expires=Sun, 20-Oct-2024 20:27:07 GMT\r\n
+Action.c(110):     Keep-Alive: timeout=5, max=99\r\n
+Action.c(110):     Connection: Keep-Alive\r\n
+Action.c(110):     Transfer-Encoding: chunked\r\n
+Action.c(110):     Content-Type: text/html; charset=ISO-8859-1\r\n
+Action.c(110):     \r\n
+Action.c(110): t=3835157ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=985)
+Action.c(110):     2ae\r\n
+Action.c(110): t=3835157ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=985)
+Action.c(110):     \r\n
+Action.c(110): t=3835157ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=985)
+Action.c(110):     <!-- \n
+Action.c(110):      A Session ID has been created and loaded into a cookie called MSO.\n
+Action.c(110):      Also, the server options have been loaded into the cookie called\n
+Action.c(110):      MSO as well.  The server options can be set via the Admin page.\n
+Action.c(110):      --->\n
+Action.c(110):     \n
+Action.c(110):     <html>\n
+Action.c(110):     <title>Web Tours</title>\n
+Action.c(110):        <!-- Frame Set -->\n
+Action.c(110):        <frameset cols="160,*" border="1" frameborder="1">\n
+Action.c(110):           <!-- Navigation Frame -->\n
+Action.c(110):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+Action.c(110):                 noresize="noresize" scrolling="auto"/>\n
+Action.c(110):           <!-- Home Frame -->\n
+Action.c(110):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+Action.c(110):                 noresize="noresize" scrolling="auto"/>\n
+Action.c(110):        </frameset>\n
+Action.c(110):     </html>\n
+Action.c(110):     \n
+Action.c(110):     </body>\n
+Action.c(110):     </html>
+Action.c(110): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+Action.c(110): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+Action.c(110): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+Action.c(110): t=3835158ms: 1361-byte response body retrieved from cache for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2, Internal ID=987)
+Action.c(110):     <HTML>\n
+Action.c(110):     <HEAD>\n
+Action.c(110):     \t<title>Web Tours</title>\n
+Action.c(110):     </HEAD>\n
+Action.c(110):     <style>\n
+Action.c(110):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+Action.c(110):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+Action.c(110):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+Action.c(110):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+Action.c(110):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+Action.c(110):     N: none}\n
+Action.c(110):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+Action.c(110):     CORATION: underline}\n
+Action.c(110):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+Action.c(110):     </style>\n
+Action.c(110):     <body bgcolor="#e0e7f1">\n
+Action.c(110):     <BR/>\n
+Action.c(110):     <BR/>\n
+Action.c(110):     <BR/>\n
+Action.c(110):     <br/>\n
+Action.c(110):     <table border="0">\n
+Action.c(110):     <tr><td></td></tr>\n
+Action.c(110):     <TR><TD></TD></TR>\n
+Action.c(110):     <TR><TD>\n
+Action.c(110):     <blockquote>\n
+Action.c(110):     <H1><b>Web Tours</b></H1>\n
+Action.c(110):     Welcome to the Web Tours site.\n
+Action.c(110):     <br/>\n
+Action.c(110):     To make reservations,please enter your account information to the left.\n
+Action.c(110):     <br/>\n
+Action.c(110):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+Action.c(110):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+Action.c(110):     <br/>\n
+Action.c(110):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+Action.c(110):     tration</b></A> link.\n
+Action.c(110):     <br/><br/><br/><br/><br/><br/>\n
+Action.c(110):     <br/><small>\n
+Action.c(110):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+Action.c(110):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+Action.c(110):     </small>\n
+Action.c(110):     </blockquote></TD>\n
+Action.c(110):     <TD></TD></TR>\n
+Action.c(110):     </table>\n
+Action.c(110):     </body>\n
+Action.c(110):     </HTML>\n
+Action.c(110): t=3835159ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=985)
+Action.c(110):     0\r\n
+Action.c(110):     \r\n
+Action.c(110): t=3835160ms: Request done "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26000]
+Action.c(110): t=3835160ms: Connecting [1] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(110): t=3835160ms: Connected socket [1] from 127.0.0.1:24947 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+Action.c(110): t=3835160ms: 413-byte request headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=986)
+Action.c(110):     GET /cgi-bin/nav.pl?in=home HTTP/1.1\r\n
+Action.c(110):     Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=1\r\n
+Action.c(110):     Priority: u=4\r\n
+Action.c(110):     Upgrade-Insecure-Requests: 1\r\n
+Action.c(110):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130
+Action.c(110):     .0\r\n
+Action.c(110):     Accept-Encoding: gzip, deflate\r\n
+Action.c(110):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+Action.c(110):     Accept: */*\r\n
+Action.c(110):     Connection: Keep-Alive\r\n
+Action.c(110):     Host: localhost:1080\r\n
+Action.c(110):     Cookie: MSO=SID&1729542427\r\n
+Action.c(110):     \r\n
+Action.c(110): t=3835224ms: 256-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=986)
+Action.c(110):     HTTP/1.1 200 OK\r\n
+Action.c(110):     Date: Mon, 21 Oct 2024 20:27:07 GMT\r\n
+Action.c(110):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(110):     Expires: Sun, 20 Oct 2024 20:27:07 GMT\r\n
+Action.c(110):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(110):     Connection: Keep-Alive\r\n
+Action.c(110):     Transfer-Encoding: chunked\r\n
+Action.c(110):     Content-Type: text/html; charset=ISO-8859-1\r\n
+Action.c(110):     \r\n
+Action.c(110): t=3835224ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=986)
+Action.c(110):     5d2\r\n
+Action.c(110): t=3835225ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=986)
+Action.c(110):     \r\n
+Action.c(110): t=3835225ms: 1490-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=986)
+Action.c(110):     <!DOCTYPE html\n
+Action.c(110):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+Action.c(110):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+Action.c(110):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+Action.c(110):     <head>\n
+Action.c(110):     <title>Web Tours Navigation Bar</title>\n
+Action.c(110):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+Action.c(110):     </head>\n
+Action.c(110):     <body bgcolor="#E0E7F1">\n
+Action.c(110):     <style>\n
+Action.c(110):     blockquote {font-family: tahoma; font-size : 10pt}\n
+Action.c(110):     H1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+Action.c(110):     H3 {font-family: tahoma; font-size : 10pt; color: black}\n
+Action.c(110):     small {font-family: tahoma; font-size : 8pt}\n
+Action.c(110):     </style>\n
+Action.c(110):     <form method="post" action="/cgi-bin/login.pl" target="body">\n
+Action.c(110):     <input type="hidden" name="userSession" value="140100.642122317HcAztczpHHQVzzzHtDcDipfzAzH
+Action.c(110):     f"/>\n
+Action.c(110):     <table border="0"><tr><td>&nbsp;</td>\n
+Action.c(110):     <td>&nbsp;</td></tr>\n
+Action.c(110):     <tr><td>&nbsp;</td>\n
+Action.c(110):     <td>&nbsp;</td></tr>\n
+Action.c(110):     <tr><td>&nbsp;</td>\n
+Action.c(110):     <td><small>&nbsp;Username</small></td></tr>\n
+Action.c(110):     <tr><td>&nbsp;</td>\n
+Action.c(110):     <td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>\n
+Action.c(110):     <tr><td>&nbsp;</td>\n
+Action.c(110):     <td><small>&nbsp;Password</small></td>\n
+Action.c(110):     <tr><td>&nbsp;</td>\n
+Action.c(110):     <td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>\n
+Action.c(110):     <tr><td>&nbsp;</td>\n
+Action.c(110):     <td>&nbsp;</td></tr>\n
+Action.c(110):     <tr><td>&nbsp;</td>\n
+Action.c(110):     <td><input type="image" name="login" value="Login" alt="Login" border="1" \n
+Action.c(110):     src="/WebTours/images/mer_login.gif"/></td></tr>\n
+Action.c(110):     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n
+Action.c(110):     </table><input type="hidden" name="JSFormSubmit" value="off"/>\n
+Action.c(110):     </form>\n
+Action.c(110):     \n
+Action.c(110):     </body>\n
+Action.c(110):     </html>\n
+Action.c(110): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(110): t=3835229ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=986)
+Action.c(110):     0\r\n
+Action.c(110):     \r\n
+Action.c(110): t=3835229ms: Request done "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26000]
+Action.c(110): Registered web_reg_find successful for "Text=Welcome to the Web Tours site." (count=1)  	[MsgId: MMSG-26364]
+Action.c(110): web_url("welcome.pl_2") was successful, 2176 body bytes, 583 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(119): Notify: Transaction "logout" ended with a "Pass" status (Duration: 0.1295 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Action.c(120): Notify: Transaction "UC05_delete_booking" ended with a "Pass" status (Duration: 77.6518 Think Time: 15.0540 Wasted Time: 0.2455).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Action.c(93): t=3835255ms: Closed connection [0] to localhost:1080 after completing 2 request(s)  	[MsgId: MMSG-26000]
+Action.c(93): t=3835255ms: Closed connection [1] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=184, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 1 (thread 2536), ended OK."	[MsgId: MMSG-10695]

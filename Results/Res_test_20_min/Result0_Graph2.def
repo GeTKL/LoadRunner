@@ -29,7 +29,7 @@ ActionClearFilterEnabled=0
 ChartFile=C:\Users\GeT\Desktop\lr_hw\Results\Res_test_20_min\Result0_Graph2.cfg
 View3D=0
 IntLegendVisible=0
-Chart3dPercent=10
+Chart3dPercent=1
 Pen_Style=0
 Pen_SmallDots=0
 Pen_Visible=1
@@ -40,7 +40,7 @@ DefaultDisplayType=Line
 UserGranularity=1
 RoundBarValues=0
 GraphDataCol1=
-TableName=T112658776T
+TableName=T5479298T
 BasicTableName=
 AbsoluteTime=0
 DisableFilter=0
@@ -118,7 +118,7 @@ DimeFuncCount=0
 [Granularity]
 Dimension=Scenario Elapsed Time
 TimeScaleType=2
-Granularity=32
+Granularity=8
 BaseGranularityUIName=Throughput
 MinimumDefaultGranularity=5
 

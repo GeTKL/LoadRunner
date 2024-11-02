@@ -1,7 +1,36 @@
 ﻿[ErrorsDataSupervisor_BasicInfo]
-NumFilters=1
+NumFilters=2
 
 [AdditionalFilter0]
+DimensionType=Discrete
+InternalDimName=Event Name
+Dimension=Transaction Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=18
+UseEscapeSequence=1
+DimCount=18
+Dim_0=Action_Transaction
+Dim_1=click_flights_page
+Dim_2=delete_booking
+Dim_3=login
+Dim_4=logout
+Dim_5=open_booking_pages
+Dim_6=open_reg_page
+Dim_7=open_webtours
+Dim_8=payments_form
+Dim_9=reg_user
+Dim_10=search_flight
+Dim_11=select_plane
+Dim_12=UC01_login_logout
+Dim_13=UC02_search_tickets
+Dim_14=UC03_buy_tickets
+Dim_15=UC04_check_booking_pages
+Dim_16=UC05_delete_booking
+Dim_17=UC06_registre_user
+LikeMode=0
+
+[AdditionalFilter1]
 DimensionType=Continuous
 InternalDimName=End Time
 Dimension=Scenario Elapsed Time
